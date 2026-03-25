@@ -1,0 +1,12 @@
+# Copy to .envrc in repository root and run: direnv allow
+
+# Project-local Go settings
+export GO111MODULE=on
+
+# Optional private module settings (uncomment if needed)
+# export GOPRIVATE=github.com/<your-org>/*
+# export GONOSUMDB=github.com/<your-org>/*
+
+# Helpful aliases
+alias gor='go run'
+alias got='go test ./...'
