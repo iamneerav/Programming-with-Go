@@ -54,8 +54,8 @@ func main() {
 	b1 := book{title: "The Great Gatsby"}
 	c1 := count(5)
 
-	log.Println(b1.String())
-	log.Println(c1.String())
+	log.Println(b1.String()) // We call the function String() + type  struct "book" which has has instance "b1" and it will return the string representation of the type "book" which is "Book Title is The Great Gatsby"
+	log.Println(c1.String()) // We call the function String() + type  struct "count" which has has instance "c1" and it will return the string representation of the type "count" which is "The count is 5"
 }
 
 /*
@@ -105,6 +105,15 @@ func loginfo(s fmt.Stringer) {
 	log.Println("LOG FROM 138", s.String())
 }
 
+// NOTES:
+1. Why we use fmt.Stringer as an argument:
+	We took fmt.Stringer as an argument which is an interface that has a method String() which returns a string representation of the type that implements it. Also, both book and count uses the String() method to return their string representation, so we can use fmt.Stringer as an argument to log the string representation of both book and count types.
+
+2. Why we call s.String() inside the loginfo function:
+	We call s.String() inside the loginfo function, it will call the String() method of the type that implements the Stringer interface (which is used by book and count) and return the string representation of that type, which will be logged by log.Println.
+
+	So, we are using this wrapper function if we need more information in the log message, we can easily add it in the loginfo function without changing the String() method of the types that implement the Stringer interface.
+
 func main() {
 
 	b1 := book{title: "The Great Gatsby"}
@@ -116,8 +125,14 @@ func main() {
 
 Output:
 
-2026/03/23 22:11:04 Book Title is The Great Gatsby
+2026/03/23 22:11:04 LOG FROM 138 Book Title is The Great Gatsby
 
-2026/03/23 22:11:04 The count is 5
+2026/03/23 22:11:04 LOG FROM 138 The count is 5
+
+*/
+
+/*
+
+Writer Interface and writing to a file
 
 */
