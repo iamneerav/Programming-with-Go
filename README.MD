@@ -58,6 +58,18 @@ This repository is currently in active development. I regularly add new exercise
 
 I am also building a fresh **Windows + WSL** development environment and automating tool setup using **Ansible**.
 
+## CI Pipeline (GitHub Actions)
+
+The repository uses GitHub Actions workflow:
+
+- Workflow file: `.github/workflows/go.yml`
+- Script executed by workflow: `source/workflow.sh`
+
+The script checks each `hands-on-*` (and `hands-on-understanding-*`) folder and runs the appropriate command based on folder contents:
+
+- `go test ./...` + `go build ./...` for module-based folders
+- `go run main.go` for main-only folders
+
 ## Dev Environment (Windows)
 
 - Setup guide: [docs/dev-environment-windows-wsl.md](docs/dev-environment-windows-wsl.md)
