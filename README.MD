@@ -1,5 +1,3 @@
-# Programming-with-Go
-This repository contains my hands-on practice while learning Go (Golang)
 # Go Practice (Udemy)
 
 This repository contains my hands-on practice while learning Go (Golang), primarily following:
@@ -12,7 +10,7 @@ The goal of this repo is to track my progress, practice core Go concepts, and bu
 ## Repository Structure
 
 The repo is organized into multiple `hands-on-*` folders.
-Each folder contains focused exercises for specific topics from the course and revision practice.
+Each folder contains focused exercises for specific topics from the course and revision practice, along with a local README describing the exercise.
 
 Examples:
 
@@ -78,7 +76,7 @@ The script checks each `hands-on-*` (and `hands-on-understanding-*`) folder and 
 
 ## Roadmap
 
-- [ ] Add a short description to each `hands-on-*` folder
+- [x] Add a short description to each `hands-on-*` folder
 - [ ] Group folders by topic (basics, functions, structs, interfaces, etc.)
 - [ ] Add example outputs/screenshots for selected exercises
 - [ ] Add mini-projects after core fundamentals
