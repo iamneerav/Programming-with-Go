@@ -21,7 +21,6 @@ func main() {
 	greet()
 	greetWithName("Neerav")
 
-	greetWithNameAndReturn("Neerav")
 	x := greetWithNameAndReturn("Neerav")
 	fmt.Println(x)
 

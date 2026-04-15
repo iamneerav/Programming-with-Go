@@ -8,42 +8,42 @@ func main() {
 
 	m := make(map[string]int)
 
-	for _,i := range xs {
+	for _, i := range xs {
 		m[i]++
 	}
 
 	fmt.Println(m)
 
-	for x,y := range m {
-		fmt.Println(x,y)
+	for x, y := range m {
+		fmt.Println(x, y)
 	}
 
-/*
-Position 0: xs[0] = "in"
+	/*
+	   Position 0: xs[0] = "in"
 
-m["in"]++ → m["in"] becomes 1
+	   m["in"]++ → m["in"] becomes 1
 
-i.e. m["in"] = m["in"] + 1 → m["in"] = 0 + 1 → m["in"] = 1
+	   i.e. m["in"] = m["in"] + 1 → m["in"] = 0 + 1 → m["in"] = 1
 
-Position 1: xs[1] = "my"
+	   Position 1: xs[1] = "my"
 
-m["my"]++ → m["my"] becomes 1
-Position 2: xs[2] = "younger"
+	   m["my"]++ → m["my"] becomes 1
+	   Position 2: xs[2] = "younger"
 
-m["younger"]++ → m["younger"] becomes 1
-... continues through the entire slice ...
+	   m["younger"]++ → m["younger"] becomes 1
+	   ... continues through the entire slice ...
 
-When it encounters "in" again (say at position 18):
+	   When it encounters "in" again (say at position 18):
 
-m["in"]++ → m["in"] becomes 2
-When it encounters "my" again:
+	   m["in"]++ → m["in"] becomes 2
+	   When it encounters "my" again:
 
-m["my"]++ → m["my"] becomes 2
-So the map stores each unique word as a key and increments its count value every time that word appears. It's not adding to a list, but storing/updating counts in the map where:
+	   m["my"]++ → m["my"] becomes 2
+	   So the map stores each unique word as a key and increments its count value every time that word appears. It's not adding to a list, but storing/updating counts in the map where:
 
-Key = the word (e.g., "in", "my")
-Value = how many times that word appeared
+	   Key = the word (e.g., "in", "my")
+	   Value = how many times that word appeared
 
-*/	
+	*/
 
 }
