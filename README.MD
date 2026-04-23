@@ -1,3 +1,5 @@
+# Programming-with-Go
+This repository contains my hands-on practice while learning Go (Golang)
 # Go Practice (Udemy)
 
 This repository contains my hands-on practice while learning Go (Golang), primarily following:
