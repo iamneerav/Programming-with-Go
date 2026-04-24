@@ -21,7 +21,10 @@ for dir in "${exercise_dirs[@]}"; do
   fi
 
   if [ -f "$dir/main.go" ]; then
-    echo "==> go run ./$dir"
-    go run "./$dir"
+    echo "==> go run main.go in ./$dir"
+    (
+      cd "$dir"
+      go run main.go
+    )
   fi
 done
