@@ -1,8 +1,14 @@
 # graphify - ignore ALL outputs + build scripts (local development only)
-graphify-out/              # entire graphify output folder
-graphify_*.py              # graphify build scripts
-build_graph.py             # graphify build script
-graphify-input-html/         # input HTML files for graphify
+# entire graphify output folder
+graphify-out/
+# graphify build scripts
+graphify_*.py
+build_graph.py
+# input HTML files for graphify
+graphify-input-html/
+# local direnv config files
+.envrc
+.envrc.example
 
 # Standard ignores
 .DS_Store
