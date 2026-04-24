@@ -1,11 +1,12 @@
 # hands-on-82
 
 ## Purpose
-Practice from Go video lessons, followed by my own example implementation.
+Practice `switch` statements with compound boolean conditions.
 
 ## What I Practiced
-- Video concept:
-- My own example:
+- Generating two random integers.
+- Checking combined conditions with `&&` and comparison operators.
+- Using `switch` to route execution based on those conditions.
 
 ## Run
 ```bash
@@ -13,6 +14,6 @@ go run .
 ```
 
 ## Notes
-- Practiced combining `switch`, `for` loops, and random-driven logic.
-- Reinforced how loops and branching work together.
-- Writing my own example improved confidence with composed control flow.
+- The program prints the generated values and then prints the message from the matching `switch` case.
+- This folder does not include a `for` loop.
+- It focuses on multi-variable decision logic inside a `switch`.

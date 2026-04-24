@@ -1,21 +1,21 @@
-# Understanding Functions (Parts 142-145)
+# Hands-on 148: Callbacks
 
 ## Purpose
-Capture and review the function topics covered in lessons 142 through 145.
+Show how one function can be passed into another function to decide behavior at runtime.
 
-## Topics Covered
-- Anonymous functions
-- Function expressions
-- Returning a function
-- Callbacks
-- Closures
-- Function fundamentals
-- Recursion
-- Wrapper functions
+## What This Program Shows
+- `addnumber()` adds two integers.
+- `subnumber()` subtracts two integers.
+- `calculator()` accepts a function parameter of type `func(int, int) int`.
+- The same `calculator()` function is reused with different callback functions.
 
-## Status
-This folder currently contains lesson notes in `main.go` rather than a runnable Go program.
+## Run
+```bash
+go run .
+```
 
-## Notes
-- The comment block in `main.go` is being used as a study outline for the function section.
-- When code examples are added later, this README should be updated with runnable usage details.
+## Expected Behavior
+The program prints direct addition and subtraction results, then prints the same operations again through the callback-based `calculator()` function.
+
+## Key Takeaway
+Callbacks make code flexible because the caller can choose what logic the receiving function should execute.

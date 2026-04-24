@@ -1,11 +1,12 @@
 # hands-on-81
 
 ## Purpose
-Practice from Go video lessons, followed by my own example implementation.
+Practice `switch` statements as an alternative to long `if-else` chains.
 
 ## What I Practiced
-- Video concept:
-- My own example:
+- Generating two random integers.
+- Using `switch` with boolean case expressions.
+- Falling back to `default` when no earlier case matches.
 
 ## Run
 ```bash
@@ -13,6 +14,6 @@ go run .
 ```
 
 ## Notes
-- Practiced `if-else` branching with comparison operators.
-- Reinforced condition evaluation for simple logic paths.
-- Writing my own example improved readability of decision code.
+- The program prints two random numbers and then prints the message from the matching `switch` case.
+- This example is about `switch`, not `if-else`.
+- It shows how multi-branch logic can stay readable when expressed through cases.

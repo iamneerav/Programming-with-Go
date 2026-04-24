@@ -1,11 +1,12 @@
 # hands-on-83
 
 ## Purpose
-Practice from Go video lessons, followed by my own example implementation.
+Combine loops and `switch` statements in one program.
 
 ## What I Practiced
-- Video concept:
-- My own example:
+- Running a `for` loop 42 times.
+- Generating a random number on each iteration.
+- Using `switch` inside the loop to print different messages.
 
 ## Run
 ```bash
@@ -13,6 +14,6 @@ go run .
 ```
 
 ## Notes
-- Practiced `if-else` logic with operators.
-- Reinforced writing clear boolean conditions.
-- Writing my own example helped reduce condition complexity.
+- The program repeatedly prints a result based on which `switch` case matched for the current random number.
+- This folder demonstrates nested control flow, not a simple `if-else` example.
+- It is useful for seeing how repeated execution and branching work together.

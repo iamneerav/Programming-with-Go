@@ -1,11 +1,12 @@
 # hands-on-85
 
 ## Purpose
-Practice from Go video lessons, followed by my own example implementation.
+Practice early loop termination using a computed condition.
 
 ## What I Practiced
-- Video concept:
-- My own example:
+- A counted `for` loop.
+- Using the modulo operator `%` inside the loop.
+- Breaking out of the loop when the condition is met.
 
 ## Run
 ```bash
@@ -13,6 +14,6 @@ go run .
 ```
 
 ## Notes
-- Practiced `for` loop structure with variable initialization.
-- Reinforced loop lifecycle: init, condition, increment.
-- Writing my own example improved loop fluency and speed.
+- The program prints loop output until the break condition based on the modulo check is reached.
+- It goes beyond loop syntax by combining loop control and value testing.
+- This makes it a useful small example of conditional termination.

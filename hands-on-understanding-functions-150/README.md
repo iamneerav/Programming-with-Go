@@ -1,21 +1,20 @@
-# Understanding Functions (Parts 142-145)
+# Hands-on 150: Function Fundamentals
 
 ## Purpose
-Capture and review the function topics covered in lessons 142 through 145.
+Provide a minimal example of declaring and calling a standard Go function.
 
-## Topics Covered
-- Anonymous functions
-- Function expressions
-- Returning a function
-- Callbacks
-- Closures
-- Function fundamentals
-- Recursion
-- Wrapper functions
+## What This Program Shows
+- `main()` calls `foo()`.
+- `foo()` takes no parameters and returns no value.
+- The example focuses on the basic structure of a named function.
 
-## Status
-This folder currently contains lesson notes in `main.go` rather than a runnable Go program.
+## Run
+```bash
+go run .
+```
 
-## Notes
-- The comment block in `main.go` is being used as a study outline for the function section.
-- When code examples are added later, this README should be updated with runnable usage details.
+## Expected Behavior
+The program prints `Foo ran`.
+
+## Key Takeaway
+This is the simplest building block for later function topics such as parameters, return values, callbacks, and closures.

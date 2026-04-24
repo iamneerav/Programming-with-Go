@@ -1,11 +1,12 @@
 # hands-on-87
 
 ## Purpose
-Practice from Go video lessons, followed by my own example implementation.
+Practice nested loops.
 
 ## What I Practiced
-- Video concept:
-- My own example:
+- An outer loop running from `0` to `9`.
+- An inner loop running from `0` to `9` for each outer iteration.
+- Printing pairs of loop counters.
 
 ## Run
 ```bash
@@ -13,6 +14,6 @@ go run .
 ```
 
 ## Notes
-- Practiced loop control with `break` under conditions.
-- Reinforced early termination patterns in iterative code.
-- Writing my own example improved control over loop flow.
+- The program prints every `(i, j)` pair for two loops ranging from `0` through `9`.
+- This example does not use `break`.
+- It is meant to show outer and inner loop execution order clearly.

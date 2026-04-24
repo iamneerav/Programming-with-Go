@@ -1,11 +1,12 @@
 # hands-on-84
 
 ## Purpose
-Practice from Go video lessons, followed by my own example implementation.
+Practice loop control with `break`.
 
 ## What I Practiced
-- Video concept:
-- My own example:
+- A `for` loop that increments a counter.
+- Printing values during iteration.
+- Exiting the loop early with `break` once the condition is met.
 
 ## Run
 ```bash
@@ -13,6 +14,6 @@ go run .
 ```
 
 ## Notes
-- Practiced both `if-else` and `switch` decision structures.
-- Reinforced choosing the right branching style for readability.
-- Writing my own example made control-flow tradeoffs clearer.
+- The program prints integers in order and stops once the break condition is triggered.
+- This folder does not include a `switch` statement.
+- It focuses on when and why to stop a loop explicitly.

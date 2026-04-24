@@ -1,11 +1,12 @@
 # hands-on-89
 
 ## Purpose
-Practice from Go video lessons, followed by my own example implementation.
+Practice iterating over maps.
 
 ## What I Practiced
-- Video concept:
-- My own example:
+- Declaring a `map[string]int`.
+- Using `range` to access each key-value pair.
+- Printing the entries from the map.
 
 ## Run
 ```bash
@@ -13,6 +14,6 @@ go run .
 ```
 
 ## Notes
-- Practiced nested `for` loops.
-- Reinforced multi-level iteration and output sequencing.
-- Writing my own example clarified inner vs outer loop roles.
+- The program prints the map contents as key-value pairs.
+- This is a map traversal example, not a nested loop example.
+- It also reinforces that map iteration order is not guaranteed.

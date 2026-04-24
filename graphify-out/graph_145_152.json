@@ -1,0 +1,1051 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {
+    "hyperedges": [
+      {
+        "id": "function_concepts",
+        "label": "Core Function Concepts",
+        "members": [
+          "anonymous_func",
+          "func_expression",
+          "returning_func",
+          "callback_pattern",
+          "closure"
+        ],
+        "relation": "progression"
+      },
+      {
+        "id": "advanced_functions",
+        "label": "Advanced Function Patterns",
+        "members": [
+          "recursion",
+          "wrapper_func",
+          "closure"
+        ],
+        "relation": "uses"
+      },
+      {
+        "id": "callback_impl",
+        "label": "Callback Implementation",
+        "members": [
+          "calculator",
+          "addnumber",
+          "subnumber"
+        ],
+        "relation": "together_implement"
+      },
+      {
+        "id": "closure_impl",
+        "label": "Closure with State",
+        "members": [
+          "incrementor",
+          "closure",
+          "returning_func"
+        ],
+        "relation": "together_implement"
+      },
+      {
+        "id": "wrapper_stringer",
+        "label": "Wrapper with Interface",
+        "members": [
+          "writeLog",
+          "fmt_stringer",
+          "book_stringer",
+          "count_stringer"
+        ],
+        "relation": "together_implement"
+      },
+      {
+        "id": "recursion_impl",
+        "label": "Recursion Pattern",
+        "members": [
+          "factorial",
+          "base_case",
+          "recursion"
+        ],
+        "relation": "together_implement"
+      },
+      {
+        "id": "hands_on_series",
+        "label": "Hands-on 145-152 Series",
+        "members": [
+          "ho145",
+          "ho146",
+          "ho147",
+          "ho148",
+          "ho149",
+          "ho150",
+          "ho151",
+          "ho152"
+        ],
+        "relation": "sequential_exercises"
+      }
+    ]
+  },
+  "nodes": [
+    {
+      "label": "main.go",
+      "file_type": "code",
+      "source_file": "graphify-out\\review-145-152-input\\hands-on-understanding-functions-145\\main.go",
+      "source_location": "L1",
+      "id": "graphify_out_review_145_152_input_hands_on_understanding_functions_145_main_go"
+    },
+    {
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "graphify-out\\review-145-152-input\\hands-on-understanding-functions-152\\main.go",
+      "source_location": "L55",
+      "id": "main_main"
+    },
+    {
+      "label": "foo()",
+      "file_type": "code",
+      "source_file": "graphify-out\\review-145-152-input\\hands-on-understanding-functions-150\\main.go",
+      "source_location": "L27",
+      "id": "main_foo"
+    },
+    {
+      "label": "main.go",
+      "file_type": "code",
+      "source_file": "graphify-out\\review-145-152-input\\hands-on-understanding-functions-146\\main.go",
+      "source_location": "L1",
+      "id": "graphify_out_review_145_152_input_hands_on_understanding_functions_146_main_go"
+    },
+    {
+      "label": "main.go",
+      "file_type": "code",
+      "source_file": "graphify-out\\review-145-152-input\\hands-on-understanding-functions-147\\main.go",
+      "source_location": "L1",
+      "id": "graphify_out_review_145_152_input_hands_on_understanding_functions_147_main_go"
+    },
+    {
+      "label": "bar()",
+      "file_type": "code",
+      "source_file": "graphify-out\\review-145-152-input\\hands-on-understanding-functions-147\\main.go",
+      "source_location": "L35",
+      "id": "main_bar"
+    },
+    {
+      "label": "main.go",
+      "file_type": "code",
+      "source_file": "graphify-out\\review-145-152-input\\hands-on-understanding-functions-148\\main.go",
+      "source_location": "L1",
+      "id": "graphify_out_review_145_152_input_hands_on_understanding_functions_148_main_go"
+    },
+    {
+      "label": "calculator()",
+      "file_type": "code",
+      "source_file": "graphify-out\\review-145-152-input\\hands-on-understanding-functions-148\\main.go",
+      "source_location": "L38",
+      "id": "main_calculator"
+    },
+    {
+      "label": "addnumber()",
+      "file_type": "code",
+      "source_file": "graphify-out\\review-145-152-input\\hands-on-understanding-functions-148\\main.go",
+      "source_location": "L42",
+      "id": "main_addnumber"
+    },
+    {
+      "label": "subnumber()",
+      "file_type": "code",
+      "source_file": "graphify-out\\review-145-152-input\\hands-on-understanding-functions-148\\main.go",
+      "source_location": "L46",
+      "id": "main_subnumber"
+    },
+    {
+      "label": "main.go",
+      "file_type": "code",
+      "source_file": "graphify-out\\review-145-152-input\\hands-on-understanding-functions-149\\main.go",
+      "source_location": "L1",
+      "id": "graphify_out_review_145_152_input_hands_on_understanding_functions_149_main_go"
+    },
+    {
+      "label": "incrementor()",
+      "file_type": "code",
+      "source_file": "graphify-out\\review-145-152-input\\hands-on-understanding-functions-149\\main.go",
+      "source_location": "L51",
+      "id": "main_incrementor"
+    },
+    {
+      "label": "main.go",
+      "file_type": "code",
+      "source_file": "graphify-out\\review-145-152-input\\hands-on-understanding-functions-150\\main.go",
+      "source_location": "L1",
+      "id": "graphify_out_review_145_152_input_hands_on_understanding_functions_150_main_go"
+    },
+    {
+      "label": "main.go",
+      "file_type": "code",
+      "source_file": "graphify-out\\review-145-152-input\\hands-on-understanding-functions-151\\main.go",
+      "source_location": "L1",
+      "id": "graphify_out_review_145_152_input_hands_on_understanding_functions_151_main_go"
+    },
+    {
+      "label": "factorial()",
+      "file_type": "code",
+      "source_file": "graphify-out\\review-145-152-input\\hands-on-understanding-functions-151\\main.go",
+      "source_location": "L48",
+      "id": "main_factorial"
+    },
+    {
+      "label": "main.go",
+      "file_type": "code",
+      "source_file": "graphify-out\\review-145-152-input\\hands-on-understanding-functions-152\\main.go",
+      "source_location": "L1",
+      "id": "graphify_out_review_145_152_input_hands_on_understanding_functions_152_main_go"
+    },
+    {
+      "label": "book",
+      "file_type": "code",
+      "source_file": "graphify-out\\review-145-152-input\\hands-on-understanding-functions-152\\main.go",
+      "source_location": "L37",
+      "id": "hands_on_understanding_functions_152_book"
+    },
+    {
+      "label": ".String()",
+      "file_type": "code",
+      "source_file": "graphify-out\\review-145-152-input\\hands-on-understanding-functions-152\\main.go",
+      "source_location": "L41",
+      "id": "hands_on_understanding_functions_152_book_string"
+    },
+    {
+      "label": "count",
+      "file_type": "code",
+      "source_file": "graphify-out\\review-145-152-input\\hands-on-understanding-functions-152\\main.go",
+      "source_location": "L45",
+      "id": "hands_on_understanding_functions_152_count"
+    },
+    {
+      "label": ".String()",
+      "file_type": "code",
+      "source_file": "graphify-out\\review-145-152-input\\hands-on-understanding-functions-152\\main.go",
+      "source_location": "L47",
+      "id": "hands_on_understanding_functions_152_count_string"
+    },
+    {
+      "label": "writeLog()",
+      "file_type": "code",
+      "source_file": "graphify-out\\review-145-152-input\\hands-on-understanding-functions-152\\main.go",
+      "source_location": "L51",
+      "id": "main_writelog"
+    },
+    {
+      "label": "hands-on-145: Anonymous Functions",
+      "file_type": "document",
+      "id": "ho145"
+    },
+    {
+      "label": "hands-on-146: Function Expressions",
+      "file_type": "document",
+      "id": "ho146"
+    },
+    {
+      "label": "hands-on-147: Returning Functions",
+      "file_type": "document",
+      "id": "ho147"
+    },
+    {
+      "label": "hands-on-148: Callbacks",
+      "file_type": "document",
+      "id": "ho148"
+    },
+    {
+      "label": "hands-on-149: Closures",
+      "file_type": "document",
+      "id": "ho149"
+    },
+    {
+      "label": "hands-on-150: Function Fundamentals",
+      "file_type": "document",
+      "id": "ho150"
+    },
+    {
+      "label": "hands-on-151: Recursion",
+      "file_type": "document",
+      "id": "ho151"
+    },
+    {
+      "label": "hands-on-152: Wrapper Functions",
+      "file_type": "document",
+      "id": "ho152"
+    },
+    {
+      "label": "Anonymous Function",
+      "file_type": "architecture",
+      "id": "anonymous_func"
+    },
+    {
+      "label": "Function Expression",
+      "file_type": "architecture",
+      "id": "func_expression"
+    },
+    {
+      "label": "Returning a Function",
+      "file_type": "architecture",
+      "id": "returning_func"
+    },
+    {
+      "label": "Callback Pattern",
+      "file_type": "architecture",
+      "id": "callback_pattern"
+    },
+    {
+      "label": "Closure",
+      "file_type": "architecture",
+      "id": "closure"
+    },
+    {
+      "label": "Function Fundamentals",
+      "file_type": "architecture",
+      "id": "func_fundamentals"
+    },
+    {
+      "label": "Recursion",
+      "file_type": "architecture",
+      "id": "recursion"
+    },
+    {
+      "label": "Wrapper Function",
+      "file_type": "architecture",
+      "id": "wrapper_func"
+    },
+    {
+      "label": "foo()",
+      "file_type": "code",
+      "id": "foo"
+    },
+    {
+      "label": "bar()",
+      "file_type": "code",
+      "id": "bar"
+    },
+    {
+      "label": "calculator()",
+      "file_type": "code",
+      "id": "calculator"
+    },
+    {
+      "label": "addnumber()",
+      "file_type": "code",
+      "id": "addnumber"
+    },
+    {
+      "label": "subnumber()",
+      "file_type": "code",
+      "id": "subnumber"
+    },
+    {
+      "label": "incrementor()",
+      "file_type": "code",
+      "id": "incrementor"
+    },
+    {
+      "label": "factorial()",
+      "file_type": "code",
+      "id": "factorial"
+    },
+    {
+      "label": "writeLog()",
+      "file_type": "code",
+      "id": "writeLog"
+    },
+    {
+      "label": "book.String()",
+      "file_type": "code",
+      "id": "book_stringer"
+    },
+    {
+      "label": "count.String()",
+      "file_type": "code",
+      "id": "count_stringer"
+    },
+    {
+      "label": "readFile()",
+      "file_type": "code",
+      "id": "readFile"
+    },
+    {
+      "label": "fmt.Stringer Interface",
+      "file_type": "architecture",
+      "id": "fmt_stringer"
+    },
+    {
+      "label": "Error Wrapping",
+      "file_type": "architecture",
+      "id": "error_wrapping"
+    },
+    {
+      "label": "Base Case (Recursion)",
+      "file_type": "architecture",
+      "id": "base_case"
+    }
+  ],
+  "edges": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out\\review-145-152-input\\hands-on-understanding-functions-145\\main.go",
+      "source_location": "L21",
+      "weight": 1.0,
+      "_src": "graphify_out_review_145_152_input_hands_on_understanding_functions_145_main_go",
+      "_tgt": "main_main",
+      "source": "graphify_out_review_145_152_input_hands_on_understanding_functions_145_main_go",
+      "target": "main_main"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out\\review-145-152-input\\hands-on-understanding-functions-145\\main.go",
+      "source_location": "L43",
+      "weight": 1.0,
+      "_src": "graphify_out_review_145_152_input_hands_on_understanding_functions_145_main_go",
+      "_tgt": "main_foo",
+      "source": "graphify_out_review_145_152_input_hands_on_understanding_functions_145_main_go",
+      "target": "main_foo"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out\\review-145-152-input\\hands-on-understanding-functions-150\\main.go",
+      "source_location": "L24",
+      "weight": 1.0,
+      "_src": "main_main",
+      "_tgt": "main_foo",
+      "source": "main_main",
+      "target": "main_foo"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out\\review-145-152-input\\hands-on-understanding-functions-146\\main.go",
+      "source_location": "L13",
+      "weight": 1.0,
+      "_src": "graphify_out_review_145_152_input_hands_on_understanding_functions_146_main_go",
+      "_tgt": "main_main",
+      "source": "main_main",
+      "target": "graphify_out_review_145_152_input_hands_on_understanding_functions_146_main_go"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out\\review-145-152-input\\hands-on-understanding-functions-147\\main.go",
+      "source_location": "L16",
+      "weight": 1.0,
+      "_src": "graphify_out_review_145_152_input_hands_on_understanding_functions_147_main_go",
+      "_tgt": "main_main",
+      "source": "main_main",
+      "target": "graphify_out_review_145_152_input_hands_on_understanding_functions_147_main_go"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out\\review-145-152-input\\hands-on-understanding-functions-147\\main.go",
+      "source_location": "L21",
+      "weight": 1.0,
+      "_src": "main_main",
+      "_tgt": "main_bar",
+      "source": "main_main",
+      "target": "main_bar"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out\\review-145-152-input\\hands-on-understanding-functions-148\\main.go",
+      "source_location": "L16",
+      "weight": 1.0,
+      "_src": "graphify_out_review_145_152_input_hands_on_understanding_functions_148_main_go",
+      "_tgt": "main_main",
+      "source": "main_main",
+      "target": "graphify_out_review_145_152_input_hands_on_understanding_functions_148_main_go"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out\\review-145-152-input\\hands-on-understanding-functions-148\\main.go",
+      "source_location": "L19",
+      "weight": 1.0,
+      "_src": "main_main",
+      "_tgt": "main_addnumber",
+      "source": "main_main",
+      "target": "main_addnumber"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out\\review-145-152-input\\hands-on-understanding-functions-148\\main.go",
+      "source_location": "L23",
+      "weight": 1.0,
+      "_src": "main_main",
+      "_tgt": "main_subnumber",
+      "source": "main_main",
+      "target": "main_subnumber"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out\\review-145-152-input\\hands-on-understanding-functions-148\\main.go",
+      "source_location": "L28",
+      "weight": 1.0,
+      "_src": "main_main",
+      "_tgt": "main_calculator",
+      "source": "main_main",
+      "target": "main_calculator"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out\\review-145-152-input\\hands-on-understanding-functions-149\\main.go",
+      "source_location": "L15",
+      "weight": 1.0,
+      "_src": "graphify_out_review_145_152_input_hands_on_understanding_functions_149_main_go",
+      "_tgt": "main_main",
+      "source": "main_main",
+      "target": "graphify_out_review_145_152_input_hands_on_understanding_functions_149_main_go"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out\\review-145-152-input\\hands-on-understanding-functions-149\\main.go",
+      "source_location": "L16",
+      "weight": 1.0,
+      "_src": "main_main",
+      "_tgt": "main_incrementor",
+      "source": "main_main",
+      "target": "main_incrementor"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out\\review-145-152-input\\hands-on-understanding-functions-150\\main.go",
+      "source_location": "L23",
+      "weight": 1.0,
+      "_src": "graphify_out_review_145_152_input_hands_on_understanding_functions_150_main_go",
+      "_tgt": "main_main",
+      "source": "main_main",
+      "target": "graphify_out_review_145_152_input_hands_on_understanding_functions_150_main_go"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out\\review-145-152-input\\hands-on-understanding-functions-151\\main.go",
+      "source_location": "L44",
+      "weight": 1.0,
+      "_src": "graphify_out_review_145_152_input_hands_on_understanding_functions_151_main_go",
+      "_tgt": "main_main",
+      "source": "main_main",
+      "target": "graphify_out_review_145_152_input_hands_on_understanding_functions_151_main_go"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out\\review-145-152-input\\hands-on-understanding-functions-151\\main.go",
+      "source_location": "L45",
+      "weight": 1.0,
+      "_src": "main_main",
+      "_tgt": "main_factorial",
+      "source": "main_main",
+      "target": "main_factorial"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out\\review-145-152-input\\hands-on-understanding-functions-152\\main.go",
+      "source_location": "L55",
+      "weight": 1.0,
+      "_src": "graphify_out_review_145_152_input_hands_on_understanding_functions_152_main_go",
+      "_tgt": "main_main",
+      "source": "main_main",
+      "target": "graphify_out_review_145_152_input_hands_on_understanding_functions_152_main_go"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out\\review-145-152-input\\hands-on-understanding-functions-152\\main.go",
+      "source_location": "L62",
+      "weight": 1.0,
+      "_src": "main_main",
+      "_tgt": "main_writelog",
+      "source": "main_main",
+      "target": "main_writelog"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out\\review-145-152-input\\hands-on-understanding-functions-146\\main.go",
+      "source_location": "L29",
+      "weight": 1.0,
+      "_src": "graphify_out_review_145_152_input_hands_on_understanding_functions_146_main_go",
+      "_tgt": "main_foo",
+      "source": "main_foo",
+      "target": "graphify_out_review_145_152_input_hands_on_understanding_functions_146_main_go"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out\\review-145-152-input\\hands-on-understanding-functions-147\\main.go",
+      "source_location": "L31",
+      "weight": 1.0,
+      "_src": "graphify_out_review_145_152_input_hands_on_understanding_functions_147_main_go",
+      "_tgt": "main_foo",
+      "source": "main_foo",
+      "target": "graphify_out_review_145_152_input_hands_on_understanding_functions_147_main_go"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out\\review-145-152-input\\hands-on-understanding-functions-150\\main.go",
+      "source_location": "L27",
+      "weight": 1.0,
+      "_src": "graphify_out_review_145_152_input_hands_on_understanding_functions_150_main_go",
+      "_tgt": "main_foo",
+      "source": "main_foo",
+      "target": "graphify_out_review_145_152_input_hands_on_understanding_functions_150_main_go"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out\\review-145-152-input\\hands-on-understanding-functions-147\\main.go",
+      "source_location": "L35",
+      "weight": 1.0,
+      "_src": "graphify_out_review_145_152_input_hands_on_understanding_functions_147_main_go",
+      "_tgt": "main_bar",
+      "source": "graphify_out_review_145_152_input_hands_on_understanding_functions_147_main_go",
+      "target": "main_bar"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out\\review-145-152-input\\hands-on-understanding-functions-148\\main.go",
+      "source_location": "L38",
+      "weight": 1.0,
+      "_src": "graphify_out_review_145_152_input_hands_on_understanding_functions_148_main_go",
+      "_tgt": "main_calculator",
+      "source": "graphify_out_review_145_152_input_hands_on_understanding_functions_148_main_go",
+      "target": "main_calculator"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out\\review-145-152-input\\hands-on-understanding-functions-148\\main.go",
+      "source_location": "L42",
+      "weight": 1.0,
+      "_src": "graphify_out_review_145_152_input_hands_on_understanding_functions_148_main_go",
+      "_tgt": "main_addnumber",
+      "source": "graphify_out_review_145_152_input_hands_on_understanding_functions_148_main_go",
+      "target": "main_addnumber"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out\\review-145-152-input\\hands-on-understanding-functions-148\\main.go",
+      "source_location": "L46",
+      "weight": 1.0,
+      "_src": "graphify_out_review_145_152_input_hands_on_understanding_functions_148_main_go",
+      "_tgt": "main_subnumber",
+      "source": "graphify_out_review_145_152_input_hands_on_understanding_functions_148_main_go",
+      "target": "main_subnumber"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out\\review-145-152-input\\hands-on-understanding-functions-149\\main.go",
+      "source_location": "L51",
+      "weight": 1.0,
+      "_src": "graphify_out_review_145_152_input_hands_on_understanding_functions_149_main_go",
+      "_tgt": "main_incrementor",
+      "source": "graphify_out_review_145_152_input_hands_on_understanding_functions_149_main_go",
+      "target": "main_incrementor"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out\\review-145-152-input\\hands-on-understanding-functions-151\\main.go",
+      "source_location": "L48",
+      "weight": 1.0,
+      "_src": "graphify_out_review_145_152_input_hands_on_understanding_functions_151_main_go",
+      "_tgt": "main_factorial",
+      "source": "graphify_out_review_145_152_input_hands_on_understanding_functions_151_main_go",
+      "target": "main_factorial"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out\\review-145-152-input\\hands-on-understanding-functions-152\\main.go",
+      "source_location": "L37",
+      "weight": 1.0,
+      "_src": "graphify_out_review_145_152_input_hands_on_understanding_functions_152_main_go",
+      "_tgt": "hands_on_understanding_functions_152_book",
+      "source": "graphify_out_review_145_152_input_hands_on_understanding_functions_152_main_go",
+      "target": "hands_on_understanding_functions_152_book"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out\\review-145-152-input\\hands-on-understanding-functions-152\\main.go",
+      "source_location": "L45",
+      "weight": 1.0,
+      "_src": "graphify_out_review_145_152_input_hands_on_understanding_functions_152_main_go",
+      "_tgt": "hands_on_understanding_functions_152_count",
+      "source": "graphify_out_review_145_152_input_hands_on_understanding_functions_152_main_go",
+      "target": "hands_on_understanding_functions_152_count"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out\\review-145-152-input\\hands-on-understanding-functions-152\\main.go",
+      "source_location": "L51",
+      "weight": 1.0,
+      "_src": "graphify_out_review_145_152_input_hands_on_understanding_functions_152_main_go",
+      "_tgt": "main_writelog",
+      "source": "graphify_out_review_145_152_input_hands_on_understanding_functions_152_main_go",
+      "target": "main_writelog"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out\\review-145-152-input\\hands-on-understanding-functions-152\\main.go",
+      "source_location": "L41",
+      "weight": 1.0,
+      "_src": "hands_on_understanding_functions_152_book",
+      "_tgt": "hands_on_understanding_functions_152_book_string",
+      "source": "hands_on_understanding_functions_152_book",
+      "target": "hands_on_understanding_functions_152_book_string"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out\\review-145-152-input\\hands-on-understanding-functions-152\\main.go",
+      "source_location": "L47",
+      "weight": 1.0,
+      "_src": "hands_on_understanding_functions_152_count",
+      "_tgt": "hands_on_understanding_functions_152_count_string",
+      "source": "hands_on_understanding_functions_152_count",
+      "target": "hands_on_understanding_functions_152_count_string"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "graphify-out\\review-145-152-input\\hands-on-understanding-functions-152\\main.go",
+      "source_location": "L52",
+      "weight": 1.0,
+      "_src": "main_writelog",
+      "_tgt": "hands_on_understanding_functions_152_count_string",
+      "source": "hands_on_understanding_functions_152_count_string",
+      "target": "main_writelog"
+    },
+    {
+      "relation": "demonstrates",
+      "confidence": "EXTRACTED",
+      "_src": "ho145",
+      "_tgt": "anonymous_func",
+      "source": "ho145",
+      "target": "anonymous_func"
+    },
+    {
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "_src": "ho145",
+      "_tgt": "foo",
+      "source": "ho145",
+      "target": "foo"
+    },
+    {
+      "relation": "demonstrates",
+      "confidence": "EXTRACTED",
+      "_src": "ho146",
+      "_tgt": "func_expression",
+      "source": "ho146",
+      "target": "func_expression"
+    },
+    {
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "_src": "ho146",
+      "_tgt": "anonymous_func",
+      "source": "ho146",
+      "target": "anonymous_func"
+    },
+    {
+      "relation": "demonstrates",
+      "confidence": "EXTRACTED",
+      "_src": "ho147",
+      "_tgt": "returning_func",
+      "source": "ho147",
+      "target": "returning_func"
+    },
+    {
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "_src": "ho147",
+      "_tgt": "bar",
+      "source": "ho147",
+      "target": "bar"
+    },
+    {
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "_src": "ho147",
+      "_tgt": "foo",
+      "source": "ho147",
+      "target": "foo"
+    },
+    {
+      "relation": "demonstrates",
+      "confidence": "EXTRACTED",
+      "_src": "ho148",
+      "_tgt": "callback_pattern",
+      "source": "ho148",
+      "target": "callback_pattern"
+    },
+    {
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "_src": "ho148",
+      "_tgt": "calculator",
+      "source": "ho148",
+      "target": "calculator"
+    },
+    {
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "_src": "ho148",
+      "_tgt": "addnumber",
+      "source": "ho148",
+      "target": "addnumber"
+    },
+    {
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "_src": "ho148",
+      "_tgt": "subnumber",
+      "source": "ho148",
+      "target": "subnumber"
+    },
+    {
+      "relation": "demonstrates",
+      "confidence": "EXTRACTED",
+      "_src": "ho149",
+      "_tgt": "closure",
+      "source": "ho149",
+      "target": "closure"
+    },
+    {
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "_src": "ho149",
+      "_tgt": "incrementor",
+      "source": "ho149",
+      "target": "incrementor"
+    },
+    {
+      "relation": "demonstrates",
+      "confidence": "EXTRACTED",
+      "_src": "ho150",
+      "_tgt": "func_fundamentals",
+      "source": "ho150",
+      "target": "func_fundamentals"
+    },
+    {
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "_src": "ho150",
+      "_tgt": "foo",
+      "source": "ho150",
+      "target": "foo"
+    },
+    {
+      "relation": "demonstrates",
+      "confidence": "EXTRACTED",
+      "_src": "ho151",
+      "_tgt": "recursion",
+      "source": "ho151",
+      "target": "recursion"
+    },
+    {
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "_src": "ho151",
+      "_tgt": "factorial",
+      "source": "ho151",
+      "target": "factorial"
+    },
+    {
+      "relation": "demonstrates",
+      "confidence": "EXTRACTED",
+      "_src": "ho152",
+      "_tgt": "wrapper_func",
+      "source": "ho152",
+      "target": "wrapper_func"
+    },
+    {
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "_src": "ho152",
+      "_tgt": "writeLog",
+      "source": "ho152",
+      "target": "writeLog"
+    },
+    {
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "_src": "ho152",
+      "_tgt": "book_stringer",
+      "source": "ho152",
+      "target": "book_stringer"
+    },
+    {
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "_src": "ho152",
+      "_tgt": "count_stringer",
+      "source": "ho152",
+      "target": "count_stringer"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "_src": "ho152",
+      "_tgt": "readFile",
+      "source": "ho152",
+      "target": "readFile"
+    },
+    {
+      "relation": "foundation_for",
+      "confidence": "INFERRED",
+      "_src": "anonymous_func",
+      "_tgt": "func_expression",
+      "source": "anonymous_func",
+      "target": "func_expression"
+    },
+    {
+      "relation": "foundation_for",
+      "confidence": "INFERRED",
+      "_src": "func_fundamentals",
+      "_tgt": "anonymous_func",
+      "source": "anonymous_func",
+      "target": "func_fundamentals"
+    },
+    {
+      "relation": "enables",
+      "confidence": "INFERRED",
+      "_src": "func_expression",
+      "_tgt": "returning_func",
+      "source": "func_expression",
+      "target": "returning_func"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "_src": "incrementor",
+      "_tgt": "returning_func",
+      "source": "returning_func",
+      "target": "incrementor"
+    },
+    {
+      "relation": "enables",
+      "confidence": "INFERRED",
+      "_src": "returning_func",
+      "_tgt": "callback_pattern",
+      "source": "returning_func",
+      "target": "callback_pattern"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "_src": "calculator",
+      "_tgt": "callback_pattern",
+      "source": "callback_pattern",
+      "target": "calculator"
+    },
+    {
+      "relation": "is_callback_for",
+      "confidence": "EXTRACTED",
+      "_src": "addnumber",
+      "_tgt": "callback_pattern",
+      "source": "callback_pattern",
+      "target": "addnumber"
+    },
+    {
+      "relation": "is_callback_for",
+      "confidence": "EXTRACTED",
+      "_src": "subnumber",
+      "_tgt": "callback_pattern",
+      "source": "callback_pattern",
+      "target": "subnumber"
+    },
+    {
+      "relation": "related_pattern",
+      "confidence": "INFERRED",
+      "_src": "callback_pattern",
+      "_tgt": "closure",
+      "source": "callback_pattern",
+      "target": "closure"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "_src": "incrementor",
+      "_tgt": "closure",
+      "source": "closure",
+      "target": "incrementor"
+    },
+    {
+      "relation": "enables",
+      "confidence": "INFERRED",
+      "_src": "closure",
+      "_tgt": "wrapper_func",
+      "source": "closure",
+      "target": "wrapper_func"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "_src": "writeLog",
+      "_tgt": "wrapper_func",
+      "source": "wrapper_func",
+      "target": "writeLog"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "_src": "factorial",
+      "_tgt": "base_case",
+      "source": "factorial",
+      "target": "base_case"
+    },
+    {
+      "relation": "accepts",
+      "confidence": "EXTRACTED",
+      "_src": "writeLog",
+      "_tgt": "fmt_stringer",
+      "source": "writeLog",
+      "target": "fmt_stringer"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "_src": "book_stringer",
+      "_tgt": "fmt_stringer",
+      "source": "book_stringer",
+      "target": "fmt_stringer"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "_src": "count_stringer",
+      "_tgt": "fmt_stringer",
+      "source": "count_stringer",
+      "target": "fmt_stringer"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "_src": "readFile",
+      "_tgt": "error_wrapping",
+      "source": "readFile",
+      "target": "error_wrapping"
+    }
+  ]
+}

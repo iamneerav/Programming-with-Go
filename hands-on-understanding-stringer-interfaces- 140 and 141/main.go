@@ -5,12 +5,6 @@ In this Functions exercise, we will learn about the following topics:
 
 2. Expanding on the stringer interface - wrapper func for logging
 
-3. Writer Interface and writing to a file
-
-4. Writer Interface and writing to a buffer
-
-5. Writing to either a file or a buffer
-
 */
 
 /*
@@ -128,11 +122,5 @@ Output:
 2026/03/23 22:11:04 LOG FROM 138 Book Title is The Great Gatsby
 
 2026/03/23 22:11:04 LOG FROM 138 The count is 5
-
-*/
-
-/*
-
-Writer Interface and writing to a file
 
 */

@@ -1,11 +1,13 @@
 # hands-on-122
 
 ## Purpose
-Practice from Go video lessons, followed by my own example implementation.
+Practice creating maps, adding entries, and iterating through nested values.
 
 ## What I Practiced
-- Video concept:
-- My own example:
+- Initializing a map with `make`.
+- Adding entries to an existing map.
+- Iterating over keys and values with `range`.
+- Using nested loops to print slice values stored in the map.
 
 ## Run
 ```bash
@@ -13,6 +15,6 @@ go run .
 ```
 
 ## Notes
-- Practiced creating maps, iterating with `for range`, and deleting entries.
-- Reinforced how `delete` updates map state safely.
-- Writing my own example improved confidence with CRUD-style map operations.
+- The program creates map entries for Bond-related data, adds a new entry, and prints the complete structure.
+- This code does not currently call `delete`.
+- The README now matches the actual create-and-iterate behavior in `main.go`.

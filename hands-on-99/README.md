@@ -1,11 +1,13 @@
 # hands-on-99
 
 ## Purpose
-Practice from Go video lessons, followed by my own example implementation.
+Practice array literals and simple array inspection.
 
 ## What I Practiced
-- Video concept:
-- My own example:
+- Declaring a fixed-size string array with inferred length.
+- Printing the array type.
+- Printing the array length with `len`.
+- Printing the entire array value.
 
 ## Run
 ```bash
@@ -13,6 +15,6 @@ go run .
 ```
 
 ## Notes
-- Practiced iterating arrays using `range`.
-- Reinforced indexed and value-based access patterns.
-- Writing my own example strengthened fundamentals around collections.
+- The program stores a list of ice cream flavors in an array.
+- It prints the type, the number of elements, and the full array contents.
+- This example does not use `range`; it focuses on declaration and inspection.

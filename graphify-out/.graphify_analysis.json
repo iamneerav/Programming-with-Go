@@ -1,0 +1,463 @@
+{
+  "communities": {
+    "0": [
+      "hands_on_109_main_go",
+      "hands_on_110_main_go",
+      "hands_on_111_main_go",
+      "hands_on_112_main_go",
+      "hands_on_113_main_go",
+      "hands_on_114_main_go",
+      "hands_on_115_main_go",
+      "hands_on_121_revision_and_practice_main_go",
+      "hands_on_122_main_go",
+      "hands_on_123_main_go",
+      "hands_on_124_main_go",
+      "hands_on_132_main_go",
+      "hands_on_55_main_go",
+      "hands_on_56_main_go",
+      "hands_on_77_main_go",
+      "hands_on_80_main_go",
+      "hands_on_81_main_go",
+      "hands_on_82_main_go",
+      "hands_on_83_main_go",
+      "hands_on_84_main_go",
+      "hands_on_85_main_go",
+      "hands_on_86_main_go",
+      "hands_on_87_main_go",
+      "hands_on_88_main_go",
+      "hands_on_89_main_go",
+      "hands_on_90_main_go",
+      "hands_on_91_main_go",
+      "hands_on_92_main_go",
+      "hands_on_97_main_go",
+      "hands_on_98_main_go",
+      "hands_on_99_main_go",
+      "main_main"
+    ],
+    "1": [
+      "anonymous_struct",
+      "anonymous_structs",
+      "book_struct",
+      "composition",
+      "count_type",
+      "dog_struct",
+      "embedded_struct",
+      "fmt_package",
+      "func_basics",
+      "func_parameters",
+      "func_receiver",
+      "func_returns",
+      "ho129",
+      "ho131",
+      "ho132",
+      "interfaces",
+      "log_package",
+      "logging",
+      "map_operations",
+      "methods",
+      "owner_struct",
+      "polymorphism",
+      "slice_operations",
+      "string_method",
+      "stringer_interface",
+      "struct_embedding",
+      "struct_fields",
+      "struct_types",
+      "structs",
+      "wrapper_function"
+    ],
+    "2": [
+      "go_append_func",
+      "go_cap_func",
+      "go_delete_func",
+      "go_for_loop",
+      "go_len_func",
+      "go_make_func",
+      "go_map_type",
+      "go_range_kw",
+      "go_slice_slicing",
+      "go_slice_type",
+      "go_struct_type",
+      "go_word_frequency",
+      "hands_on_109",
+      "hands_on_110",
+      "hands_on_111",
+      "hands_on_112",
+      "hands_on_113",
+      "hands_on_114",
+      "hands_on_115",
+      "hands_on_121",
+      "hands_on_122",
+      "hands_on_123",
+      "hands_on_124",
+      "hands_on_129",
+      "hands_on_130",
+      "hands_on_132",
+      "person_struct"
+    ],
+    "3": [
+      "boolean_conditions",
+      "break",
+      "case_blocks",
+      "comparison_ops",
+      "for_loops",
+      "ho77",
+      "ho79",
+      "ho80",
+      "ho81",
+      "ho82",
+      "ho83",
+      "ho84",
+      "ho85",
+      "ho87",
+      "ho88",
+      "ho89",
+      "if_else",
+      "init_func",
+      "main_func",
+      "modulo",
+      "nested_loops",
+      "random",
+      "switch"
+    ],
+    "4": [
+      "Greeting",
+      "anonymous_fn",
+      "arrays",
+      "bar",
+      "closure",
+      "dogdetails",
+      "fmt_Printf",
+      "fmt_Println",
+      "foo",
+      "for_loop",
+      "func_expr",
+      "greet",
+      "greetWithName",
+      "greetWithNameAndReturn",
+      "incrementor",
+      "main_fn",
+      "rand_Intn",
+      "range_loop",
+      "switch_stmt"
+    ],
+    "5": [
+      "bytes_buffer",
+      "bytes_package",
+      "error_handling",
+      "file_operations",
+      "io_package",
+      "io_writer",
+      "new_file_txt",
+      "os_file",
+      "os_package",
+      "person_type",
+      "write_method",
+      "writer_interface",
+      "writertest_method"
+    ],
+    "6": [
+      "array_iteration",
+      "comma_ok_idiom",
+      "delete_op",
+      "ho123",
+      "ho124",
+      "ho130",
+      "map_counting",
+      "map_iteration",
+      "maps",
+      "range_operator",
+      "word_frequency"
+    ],
+    "7": [
+      "fmt_pkg",
+      "go_if_stmt",
+      "go_init_func",
+      "go_switch_stmt",
+      "hands_on_55",
+      "hands_on_56",
+      "hands_on_77",
+      "hands_on_80",
+      "math_rand_pkg",
+      "pkg_main"
+    ],
+    "8": [
+      "hands_on_understanding_interfaces_and_poly_part_2_dog",
+      "hands_on_understanding_interfaces_and_poly_part_2_dog_bark",
+      "hands_on_understanding_interfaces_and_poly_part_2_dog_details",
+      "hands_on_understanding_interfaces_and_poly_part_2_main_go",
+      "hands_on_understanding_interfaces_and_poly_part_2_owner",
+      "hands_on_understanding_interfaces_and_poly_part_2_owner_details",
+      "hands_on_understanding_interfaces_and_poly_part_2_pet",
+      "main_doggie",
+      "main_pethumaninformation"
+    ],
+    "9": [
+      "build_from_json_func",
+      "build_graph_py",
+      "cluster_func",
+      "detect_func",
+      "extract_func",
+      "god_nodes_func",
+      "graphify_lib",
+      "networkx_lib",
+      "surprising_connections_func"
+    ],
+    "10": [
+      "hands_on_understanding_functions_part_1_main_go",
+      "main_dogdetails",
+      "main_greet",
+      "main_greeting",
+      "main_greetwithname",
+      "main_greetwithnameandreturn",
+      "main_sum",
+      "main_sum2"
+    ],
+    "11": [
+      "base_case",
+      "callbacks",
+      "factorial_problem",
+      "function_decl",
+      "function_params",
+      "recursion",
+      "return_values",
+      "variadic_params"
+    ],
+    "12": [
+      "constants",
+      "ho55",
+      "ho56",
+      "imports",
+      "package_scope",
+      "packages",
+      "variables"
+    ],
+    "13": [
+      "hands_on_understanding_functions_145_main_go",
+      "hands_on_understanding_functions_146_main_go",
+      "hands_on_understanding_functions_147_main_go",
+      "hands_on_understanding_functions_150_main_go",
+      "main_bar",
+      "main_foo"
+    ],
+    "14": [
+      "hands_on_understanding_stringer_interfaces_part_3_book",
+      "hands_on_understanding_stringer_interfaces_part_3_book_string",
+      "hands_on_understanding_stringer_interfaces_part_3_count",
+      "hands_on_understanding_stringer_interfaces_part_3_count_string",
+      "hands_on_understanding_stringer_interfaces_part_3_main_go"
+    ],
+    "15": [
+      "ansible_automation",
+      "go_course",
+      "go_language",
+      "todd_mcleod",
+      "wsl_setup"
+    ],
+    "16": [
+      "array_literals",
+      "fixed_arrays",
+      "ho90",
+      "range",
+      "slices"
+    ],
+    "17": [
+      "anonymous_functions",
+      "closures",
+      "function_expressions",
+      "returning_functions",
+      "wrapper_functions"
+    ],
+    "18": [
+      "hands_on_understanding_functions_148_main_go",
+      "main_addnumber",
+      "main_calculator",
+      "main_subnumber"
+    ],
+    "19": [
+      "addnumber",
+      "calculator",
+      "callback",
+      "subnumber"
+    ],
+    "20": [
+      "hands_on_understanding_writer_interfaces_part_4_main_go",
+      "hands_on_understanding_writer_interfaces_part_4_person",
+      "hands_on_understanding_writer_interfaces_part_4_person_writertest"
+    ],
+    "21": [
+      "hands_on_understanding_struct_types_agentname",
+      "hands_on_understanding_struct_types_main_go",
+      "hands_on_understanding_struct_types_person"
+    ],
+    "22": [
+      "hands_on_131_engine",
+      "hands_on_131_main_go",
+      "hands_on_131_vehicle"
+    ],
+    "23": [
+      "engine_struct",
+      "hands_on_131",
+      "vehicle_struct"
+    ],
+    "24": [
+      "boolean_logic",
+      "if_statements",
+      "short_var_decl"
+    ],
+    "25": [
+      "hands_on_130_main_go",
+      "hands_on_130_person"
+    ],
+    "26": [
+      "hands_on_79_main_go",
+      "main_init"
+    ],
+    "27": [
+      "hands_on_129_main_go",
+      "hands_on_129_person"
+    ],
+    "28": [
+      "hands_on_understanding_functions_152_main_go",
+      "main_readfile"
+    ],
+    "29": [
+      "hands_on_understanding_functions_149_main_go",
+      "main_incrementor"
+    ],
+    "30": [
+      "hands_on_understanding_functions_151_main_go",
+      "main_factorial"
+    ],
+    "31": [
+      "hands_on_79",
+      "puppy_pkg"
+    ],
+    "32": [
+      "ho86",
+      "infinite_loops"
+    ],
+    "33": [
+      "collect_files_func"
+    ],
+    "34": [
+      "generate_func"
+    ],
+    "35": [
+      "to_html_func"
+    ],
+    "36": [
+      "node_link_data"
+    ]
+  },
+  "cohesion": {},
+  "god_nodes": [
+    {
+      "id": "main_main",
+      "label": "main()",
+      "degree": 70
+    },
+    {
+      "id": "main_foo",
+      "label": "foo()",
+      "degree": 5
+    },
+    {
+      "id": "hands_on_understanding_interfaces_and_poly_part_2_dog",
+      "label": "Dog",
+      "degree": 3
+    },
+    {
+      "id": "main_pethumaninformation",
+      "label": "pethumaninformation()",
+      "degree": 3
+    },
+    {
+      "id": "hands_on_understanding_stringer_interfaces_part_3_count",
+      "label": "count",
+      "degree": 3
+    },
+    {
+      "id": "main_greet",
+      "label": "greet()",
+      "degree": 2
+    },
+    {
+      "id": "main_greetwithname",
+      "label": "greetWithName()",
+      "degree": 2
+    },
+    {
+      "id": "main_greetwithnameandreturn",
+      "label": "greetWithNameAndReturn()",
+      "degree": 2
+    },
+    {
+      "id": "main_dogdetails",
+      "label": "dogdetails()",
+      "degree": 2
+    },
+    {
+      "id": "main_sum",
+      "label": "sum()",
+      "degree": 2
+    }
+  ],
+  "surprises": [
+    {
+      "source": "main()",
+      "target": "greet()",
+      "source_files": [
+        "hands-on-understanding-writer-interfaces- Part 4\\main.go",
+        "hands-on-understanding-Functions- Part 1\\main.go"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "connects across different repos/directories; bridges separate communities; peripheral node `greet()` unexpectedly reaches hub `main()`"
+    },
+    {
+      "source": "main()",
+      "target": "greetWithName()",
+      "source_files": [
+        "hands-on-understanding-writer-interfaces- Part 4\\main.go",
+        "hands-on-understanding-Functions- Part 1\\main.go"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "connects across different repos/directories; bridges separate communities; peripheral node `greetWithName()` unexpectedly reaches hub `main()`"
+    },
+    {
+      "source": "main()",
+      "target": "greetWithNameAndReturn()",
+      "source_files": [
+        "hands-on-understanding-writer-interfaces- Part 4\\main.go",
+        "hands-on-understanding-Functions- Part 1\\main.go"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "connects across different repos/directories; bridges separate communities; peripheral node `greetWithNameAndReturn()` unexpectedly reaches hub `main()`"
+    },
+    {
+      "source": "main()",
+      "target": "dogdetails()",
+      "source_files": [
+        "hands-on-understanding-writer-interfaces- Part 4\\main.go",
+        "hands-on-understanding-Functions- Part 1\\main.go"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "connects across different repos/directories; bridges separate communities; peripheral node `dogdetails()` unexpectedly reaches hub `main()`"
+    },
+    {
+      "source": "main()",
+      "target": "sum()",
+      "source_files": [
+        "hands-on-understanding-writer-interfaces- Part 4\\main.go",
+        "hands-on-understanding-Functions- Part 1\\main.go"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "connects across different repos/directories; bridges separate communities; peripheral node `sum()` unexpectedly reaches hub `main()`"
+    }
+  ]
+}

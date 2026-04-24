@@ -1,11 +1,13 @@
 # hands-on-121 (revision and practice)
 
 ## Purpose
-Revision-focused Go practice from lessons, then my own examples for reinforcement.
+Review map usage with progressively richer examples, including maps whose values are slices.
 
 ## What I Practiced
-- Revision topic:
-- My own example:
+- Creating and printing basic maps.
+- Appending slice values into a map.
+- Building nested `map[string][]string` data.
+- Using nested `for-range` loops to print keys and slice values.
 
 ## Run
 ```bash
@@ -13,6 +15,6 @@ go run .
 ```
 
 ## Notes
-- Practiced map usage with nested structures and `for range` iteration.
-- Reinforced reading key-value data from grouped collections.
-- Writing my own revision example strengthened map traversal skills.
+- The program prints several map examples and then walks through nested data structures.
+- This folder is broader than a simple placeholder revision note.
+- It is useful as a consolidation exercise for maps, slices, and iteration together.

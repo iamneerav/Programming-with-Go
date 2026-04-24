@@ -1,0 +1,1668 @@
+[
+    {
+        "Dir":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy",
+        "HasMain":  false,
+        "Hash":  "B02A43AB70F9F5445099D90CAF82B5787FAD9CAEB3B4D4CE6C9F26490DE3EBBA",
+        "Heading":  {
+                        "value":  "# Programming-with-Go",
+                        "PSPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\README.MD",
+                        "PSParentPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy",
+                        "PSChildName":  "README.MD",
+                        "PSDrive":  {
+                                        "CurrentLocation":  "Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy",
+                                        "Name":  "C",
+                                        "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                        "Root":  "C:\\",
+                                        "Description":  "Windows",
+                                        "MaximumSize":  null,
+                                        "Credential":  "System.Management.Automation.PSCredential",
+                                        "DisplayRoot":  null
+                                    },
+                        "PSProvider":  {
+                                           "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                           "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                           "Name":  "FileSystem",
+                                           "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                           "ModuleName":  "Microsoft.PowerShell.Core",
+                                           "Module":  null,
+                                           "Description":  "",
+                                           "Capabilities":  52,
+                                           "Home":  "C:\\Users\\Neerav.Bhatia",
+                                           "Drives":  "C"
+                                       },
+                        "ReadCount":  1
+                    }
+    },
+    {
+        "Dir":  "hands-on-109",
+        "HasMain":  true,
+        "Hash":  "016A898D110E7288DDB9C65E51B718078A6D1716FFE67180F8FC34CAFCAAEAD5",
+        "Heading":  {
+                        "value":  "# hands-on-109",
+                        "PSPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-109\\README.md",
+                        "PSParentPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-109",
+                        "PSChildName":  "README.md",
+                        "PSDrive":  {
+                                        "CurrentLocation":  "Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy",
+                                        "Name":  "C",
+                                        "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                        "Root":  "C:\\",
+                                        "Description":  "Windows",
+                                        "MaximumSize":  null,
+                                        "Credential":  "System.Management.Automation.PSCredential",
+                                        "DisplayRoot":  null
+                                    },
+                        "PSProvider":  {
+                                           "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                           "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                           "Name":  "FileSystem",
+                                           "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                           "ModuleName":  "Microsoft.PowerShell.Core",
+                                           "Module":  null,
+                                           "Description":  "",
+                                           "Capabilities":  52,
+                                           "Home":  "C:\\Users\\Neerav.Bhatia",
+                                           "Drives":  "C"
+                                       },
+                        "ReadCount":  1
+                    }
+    },
+    {
+        "Dir":  "hands-on-110",
+        "HasMain":  true,
+        "Hash":  "D8492787B6F991C7828CE8888FC3EE9F2E78C72D8787B46E5BE88D2479084597",
+        "Heading":  {
+                        "value":  "# hands-on-110",
+                        "PSPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-110\\README.md",
+                        "PSParentPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-110",
+                        "PSChildName":  "README.md",
+                        "PSDrive":  {
+                                        "CurrentLocation":  "Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy",
+                                        "Name":  "C",
+                                        "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                        "Root":  "C:\\",
+                                        "Description":  "Windows",
+                                        "MaximumSize":  null,
+                                        "Credential":  "System.Management.Automation.PSCredential",
+                                        "DisplayRoot":  null
+                                    },
+                        "PSProvider":  {
+                                           "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                           "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                           "Name":  "FileSystem",
+                                           "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                           "ModuleName":  "Microsoft.PowerShell.Core",
+                                           "Module":  null,
+                                           "Description":  "",
+                                           "Capabilities":  52,
+                                           "Home":  "C:\\Users\\Neerav.Bhatia",
+                                           "Drives":  "C"
+                                       },
+                        "ReadCount":  1
+                    }
+    },
+    {
+        "Dir":  "hands-on-111",
+        "HasMain":  true,
+        "Hash":  "4461C4D5C38B139E501D38CACBED45817BD2960583AE49E89CE8691BB137D236",
+        "Heading":  {
+                        "value":  "# hands-on-111",
+                        "PSPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-111\\README.md",
+                        "PSParentPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-111",
+                        "PSChildName":  "README.md",
+                        "PSDrive":  {
+                                        "CurrentLocation":  "Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy",
+                                        "Name":  "C",
+                                        "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                        "Root":  "C:\\",
+                                        "Description":  "Windows",
+                                        "MaximumSize":  null,
+                                        "Credential":  "System.Management.Automation.PSCredential",
+                                        "DisplayRoot":  null
+                                    },
+                        "PSProvider":  {
+                                           "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                           "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                           "Name":  "FileSystem",
+                                           "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                           "ModuleName":  "Microsoft.PowerShell.Core",
+                                           "Module":  null,
+                                           "Description":  "",
+                                           "Capabilities":  52,
+                                           "Home":  "C:\\Users\\Neerav.Bhatia",
+                                           "Drives":  "C"
+                                       },
+                        "ReadCount":  1
+                    }
+    },
+    {
+        "Dir":  "hands-on-112",
+        "HasMain":  true,
+        "Hash":  "140A1562CF77FE5D5C8FDEFBD052A90E4C2888E9731159E6424FF424DFAFC7B4",
+        "Heading":  {
+                        "value":  "# hands-on-112",
+                        "PSPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-112\\README.md",
+                        "PSParentPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-112",
+                        "PSChildName":  "README.md",
+                        "PSDrive":  {
+                                        "CurrentLocation":  "Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy",
+                                        "Name":  "C",
+                                        "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                        "Root":  "C:\\",
+                                        "Description":  "Windows",
+                                        "MaximumSize":  null,
+                                        "Credential":  "System.Management.Automation.PSCredential",
+                                        "DisplayRoot":  null
+                                    },
+                        "PSProvider":  {
+                                           "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                           "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                           "Name":  "FileSystem",
+                                           "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                           "ModuleName":  "Microsoft.PowerShell.Core",
+                                           "Module":  null,
+                                           "Description":  "",
+                                           "Capabilities":  52,
+                                           "Home":  "C:\\Users\\Neerav.Bhatia",
+                                           "Drives":  "C"
+                                       },
+                        "ReadCount":  1
+                    }
+    },
+    {
+        "Dir":  "hands-on-113",
+        "HasMain":  true,
+        "Hash":  "DACB05FB6A6EA7E553BFD8F803D28DB141A204550FB963D6EF27138999A1BBE1",
+        "Heading":  {
+                        "value":  "# hands-on-113",
+                        "PSPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-113\\README.md",
+                        "PSParentPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-113",
+                        "PSChildName":  "README.md",
+                        "PSDrive":  {
+                                        "CurrentLocation":  "Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy",
+                                        "Name":  "C",
+                                        "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                        "Root":  "C:\\",
+                                        "Description":  "Windows",
+                                        "MaximumSize":  null,
+                                        "Credential":  "System.Management.Automation.PSCredential",
+                                        "DisplayRoot":  null
+                                    },
+                        "PSProvider":  {
+                                           "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                           "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                           "Name":  "FileSystem",
+                                           "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                           "ModuleName":  "Microsoft.PowerShell.Core",
+                                           "Module":  null,
+                                           "Description":  "",
+                                           "Capabilities":  52,
+                                           "Home":  "C:\\Users\\Neerav.Bhatia",
+                                           "Drives":  "C"
+                                       },
+                        "ReadCount":  1
+                    }
+    },
+    {
+        "Dir":  "hands-on-114",
+        "HasMain":  true,
+        "Hash":  "590E1A873F5B84E80BF112E048C3238417CB4FC6B692EA4BCB4A0A68254CA635",
+        "Heading":  {
+                        "value":  "# hands-on-114",
+                        "PSPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-114\\README.md",
+                        "PSParentPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-114",
+                        "PSChildName":  "README.md",
+                        "PSDrive":  {
+                                        "CurrentLocation":  "Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy",
+                                        "Name":  "C",
+                                        "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                        "Root":  "C:\\",
+                                        "Description":  "Windows",
+                                        "MaximumSize":  null,
+                                        "Credential":  "System.Management.Automation.PSCredential",
+                                        "DisplayRoot":  null
+                                    },
+                        "PSProvider":  {
+                                           "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                           "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                           "Name":  "FileSystem",
+                                           "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                           "ModuleName":  "Microsoft.PowerShell.Core",
+                                           "Module":  null,
+                                           "Description":  "",
+                                           "Capabilities":  52,
+                                           "Home":  "C:\\Users\\Neerav.Bhatia",
+                                           "Drives":  "C"
+                                       },
+                        "ReadCount":  1
+                    }
+    },
+    {
+        "Dir":  "hands-on-115",
+        "HasMain":  true,
+        "Hash":  "D6001F8D48F0C199FAB3ECE2C4BB5E453325FA9D83958A9709BCDA45974F2B14",
+        "Heading":  {
+                        "value":  "# hands-on-115",
+                        "PSPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-115\\README.md",
+                        "PSParentPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-115",
+                        "PSChildName":  "README.md",
+                        "PSDrive":  {
+                                        "CurrentLocation":  "Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy",
+                                        "Name":  "C",
+                                        "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                        "Root":  "C:\\",
+                                        "Description":  "Windows",
+                                        "MaximumSize":  null,
+                                        "Credential":  "System.Management.Automation.PSCredential",
+                                        "DisplayRoot":  null
+                                    },
+                        "PSProvider":  {
+                                           "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                           "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                           "Name":  "FileSystem",
+                                           "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                           "ModuleName":  "Microsoft.PowerShell.Core",
+                                           "Module":  null,
+                                           "Description":  "",
+                                           "Capabilities":  52,
+                                           "Home":  "C:\\Users\\Neerav.Bhatia",
+                                           "Drives":  "C"
+                                       },
+                        "ReadCount":  1
+                    }
+    },
+    {
+        "Dir":  "hands-on-121(revision_and_practice)",
+        "HasMain":  true,
+        "Hash":  "9B0CF5A11EF33BF2A61283E587CCFB20342E5C71A04C9762665F179827D573B9",
+        "Heading":  {
+                        "value":  "# hands-on-121 (revision and practice)",
+                        "PSPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-121(revision_and_practice)\\README.md",
+                        "PSParentPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-121(revision_and_practice)",
+                        "PSChildName":  "README.md",
+                        "PSDrive":  {
+                                        "CurrentLocation":  "Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy",
+                                        "Name":  "C",
+                                        "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                        "Root":  "C:\\",
+                                        "Description":  "Windows",
+                                        "MaximumSize":  null,
+                                        "Credential":  "System.Management.Automation.PSCredential",
+                                        "DisplayRoot":  null
+                                    },
+                        "PSProvider":  {
+                                           "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                           "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                           "Name":  "FileSystem",
+                                           "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                           "ModuleName":  "Microsoft.PowerShell.Core",
+                                           "Module":  null,
+                                           "Description":  "",
+                                           "Capabilities":  52,
+                                           "Home":  "C:\\Users\\Neerav.Bhatia",
+                                           "Drives":  "C"
+                                       },
+                        "ReadCount":  1
+                    }
+    },
+    {
+        "Dir":  "hands-on-122",
+        "HasMain":  true,
+        "Hash":  "BD04A2AB27E1F0C76C5F8AAF97E89F03E4019FA74F3DBEE7611BEFEE98A8BECE",
+        "Heading":  {
+                        "value":  "# hands-on-122",
+                        "PSPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-122\\README.md",
+                        "PSParentPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-122",
+                        "PSChildName":  "README.md",
+                        "PSDrive":  {
+                                        "CurrentLocation":  "Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy",
+                                        "Name":  "C",
+                                        "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                        "Root":  "C:\\",
+                                        "Description":  "Windows",
+                                        "MaximumSize":  null,
+                                        "Credential":  "System.Management.Automation.PSCredential",
+                                        "DisplayRoot":  null
+                                    },
+                        "PSProvider":  {
+                                           "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                           "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                           "Name":  "FileSystem",
+                                           "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                           "ModuleName":  "Microsoft.PowerShell.Core",
+                                           "Module":  null,
+                                           "Description":  "",
+                                           "Capabilities":  52,
+                                           "Home":  "C:\\Users\\Neerav.Bhatia",
+                                           "Drives":  "C"
+                                       },
+                        "ReadCount":  1
+                    }
+    },
+    {
+        "Dir":  "hands-on-123",
+        "HasMain":  true,
+        "Hash":  "4C6B4822A49A499B6B433A8E938B8A0557CE8F12B1C31CE82250867D177D3807",
+        "Heading":  {
+                        "value":  "# hands-on-123",
+                        "PSPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-123\\README.md",
+                        "PSParentPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-123",
+                        "PSChildName":  "README.md",
+                        "PSDrive":  {
+                                        "CurrentLocation":  "Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy",
+                                        "Name":  "C",
+                                        "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                        "Root":  "C:\\",
+                                        "Description":  "Windows",
+                                        "MaximumSize":  null,
+                                        "Credential":  "System.Management.Automation.PSCredential",
+                                        "DisplayRoot":  null
+                                    },
+                        "PSProvider":  {
+                                           "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                           "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                           "Name":  "FileSystem",
+                                           "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                           "ModuleName":  "Microsoft.PowerShell.Core",
+                                           "Module":  null,
+                                           "Description":  "",
+                                           "Capabilities":  52,
+                                           "Home":  "C:\\Users\\Neerav.Bhatia",
+                                           "Drives":  "C"
+                                       },
+                        "ReadCount":  1
+                    }
+    },
+    {
+        "Dir":  "hands-on-124",
+        "HasMain":  true,
+        "Hash":  "CF8C5647D13073C66FC529BDA457BBAE1F49E2B430F0A459793289B7EE6C0FE0",
+        "Heading":  {
+                        "value":  "# hands-on-124",
+                        "PSPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-124\\README.md",
+                        "PSParentPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-124",
+                        "PSChildName":  "README.md",
+                        "PSDrive":  {
+                                        "CurrentLocation":  "Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy",
+                                        "Name":  "C",
+                                        "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                        "Root":  "C:\\",
+                                        "Description":  "Windows",
+                                        "MaximumSize":  null,
+                                        "Credential":  "System.Management.Automation.PSCredential",
+                                        "DisplayRoot":  null
+                                    },
+                        "PSProvider":  {
+                                           "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                           "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                           "Name":  "FileSystem",
+                                           "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                           "ModuleName":  "Microsoft.PowerShell.Core",
+                                           "Module":  null,
+                                           "Description":  "",
+                                           "Capabilities":  52,
+                                           "Home":  "C:\\Users\\Neerav.Bhatia",
+                                           "Drives":  "C"
+                                       },
+                        "ReadCount":  1
+                    }
+    },
+    {
+        "Dir":  "hands-on-129",
+        "HasMain":  true,
+        "Hash":  "621D1BC73B15F06DF4870868E409E1E645C3CF6A719CD0E46BAF1B29122640F1",
+        "Heading":  {
+                        "value":  "# hands-on-129",
+                        "PSPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-129\\README.md",
+                        "PSParentPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-129",
+                        "PSChildName":  "README.md",
+                        "PSDrive":  {
+                                        "CurrentLocation":  "Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy",
+                                        "Name":  "C",
+                                        "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                        "Root":  "C:\\",
+                                        "Description":  "Windows",
+                                        "MaximumSize":  null,
+                                        "Credential":  "System.Management.Automation.PSCredential",
+                                        "DisplayRoot":  null
+                                    },
+                        "PSProvider":  {
+                                           "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                           "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                           "Name":  "FileSystem",
+                                           "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                           "ModuleName":  "Microsoft.PowerShell.Core",
+                                           "Module":  null,
+                                           "Description":  "",
+                                           "Capabilities":  52,
+                                           "Home":  "C:\\Users\\Neerav.Bhatia",
+                                           "Drives":  "C"
+                                       },
+                        "ReadCount":  1
+                    }
+    },
+    {
+        "Dir":  "hands-on-130",
+        "HasMain":  true,
+        "Hash":  "15CE23F81AA9C6C255CD874AB852F13F079280B8CA581F29C2F457A094818485",
+        "Heading":  {
+                        "value":  "# hands-on-130",
+                        "PSPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-130\\README.md",
+                        "PSParentPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-130",
+                        "PSChildName":  "README.md",
+                        "PSDrive":  {
+                                        "CurrentLocation":  "Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy",
+                                        "Name":  "C",
+                                        "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                        "Root":  "C:\\",
+                                        "Description":  "Windows",
+                                        "MaximumSize":  null,
+                                        "Credential":  "System.Management.Automation.PSCredential",
+                                        "DisplayRoot":  null
+                                    },
+                        "PSProvider":  {
+                                           "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                           "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                           "Name":  "FileSystem",
+                                           "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                           "ModuleName":  "Microsoft.PowerShell.Core",
+                                           "Module":  null,
+                                           "Description":  "",
+                                           "Capabilities":  52,
+                                           "Home":  "C:\\Users\\Neerav.Bhatia",
+                                           "Drives":  "C"
+                                       },
+                        "ReadCount":  1
+                    }
+    },
+    {
+        "Dir":  "hands-on-131",
+        "HasMain":  true,
+        "Hash":  "881BBA0E8CAD8178FAE602F8B7F3C73776F9735F21DC75D9C275685CA42B3C61",
+        "Heading":  {
+                        "value":  "# hands-on-131",
+                        "PSPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-131\\README.md",
+                        "PSParentPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-131",
+                        "PSChildName":  "README.md",
+                        "PSDrive":  {
+                                        "CurrentLocation":  "Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy",
+                                        "Name":  "C",
+                                        "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                        "Root":  "C:\\",
+                                        "Description":  "Windows",
+                                        "MaximumSize":  null,
+                                        "Credential":  "System.Management.Automation.PSCredential",
+                                        "DisplayRoot":  null
+                                    },
+                        "PSProvider":  {
+                                           "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                           "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                           "Name":  "FileSystem",
+                                           "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                           "ModuleName":  "Microsoft.PowerShell.Core",
+                                           "Module":  null,
+                                           "Description":  "",
+                                           "Capabilities":  52,
+                                           "Home":  "C:\\Users\\Neerav.Bhatia",
+                                           "Drives":  "C"
+                                       },
+                        "ReadCount":  1
+                    }
+    },
+    {
+        "Dir":  "hands-on-132",
+        "HasMain":  true,
+        "Hash":  "FD3ABF9CEDFC1C25317B9AA1723693254662190A8192DE5293AA98CC3BD0ACCE",
+        "Heading":  {
+                        "value":  "# hands-on-132",
+                        "PSPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-132\\README.md",
+                        "PSParentPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-132",
+                        "PSChildName":  "README.md",
+                        "PSDrive":  {
+                                        "CurrentLocation":  "Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy",
+                                        "Name":  "C",
+                                        "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                        "Root":  "C:\\",
+                                        "Description":  "Windows",
+                                        "MaximumSize":  null,
+                                        "Credential":  "System.Management.Automation.PSCredential",
+                                        "DisplayRoot":  null
+                                    },
+                        "PSProvider":  {
+                                           "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                           "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                           "Name":  "FileSystem",
+                                           "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                           "ModuleName":  "Microsoft.PowerShell.Core",
+                                           "Module":  null,
+                                           "Description":  "",
+                                           "Capabilities":  52,
+                                           "Home":  "C:\\Users\\Neerav.Bhatia",
+                                           "Drives":  "C"
+                                       },
+                        "ReadCount":  1
+                    }
+    },
+    {
+        "Dir":  "hands-on-55",
+        "HasMain":  true,
+        "Hash":  "715806D730F6FCE2BD1333F1FD9240C8A183937A51D3B4CBE12DEF79B3DAAF84",
+        "Heading":  {
+                        "value":  "# hands-on-55",
+                        "PSPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-55\\README.md",
+                        "PSParentPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-55",
+                        "PSChildName":  "README.md",
+                        "PSDrive":  {
+                                        "CurrentLocation":  "Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy",
+                                        "Name":  "C",
+                                        "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                        "Root":  "C:\\",
+                                        "Description":  "Windows",
+                                        "MaximumSize":  null,
+                                        "Credential":  "System.Management.Automation.PSCredential",
+                                        "DisplayRoot":  null
+                                    },
+                        "PSProvider":  {
+                                           "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                           "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                           "Name":  "FileSystem",
+                                           "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                           "ModuleName":  "Microsoft.PowerShell.Core",
+                                           "Module":  null,
+                                           "Description":  "",
+                                           "Capabilities":  52,
+                                           "Home":  "C:\\Users\\Neerav.Bhatia",
+                                           "Drives":  "C"
+                                       },
+                        "ReadCount":  1
+                    }
+    },
+    {
+        "Dir":  "hands-on-56",
+        "HasMain":  true,
+        "Hash":  "F60542E9839EF164F96CEB6200E53E3A18F93E307554D5DF32B26F15516F5147",
+        "Heading":  {
+                        "value":  "# hands-on-56",
+                        "PSPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-56\\README.md",
+                        "PSParentPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-56",
+                        "PSChildName":  "README.md",
+                        "PSDrive":  {
+                                        "CurrentLocation":  "Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy",
+                                        "Name":  "C",
+                                        "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                        "Root":  "C:\\",
+                                        "Description":  "Windows",
+                                        "MaximumSize":  null,
+                                        "Credential":  "System.Management.Automation.PSCredential",
+                                        "DisplayRoot":  null
+                                    },
+                        "PSProvider":  {
+                                           "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                           "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                           "Name":  "FileSystem",
+                                           "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                           "ModuleName":  "Microsoft.PowerShell.Core",
+                                           "Module":  null,
+                                           "Description":  "",
+                                           "Capabilities":  52,
+                                           "Home":  "C:\\Users\\Neerav.Bhatia",
+                                           "Drives":  "C"
+                                       },
+                        "ReadCount":  1
+                    }
+    },
+    {
+        "Dir":  "hands-on-77",
+        "HasMain":  true,
+        "Hash":  "8439E31CACCDDD6BED05C57B04B78D28FA85388DD150AD8FFD705FADEFE26139",
+        "Heading":  {
+                        "value":  "# hands-on-77",
+                        "PSPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-77\\README.md",
+                        "PSParentPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-77",
+                        "PSChildName":  "README.md",
+                        "PSDrive":  {
+                                        "CurrentLocation":  "Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy",
+                                        "Name":  "C",
+                                        "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                        "Root":  "C:\\",
+                                        "Description":  "Windows",
+                                        "MaximumSize":  null,
+                                        "Credential":  "System.Management.Automation.PSCredential",
+                                        "DisplayRoot":  null
+                                    },
+                        "PSProvider":  {
+                                           "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                           "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                           "Name":  "FileSystem",
+                                           "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                           "ModuleName":  "Microsoft.PowerShell.Core",
+                                           "Module":  null,
+                                           "Description":  "",
+                                           "Capabilities":  52,
+                                           "Home":  "C:\\Users\\Neerav.Bhatia",
+                                           "Drives":  "C"
+                                       },
+                        "ReadCount":  1
+                    }
+    },
+    {
+        "Dir":  "hands-on-79",
+        "HasMain":  true,
+        "Hash":  "868C65677E69B6FE8A7AC5C2712E649C55D161A6CDE4995B1ED5930B10CDF6A6",
+        "Heading":  {
+                        "value":  "# hands-on-79",
+                        "PSPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-79\\README.md",
+                        "PSParentPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-79",
+                        "PSChildName":  "README.md",
+                        "PSDrive":  {
+                                        "CurrentLocation":  "Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy",
+                                        "Name":  "C",
+                                        "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                        "Root":  "C:\\",
+                                        "Description":  "Windows",
+                                        "MaximumSize":  null,
+                                        "Credential":  "System.Management.Automation.PSCredential",
+                                        "DisplayRoot":  null
+                                    },
+                        "PSProvider":  {
+                                           "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                           "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                           "Name":  "FileSystem",
+                                           "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                           "ModuleName":  "Microsoft.PowerShell.Core",
+                                           "Module":  null,
+                                           "Description":  "",
+                                           "Capabilities":  52,
+                                           "Home":  "C:\\Users\\Neerav.Bhatia",
+                                           "Drives":  "C"
+                                       },
+                        "ReadCount":  1
+                    }
+    },
+    {
+        "Dir":  "hands-on-80",
+        "HasMain":  true,
+        "Hash":  "565CAEDA7FDDF54C66C6E72CDA4C0880492D5D685AF4E1ED4A13CF44BB8067F0",
+        "Heading":  {
+                        "value":  "# hands-on-80",
+                        "PSPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-80\\README.md",
+                        "PSParentPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-80",
+                        "PSChildName":  "README.md",
+                        "PSDrive":  {
+                                        "CurrentLocation":  "Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy",
+                                        "Name":  "C",
+                                        "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                        "Root":  "C:\\",
+                                        "Description":  "Windows",
+                                        "MaximumSize":  null,
+                                        "Credential":  "System.Management.Automation.PSCredential",
+                                        "DisplayRoot":  null
+                                    },
+                        "PSProvider":  {
+                                           "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                           "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                           "Name":  "FileSystem",
+                                           "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                           "ModuleName":  "Microsoft.PowerShell.Core",
+                                           "Module":  null,
+                                           "Description":  "",
+                                           "Capabilities":  52,
+                                           "Home":  "C:\\Users\\Neerav.Bhatia",
+                                           "Drives":  "C"
+                                       },
+                        "ReadCount":  1
+                    }
+    },
+    {
+        "Dir":  "hands-on-81",
+        "HasMain":  true,
+        "Hash":  "15CF645EFCF34EB5881F11899570C50CF57EAC0B4E10CAFA29C2C3F58A41E5A1",
+        "Heading":  {
+                        "value":  "# hands-on-81",
+                        "PSPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-81\\README.md",
+                        "PSParentPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-81",
+                        "PSChildName":  "README.md",
+                        "PSDrive":  {
+                                        "CurrentLocation":  "Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy",
+                                        "Name":  "C",
+                                        "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                        "Root":  "C:\\",
+                                        "Description":  "Windows",
+                                        "MaximumSize":  null,
+                                        "Credential":  "System.Management.Automation.PSCredential",
+                                        "DisplayRoot":  null
+                                    },
+                        "PSProvider":  {
+                                           "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                           "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                           "Name":  "FileSystem",
+                                           "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                           "ModuleName":  "Microsoft.PowerShell.Core",
+                                           "Module":  null,
+                                           "Description":  "",
+                                           "Capabilities":  52,
+                                           "Home":  "C:\\Users\\Neerav.Bhatia",
+                                           "Drives":  "C"
+                                       },
+                        "ReadCount":  1
+                    }
+    },
+    {
+        "Dir":  "hands-on-82",
+        "HasMain":  true,
+        "Hash":  "4F9C514DA67807A4D885A6C9721B5C247664293D72C4005FF4561A827A9B5FAD",
+        "Heading":  {
+                        "value":  "# hands-on-82",
+                        "PSPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-82\\README.md",
+                        "PSParentPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-82",
+                        "PSChildName":  "README.md",
+                        "PSDrive":  {
+                                        "CurrentLocation":  "Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy",
+                                        "Name":  "C",
+                                        "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                        "Root":  "C:\\",
+                                        "Description":  "Windows",
+                                        "MaximumSize":  null,
+                                        "Credential":  "System.Management.Automation.PSCredential",
+                                        "DisplayRoot":  null
+                                    },
+                        "PSProvider":  {
+                                           "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                           "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                           "Name":  "FileSystem",
+                                           "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                           "ModuleName":  "Microsoft.PowerShell.Core",
+                                           "Module":  null,
+                                           "Description":  "",
+                                           "Capabilities":  52,
+                                           "Home":  "C:\\Users\\Neerav.Bhatia",
+                                           "Drives":  "C"
+                                       },
+                        "ReadCount":  1
+                    }
+    },
+    {
+        "Dir":  "hands-on-83",
+        "HasMain":  true,
+        "Hash":  "A990905FC072A5DEA637D8BEF9222CD777D8EBC8E43F23EDB76CDEA86379C377",
+        "Heading":  {
+                        "value":  "# hands-on-83",
+                        "PSPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-83\\README.md",
+                        "PSParentPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-83",
+                        "PSChildName":  "README.md",
+                        "PSDrive":  {
+                                        "CurrentLocation":  "Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy",
+                                        "Name":  "C",
+                                        "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                        "Root":  "C:\\",
+                                        "Description":  "Windows",
+                                        "MaximumSize":  null,
+                                        "Credential":  "System.Management.Automation.PSCredential",
+                                        "DisplayRoot":  null
+                                    },
+                        "PSProvider":  {
+                                           "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                           "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                           "Name":  "FileSystem",
+                                           "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                           "ModuleName":  "Microsoft.PowerShell.Core",
+                                           "Module":  null,
+                                           "Description":  "",
+                                           "Capabilities":  52,
+                                           "Home":  "C:\\Users\\Neerav.Bhatia",
+                                           "Drives":  "C"
+                                       },
+                        "ReadCount":  1
+                    }
+    },
+    {
+        "Dir":  "hands-on-84",
+        "HasMain":  true,
+        "Hash":  "E08248FA9E5D5D56DFFDB6C0F2AF17D5EBC23F6869AB322400F6A7312C1CD07F",
+        "Heading":  {
+                        "value":  "# hands-on-84",
+                        "PSPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-84\\README.md",
+                        "PSParentPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-84",
+                        "PSChildName":  "README.md",
+                        "PSDrive":  {
+                                        "CurrentLocation":  "Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy",
+                                        "Name":  "C",
+                                        "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                        "Root":  "C:\\",
+                                        "Description":  "Windows",
+                                        "MaximumSize":  null,
+                                        "Credential":  "System.Management.Automation.PSCredential",
+                                        "DisplayRoot":  null
+                                    },
+                        "PSProvider":  {
+                                           "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                           "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                           "Name":  "FileSystem",
+                                           "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                           "ModuleName":  "Microsoft.PowerShell.Core",
+                                           "Module":  null,
+                                           "Description":  "",
+                                           "Capabilities":  52,
+                                           "Home":  "C:\\Users\\Neerav.Bhatia",
+                                           "Drives":  "C"
+                                       },
+                        "ReadCount":  1
+                    }
+    },
+    {
+        "Dir":  "hands-on-85",
+        "HasMain":  true,
+        "Hash":  "D6670209AB0A772F3BAB2F330746D267C38CDA1122ABDFB3CC31C7987E1EEDB5",
+        "Heading":  {
+                        "value":  "# hands-on-85",
+                        "PSPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-85\\README.md",
+                        "PSParentPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-85",
+                        "PSChildName":  "README.md",
+                        "PSDrive":  {
+                                        "CurrentLocation":  "Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy",
+                                        "Name":  "C",
+                                        "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                        "Root":  "C:\\",
+                                        "Description":  "Windows",
+                                        "MaximumSize":  null,
+                                        "Credential":  "System.Management.Automation.PSCredential",
+                                        "DisplayRoot":  null
+                                    },
+                        "PSProvider":  {
+                                           "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                           "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                           "Name":  "FileSystem",
+                                           "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                           "ModuleName":  "Microsoft.PowerShell.Core",
+                                           "Module":  null,
+                                           "Description":  "",
+                                           "Capabilities":  52,
+                                           "Home":  "C:\\Users\\Neerav.Bhatia",
+                                           "Drives":  "C"
+                                       },
+                        "ReadCount":  1
+                    }
+    },
+    {
+        "Dir":  "hands-on-86",
+        "HasMain":  true,
+        "Hash":  "299F55D344E33CCF6BBDB88305C798E5C5B551FA94E83432962F4C5CD118444D",
+        "Heading":  {
+                        "value":  "# hands-on-86",
+                        "PSPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-86\\README.md",
+                        "PSParentPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-86",
+                        "PSChildName":  "README.md",
+                        "PSDrive":  {
+                                        "CurrentLocation":  "Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy",
+                                        "Name":  "C",
+                                        "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                        "Root":  "C:\\",
+                                        "Description":  "Windows",
+                                        "MaximumSize":  null,
+                                        "Credential":  "System.Management.Automation.PSCredential",
+                                        "DisplayRoot":  null
+                                    },
+                        "PSProvider":  {
+                                           "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                           "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                           "Name":  "FileSystem",
+                                           "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                           "ModuleName":  "Microsoft.PowerShell.Core",
+                                           "Module":  null,
+                                           "Description":  "",
+                                           "Capabilities":  52,
+                                           "Home":  "C:\\Users\\Neerav.Bhatia",
+                                           "Drives":  "C"
+                                       },
+                        "ReadCount":  1
+                    }
+    },
+    {
+        "Dir":  "hands-on-87",
+        "HasMain":  true,
+        "Hash":  "C2CE74533C930973A810A93F3E610215BC5AC0858C339C4F3CB1BE6EBC036E40",
+        "Heading":  {
+                        "value":  "# hands-on-87",
+                        "PSPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-87\\README.md",
+                        "PSParentPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-87",
+                        "PSChildName":  "README.md",
+                        "PSDrive":  {
+                                        "CurrentLocation":  "Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy",
+                                        "Name":  "C",
+                                        "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                        "Root":  "C:\\",
+                                        "Description":  "Windows",
+                                        "MaximumSize":  null,
+                                        "Credential":  "System.Management.Automation.PSCredential",
+                                        "DisplayRoot":  null
+                                    },
+                        "PSProvider":  {
+                                           "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                           "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                           "Name":  "FileSystem",
+                                           "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                           "ModuleName":  "Microsoft.PowerShell.Core",
+                                           "Module":  null,
+                                           "Description":  "",
+                                           "Capabilities":  52,
+                                           "Home":  "C:\\Users\\Neerav.Bhatia",
+                                           "Drives":  "C"
+                                       },
+                        "ReadCount":  1
+                    }
+    },
+    {
+        "Dir":  "hands-on-88",
+        "HasMain":  true,
+        "Hash":  "4C12F751D9F6138518A249DCCB51CEF5CA541E3AE45C8337E8A9467323D1403C",
+        "Heading":  {
+                        "value":  "# hands-on-88",
+                        "PSPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-88\\README.md",
+                        "PSParentPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-88",
+                        "PSChildName":  "README.md",
+                        "PSDrive":  {
+                                        "CurrentLocation":  "Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy",
+                                        "Name":  "C",
+                                        "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                        "Root":  "C:\\",
+                                        "Description":  "Windows",
+                                        "MaximumSize":  null,
+                                        "Credential":  "System.Management.Automation.PSCredential",
+                                        "DisplayRoot":  null
+                                    },
+                        "PSProvider":  {
+                                           "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                           "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                           "Name":  "FileSystem",
+                                           "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                           "ModuleName":  "Microsoft.PowerShell.Core",
+                                           "Module":  null,
+                                           "Description":  "",
+                                           "Capabilities":  52,
+                                           "Home":  "C:\\Users\\Neerav.Bhatia",
+                                           "Drives":  "C"
+                                       },
+                        "ReadCount":  1
+                    }
+    },
+    {
+        "Dir":  "hands-on-89",
+        "HasMain":  true,
+        "Hash":  "A76CFCEA404282CE504714A132EC57286782159C0DAFB5DC9A4444E2FD72B6C2",
+        "Heading":  {
+                        "value":  "# hands-on-89",
+                        "PSPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-89\\README.md",
+                        "PSParentPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-89",
+                        "PSChildName":  "README.md",
+                        "PSDrive":  {
+                                        "CurrentLocation":  "Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy",
+                                        "Name":  "C",
+                                        "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                        "Root":  "C:\\",
+                                        "Description":  "Windows",
+                                        "MaximumSize":  null,
+                                        "Credential":  "System.Management.Automation.PSCredential",
+                                        "DisplayRoot":  null
+                                    },
+                        "PSProvider":  {
+                                           "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                           "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                           "Name":  "FileSystem",
+                                           "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                           "ModuleName":  "Microsoft.PowerShell.Core",
+                                           "Module":  null,
+                                           "Description":  "",
+                                           "Capabilities":  52,
+                                           "Home":  "C:\\Users\\Neerav.Bhatia",
+                                           "Drives":  "C"
+                                       },
+                        "ReadCount":  1
+                    }
+    },
+    {
+        "Dir":  "hands-on-90",
+        "HasMain":  true,
+        "Hash":  "D61A55CEA6FC119B0F761B2EF8C8D3036D5CC7F896FEA24775A986DDA18D4C7F",
+        "Heading":  {
+                        "value":  "# hands-on-90",
+                        "PSPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-90\\README.md",
+                        "PSParentPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-90",
+                        "PSChildName":  "README.md",
+                        "PSDrive":  {
+                                        "CurrentLocation":  "Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy",
+                                        "Name":  "C",
+                                        "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                        "Root":  "C:\\",
+                                        "Description":  "Windows",
+                                        "MaximumSize":  null,
+                                        "Credential":  "System.Management.Automation.PSCredential",
+                                        "DisplayRoot":  null
+                                    },
+                        "PSProvider":  {
+                                           "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                           "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                           "Name":  "FileSystem",
+                                           "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                           "ModuleName":  "Microsoft.PowerShell.Core",
+                                           "Module":  null,
+                                           "Description":  "",
+                                           "Capabilities":  52,
+                                           "Home":  "C:\\Users\\Neerav.Bhatia",
+                                           "Drives":  "C"
+                                       },
+                        "ReadCount":  1
+                    }
+    },
+    {
+        "Dir":  "hands-on-91",
+        "HasMain":  true,
+        "Hash":  "9DD0264F879CEF76C6C5A326929495D9B135408E11E158E0DDBE02F27C67E40C",
+        "Heading":  {
+                        "value":  "# hands-on-91",
+                        "PSPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-91\\README.md",
+                        "PSParentPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-91",
+                        "PSChildName":  "README.md",
+                        "PSDrive":  {
+                                        "CurrentLocation":  "Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy",
+                                        "Name":  "C",
+                                        "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                        "Root":  "C:\\",
+                                        "Description":  "Windows",
+                                        "MaximumSize":  null,
+                                        "Credential":  "System.Management.Automation.PSCredential",
+                                        "DisplayRoot":  null
+                                    },
+                        "PSProvider":  {
+                                           "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                           "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                           "Name":  "FileSystem",
+                                           "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                           "ModuleName":  "Microsoft.PowerShell.Core",
+                                           "Module":  null,
+                                           "Description":  "",
+                                           "Capabilities":  52,
+                                           "Home":  "C:\\Users\\Neerav.Bhatia",
+                                           "Drives":  "C"
+                                       },
+                        "ReadCount":  1
+                    }
+    },
+    {
+        "Dir":  "hands-on-92",
+        "HasMain":  true,
+        "Hash":  "B413C96E48658BD928E4A66A08E7064DDA434963B8F50A287DA3F7612887A446",
+        "Heading":  {
+                        "value":  "# hands-on-92",
+                        "PSPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-92\\README.md",
+                        "PSParentPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-92",
+                        "PSChildName":  "README.md",
+                        "PSDrive":  {
+                                        "CurrentLocation":  "Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy",
+                                        "Name":  "C",
+                                        "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                        "Root":  "C:\\",
+                                        "Description":  "Windows",
+                                        "MaximumSize":  null,
+                                        "Credential":  "System.Management.Automation.PSCredential",
+                                        "DisplayRoot":  null
+                                    },
+                        "PSProvider":  {
+                                           "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                           "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                           "Name":  "FileSystem",
+                                           "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                           "ModuleName":  "Microsoft.PowerShell.Core",
+                                           "Module":  null,
+                                           "Description":  "",
+                                           "Capabilities":  52,
+                                           "Home":  "C:\\Users\\Neerav.Bhatia",
+                                           "Drives":  "C"
+                                       },
+                        "ReadCount":  1
+                    }
+    },
+    {
+        "Dir":  "hands-on-97",
+        "HasMain":  true,
+        "Hash":  "F1DDDD37EFE08B39B52E3696D95138D1AECE9D3F0C1157169381F79A0EAFE89E",
+        "Heading":  {
+                        "value":  "# hands-on-97",
+                        "PSPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-97\\README.md",
+                        "PSParentPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-97",
+                        "PSChildName":  "README.md",
+                        "PSDrive":  {
+                                        "CurrentLocation":  "Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy",
+                                        "Name":  "C",
+                                        "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                        "Root":  "C:\\",
+                                        "Description":  "Windows",
+                                        "MaximumSize":  null,
+                                        "Credential":  "System.Management.Automation.PSCredential",
+                                        "DisplayRoot":  null
+                                    },
+                        "PSProvider":  {
+                                           "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                           "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                           "Name":  "FileSystem",
+                                           "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                           "ModuleName":  "Microsoft.PowerShell.Core",
+                                           "Module":  null,
+                                           "Description":  "",
+                                           "Capabilities":  52,
+                                           "Home":  "C:\\Users\\Neerav.Bhatia",
+                                           "Drives":  "C"
+                                       },
+                        "ReadCount":  1
+                    }
+    },
+    {
+        "Dir":  "hands-on-98",
+        "HasMain":  true,
+        "Hash":  "FF2B19D4A1FB8A2C74516FE4167CE5CACA282D04BF7B852954268D9E25F7D2C8",
+        "Heading":  {
+                        "value":  "# hands-on-98",
+                        "PSPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-98\\README.md",
+                        "PSParentPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-98",
+                        "PSChildName":  "README.md",
+                        "PSDrive":  {
+                                        "CurrentLocation":  "Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy",
+                                        "Name":  "C",
+                                        "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                        "Root":  "C:\\",
+                                        "Description":  "Windows",
+                                        "MaximumSize":  null,
+                                        "Credential":  "System.Management.Automation.PSCredential",
+                                        "DisplayRoot":  null
+                                    },
+                        "PSProvider":  {
+                                           "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                           "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                           "Name":  "FileSystem",
+                                           "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                           "ModuleName":  "Microsoft.PowerShell.Core",
+                                           "Module":  null,
+                                           "Description":  "",
+                                           "Capabilities":  52,
+                                           "Home":  "C:\\Users\\Neerav.Bhatia",
+                                           "Drives":  "C"
+                                       },
+                        "ReadCount":  1
+                    }
+    },
+    {
+        "Dir":  "hands-on-99",
+        "HasMain":  true,
+        "Hash":  "08D07B8AEB04255963BA8C114294F882D1286F91B4F746E8BFE5735EE4545BE1",
+        "Heading":  {
+                        "value":  "# hands-on-99",
+                        "PSPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-99\\README.md",
+                        "PSParentPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-99",
+                        "PSChildName":  "README.md",
+                        "PSDrive":  {
+                                        "CurrentLocation":  "Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy",
+                                        "Name":  "C",
+                                        "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                        "Root":  "C:\\",
+                                        "Description":  "Windows",
+                                        "MaximumSize":  null,
+                                        "Credential":  "System.Management.Automation.PSCredential",
+                                        "DisplayRoot":  null
+                                    },
+                        "PSProvider":  {
+                                           "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                           "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                           "Name":  "FileSystem",
+                                           "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                           "ModuleName":  "Microsoft.PowerShell.Core",
+                                           "Module":  null,
+                                           "Description":  "",
+                                           "Capabilities":  52,
+                                           "Home":  "C:\\Users\\Neerav.Bhatia",
+                                           "Drives":  "C"
+                                       },
+                        "ReadCount":  1
+                    }
+    },
+    {
+        "Dir":  "hands-on-understanding-Functions- Part 1",
+        "HasMain":  true,
+        "Hash":  "5A72DF27B408DC452E53D4AE42D8C77E74EA3BFDDB82643360EF921C4DB36CA3",
+        "Heading":  {
+                        "value":  "# Understanding Functions (Part 1)",
+                        "PSPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-understanding-Functions- Part 1\\README.md",
+                        "PSParentPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-understanding-Functions- Part 1",
+                        "PSChildName":  "README.md",
+                        "PSDrive":  {
+                                        "CurrentLocation":  "Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy",
+                                        "Name":  "C",
+                                        "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                        "Root":  "C:\\",
+                                        "Description":  "Windows",
+                                        "MaximumSize":  null,
+                                        "Credential":  "System.Management.Automation.PSCredential",
+                                        "DisplayRoot":  null
+                                    },
+                        "PSProvider":  {
+                                           "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                           "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                           "Name":  "FileSystem",
+                                           "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                           "ModuleName":  "Microsoft.PowerShell.Core",
+                                           "Module":  null,
+                                           "Description":  "",
+                                           "Capabilities":  52,
+                                           "Home":  "C:\\Users\\Neerav.Bhatia",
+                                           "Drives":  "C"
+                                       },
+                        "ReadCount":  1
+                    }
+    },
+    {
+        "Dir":  "hands-on-understanding-functions-145",
+        "HasMain":  true,
+        "Hash":  "D2AC0580ED9DC41FAA0A5D03866F5F19B7283778BE01E2804895EE49E84343D8",
+        "Heading":  {
+                        "value":  "# Hands-on 145: Anonymous Functions",
+                        "PSPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-understanding-functions-145\\README.md",
+                        "PSParentPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-understanding-functions-145",
+                        "PSChildName":  "README.md",
+                        "PSDrive":  {
+                                        "CurrentLocation":  "Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy",
+                                        "Name":  "C",
+                                        "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                        "Root":  "C:\\",
+                                        "Description":  "Windows",
+                                        "MaximumSize":  null,
+                                        "Credential":  "System.Management.Automation.PSCredential",
+                                        "DisplayRoot":  null
+                                    },
+                        "PSProvider":  {
+                                           "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                           "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                           "Name":  "FileSystem",
+                                           "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                           "ModuleName":  "Microsoft.PowerShell.Core",
+                                           "Module":  null,
+                                           "Description":  "",
+                                           "Capabilities":  52,
+                                           "Home":  "C:\\Users\\Neerav.Bhatia",
+                                           "Drives":  "C"
+                                       },
+                        "ReadCount":  1
+                    }
+    },
+    {
+        "Dir":  "hands-on-understanding-functions-146",
+        "HasMain":  true,
+        "Hash":  "DB135A0A77913EA96FC0C3CD9EBD2C3AD3818AF08BD2C27FA604CBBD348028FD",
+        "Heading":  {
+                        "value":  "# Hands-on 146: Function Expressions",
+                        "PSPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-understanding-functions-146\\README.md",
+                        "PSParentPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-understanding-functions-146",
+                        "PSChildName":  "README.md",
+                        "PSDrive":  {
+                                        "CurrentLocation":  "Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy",
+                                        "Name":  "C",
+                                        "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                        "Root":  "C:\\",
+                                        "Description":  "Windows",
+                                        "MaximumSize":  null,
+                                        "Credential":  "System.Management.Automation.PSCredential",
+                                        "DisplayRoot":  null
+                                    },
+                        "PSProvider":  {
+                                           "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                           "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                           "Name":  "FileSystem",
+                                           "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                           "ModuleName":  "Microsoft.PowerShell.Core",
+                                           "Module":  null,
+                                           "Description":  "",
+                                           "Capabilities":  52,
+                                           "Home":  "C:\\Users\\Neerav.Bhatia",
+                                           "Drives":  "C"
+                                       },
+                        "ReadCount":  1
+                    }
+    },
+    {
+        "Dir":  "hands-on-understanding-functions-147",
+        "HasMain":  true,
+        "Hash":  "1BAB9A9166F5868F7630EE3DEDFEB9C6EB7480E0ADD18784290B86C447982853",
+        "Heading":  {
+                        "value":  "# Hands-on 147: Returning a Function",
+                        "PSPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-understanding-functions-147\\README.md",
+                        "PSParentPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-understanding-functions-147",
+                        "PSChildName":  "README.md",
+                        "PSDrive":  {
+                                        "CurrentLocation":  "Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy",
+                                        "Name":  "C",
+                                        "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                        "Root":  "C:\\",
+                                        "Description":  "Windows",
+                                        "MaximumSize":  null,
+                                        "Credential":  "System.Management.Automation.PSCredential",
+                                        "DisplayRoot":  null
+                                    },
+                        "PSProvider":  {
+                                           "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                           "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                           "Name":  "FileSystem",
+                                           "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                           "ModuleName":  "Microsoft.PowerShell.Core",
+                                           "Module":  null,
+                                           "Description":  "",
+                                           "Capabilities":  52,
+                                           "Home":  "C:\\Users\\Neerav.Bhatia",
+                                           "Drives":  "C"
+                                       },
+                        "ReadCount":  1
+                    }
+    },
+    {
+        "Dir":  "hands-on-understanding-functions-148",
+        "HasMain":  true,
+        "Hash":  "5AF2F75176CE105B533ECB64222F0C4AE5927080637CF76DE30786293FC8D123",
+        "Heading":  {
+                        "value":  "# Hands-on 148: Callbacks",
+                        "PSPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-understanding-functions-148\\README.md",
+                        "PSParentPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-understanding-functions-148",
+                        "PSChildName":  "README.md",
+                        "PSDrive":  {
+                                        "CurrentLocation":  "Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy",
+                                        "Name":  "C",
+                                        "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                        "Root":  "C:\\",
+                                        "Description":  "Windows",
+                                        "MaximumSize":  null,
+                                        "Credential":  "System.Management.Automation.PSCredential",
+                                        "DisplayRoot":  null
+                                    },
+                        "PSProvider":  {
+                                           "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                           "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                           "Name":  "FileSystem",
+                                           "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                           "ModuleName":  "Microsoft.PowerShell.Core",
+                                           "Module":  null,
+                                           "Description":  "",
+                                           "Capabilities":  52,
+                                           "Home":  "C:\\Users\\Neerav.Bhatia",
+                                           "Drives":  "C"
+                                       },
+                        "ReadCount":  1
+                    }
+    },
+    {
+        "Dir":  "hands-on-understanding-functions-149",
+        "HasMain":  true,
+        "Hash":  "CF5AC0C41AF19D9F07D758A6365017981AF8D952AEA5FE1FD15BB7F49EE2D860",
+        "Heading":  {
+                        "value":  "# Hands-on 149: Closures",
+                        "PSPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-understanding-functions-149\\README.md",
+                        "PSParentPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-understanding-functions-149",
+                        "PSChildName":  "README.md",
+                        "PSDrive":  {
+                                        "CurrentLocation":  "Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy",
+                                        "Name":  "C",
+                                        "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                        "Root":  "C:\\",
+                                        "Description":  "Windows",
+                                        "MaximumSize":  null,
+                                        "Credential":  "System.Management.Automation.PSCredential",
+                                        "DisplayRoot":  null
+                                    },
+                        "PSProvider":  {
+                                           "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                           "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                           "Name":  "FileSystem",
+                                           "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                           "ModuleName":  "Microsoft.PowerShell.Core",
+                                           "Module":  null,
+                                           "Description":  "",
+                                           "Capabilities":  52,
+                                           "Home":  "C:\\Users\\Neerav.Bhatia",
+                                           "Drives":  "C"
+                                       },
+                        "ReadCount":  1
+                    }
+    },
+    {
+        "Dir":  "hands-on-understanding-functions-150",
+        "HasMain":  true,
+        "Hash":  "B8CFC2BC6140533D82158111F19677CA3B6B6501362295FFF9FE1B1653843AA3",
+        "Heading":  {
+                        "value":  "# Hands-on 150: Function Fundamentals",
+                        "PSPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-understanding-functions-150\\README.md",
+                        "PSParentPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-understanding-functions-150",
+                        "PSChildName":  "README.md",
+                        "PSDrive":  {
+                                        "CurrentLocation":  "Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy",
+                                        "Name":  "C",
+                                        "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                        "Root":  "C:\\",
+                                        "Description":  "Windows",
+                                        "MaximumSize":  null,
+                                        "Credential":  "System.Management.Automation.PSCredential",
+                                        "DisplayRoot":  null
+                                    },
+                        "PSProvider":  {
+                                           "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                           "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                           "Name":  "FileSystem",
+                                           "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                           "ModuleName":  "Microsoft.PowerShell.Core",
+                                           "Module":  null,
+                                           "Description":  "",
+                                           "Capabilities":  52,
+                                           "Home":  "C:\\Users\\Neerav.Bhatia",
+                                           "Drives":  "C"
+                                       },
+                        "ReadCount":  1
+                    }
+    },
+    {
+        "Dir":  "hands-on-understanding-functions-151",
+        "HasMain":  true,
+        "Hash":  "966C8B785BBB093C3E53F089C61A57BCB14CB8CCAAC7769D4BA3BD5CC60B8AC3",
+        "Heading":  {
+                        "value":  "# Hands-on 151: Recursion",
+                        "PSPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-understanding-functions-151\\README.md",
+                        "PSParentPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-understanding-functions-151",
+                        "PSChildName":  "README.md",
+                        "PSDrive":  {
+                                        "CurrentLocation":  "Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy",
+                                        "Name":  "C",
+                                        "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                        "Root":  "C:\\",
+                                        "Description":  "Windows",
+                                        "MaximumSize":  null,
+                                        "Credential":  "System.Management.Automation.PSCredential",
+                                        "DisplayRoot":  null
+                                    },
+                        "PSProvider":  {
+                                           "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                           "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                           "Name":  "FileSystem",
+                                           "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                           "ModuleName":  "Microsoft.PowerShell.Core",
+                                           "Module":  null,
+                                           "Description":  "",
+                                           "Capabilities":  52,
+                                           "Home":  "C:\\Users\\Neerav.Bhatia",
+                                           "Drives":  "C"
+                                       },
+                        "ReadCount":  1
+                    }
+    },
+    {
+        "Dir":  "hands-on-understanding-functions-152",
+        "HasMain":  true,
+        "Hash":  "68B1B83E5027BDD9C732315637CAD971D01377D82262CEFD5819F53C95D2503F",
+        "Heading":  {
+                        "value":  "# Hands-on 152: Wrapper Functions",
+                        "PSPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-understanding-functions-152\\README.md",
+                        "PSParentPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-understanding-functions-152",
+                        "PSChildName":  "README.md",
+                        "PSDrive":  {
+                                        "CurrentLocation":  "Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy",
+                                        "Name":  "C",
+                                        "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                        "Root":  "C:\\",
+                                        "Description":  "Windows",
+                                        "MaximumSize":  null,
+                                        "Credential":  "System.Management.Automation.PSCredential",
+                                        "DisplayRoot":  null
+                                    },
+                        "PSProvider":  {
+                                           "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                           "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                           "Name":  "FileSystem",
+                                           "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                           "ModuleName":  "Microsoft.PowerShell.Core",
+                                           "Module":  null,
+                                           "Description":  "",
+                                           "Capabilities":  52,
+                                           "Home":  "C:\\Users\\Neerav.Bhatia",
+                                           "Drives":  "C"
+                                       },
+                        "ReadCount":  1
+                    }
+    },
+    {
+        "Dir":  "hands-on-understanding-Interfaces and Poly-139",
+        "HasMain":  true,
+        "Hash":  "D07C8A715A13562667D9436C69F2587EB6A0F1E7B7C4109A488ECBFDC52C02A7",
+        "Heading":  {
+                        "value":  "# Understanding Interfaces and Polymorphism (Part 2)",
+                        "PSPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-understanding-Interfaces and Poly-139\\README.md",
+                        "PSParentPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-understanding-Interfaces and Poly-139",
+                        "PSChildName":  "README.md",
+                        "PSDrive":  {
+                                        "CurrentLocation":  "Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy",
+                                        "Name":  "C",
+                                        "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                        "Root":  "C:\\",
+                                        "Description":  "Windows",
+                                        "MaximumSize":  null,
+                                        "Credential":  "System.Management.Automation.PSCredential",
+                                        "DisplayRoot":  null
+                                    },
+                        "PSProvider":  {
+                                           "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                           "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                           "Name":  "FileSystem",
+                                           "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                           "ModuleName":  "Microsoft.PowerShell.Core",
+                                           "Module":  null,
+                                           "Description":  "",
+                                           "Capabilities":  52,
+                                           "Home":  "C:\\Users\\Neerav.Bhatia",
+                                           "Drives":  "C"
+                                       },
+                        "ReadCount":  1
+                    }
+    },
+    {
+        "Dir":  "hands-on-understanding-stringer-interfaces- 140 and 141",
+        "HasMain":  true,
+        "Hash":  "676D4FE6A938C117189BC5F690E588D99A21D1A6222E8AC8B5DC84E4BBA3E04C",
+        "Heading":  {
+                        "value":  "# Understanding Stringer and Writer Interfaces (Part 3)",
+                        "PSPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-understanding-stringer-interfaces- 140 and 141\\README.md",
+                        "PSParentPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-understanding-stringer-interfaces- 140 and 141",
+                        "PSChildName":  "README.md",
+                        "PSDrive":  {
+                                        "CurrentLocation":  "Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy",
+                                        "Name":  "C",
+                                        "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                        "Root":  "C:\\",
+                                        "Description":  "Windows",
+                                        "MaximumSize":  null,
+                                        "Credential":  "System.Management.Automation.PSCredential",
+                                        "DisplayRoot":  null
+                                    },
+                        "PSProvider":  {
+                                           "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                           "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                           "Name":  "FileSystem",
+                                           "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                           "ModuleName":  "Microsoft.PowerShell.Core",
+                                           "Module":  null,
+                                           "Description":  "",
+                                           "Capabilities":  52,
+                                           "Home":  "C:\\Users\\Neerav.Bhatia",
+                                           "Drives":  "C"
+                                       },
+                        "ReadCount":  1
+                    }
+    },
+    {
+        "Dir":  "hands-on-understanding-struct-types",
+        "HasMain":  true,
+        "Hash":  "7507640C194BF1EE8B3CA4B755A9B108368CD25E9EE41BF508AF6F50EAA9C1FA",
+        "Heading":  {
+                        "value":  "# Understanding Struct Types",
+                        "PSPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-understanding-struct-types\\README.md",
+                        "PSParentPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-understanding-struct-types",
+                        "PSChildName":  "README.md",
+                        "PSDrive":  {
+                                        "CurrentLocation":  "Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy",
+                                        "Name":  "C",
+                                        "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                        "Root":  "C:\\",
+                                        "Description":  "Windows",
+                                        "MaximumSize":  null,
+                                        "Credential":  "System.Management.Automation.PSCredential",
+                                        "DisplayRoot":  null
+                                    },
+                        "PSProvider":  {
+                                           "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                           "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                           "Name":  "FileSystem",
+                                           "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                           "ModuleName":  "Microsoft.PowerShell.Core",
+                                           "Module":  null,
+                                           "Description":  "",
+                                           "Capabilities":  52,
+                                           "Home":  "C:\\Users\\Neerav.Bhatia",
+                                           "Drives":  "C"
+                                       },
+                        "ReadCount":  1
+                    }
+    },
+    {
+        "Dir":  "hands-on-understanding-writer-interfaces-142,143 and 144",
+        "HasMain":  true,
+        "Hash":  "5E88AEE31505D12E5AA9EFF029C382BC42C73D27B6E06BA03D7CA95BD8EC4360",
+        "Heading":  {
+                        "value":  "# Understanding Writer Interfaces (Part 4)",
+                        "PSPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-understanding-writer-interfaces-142,143 and 144\\README.md",
+                        "PSParentPath":  "C:\\Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy\\hands-on-understanding-writer-interfaces-142,143 and 144",
+                        "PSChildName":  "README.md",
+                        "PSDrive":  {
+                                        "CurrentLocation":  "Users\\Neerav.Bhatia\\OneDrive - Canadian Tire\\go_practice_udemy",
+                                        "Name":  "C",
+                                        "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                        "Root":  "C:\\",
+                                        "Description":  "Windows",
+                                        "MaximumSize":  null,
+                                        "Credential":  "System.Management.Automation.PSCredential",
+                                        "DisplayRoot":  null
+                                    },
+                        "PSProvider":  {
+                                           "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                           "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                           "Name":  "FileSystem",
+                                           "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                           "ModuleName":  "Microsoft.PowerShell.Core",
+                                           "Module":  null,
+                                           "Description":  "",
+                                           "Capabilities":  52,
+                                           "Home":  "C:\\Users\\Neerav.Bhatia",
+                                           "Drives":  "C"
+                                       },
+                        "ReadCount":  1
+                    }
+    }
+]

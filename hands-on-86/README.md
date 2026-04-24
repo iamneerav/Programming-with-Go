@@ -1,11 +1,12 @@
 # hands-on-86
 
 ## Purpose
-Practice from Go video lessons, followed by my own example implementation.
+Practice filtering values during a loop.
 
 ## What I Practiced
-- Video concept:
-- My own example:
+- Iterating from `0` to `99`.
+- Using the modulo operator `%` to test odd numbers.
+- Printing only values that match the condition.
 
 ## Run
 ```bash
@@ -13,6 +14,6 @@ go run .
 ```
 
 ## Notes
-- Practiced infinite loop behavior using `for`.
-- Reinforced controlling termination logic intentionally.
-- Writing my own example clarified safe loop exit planning.
+- The program prints the odd numbers from `1` through `99`.
+- This is not an infinite loop example.
+- It focuses on condition-based filtering during iteration.

@@ -1,11 +1,12 @@
 # hands-on-90
 
 ## Purpose
-Practice from Go video lessons, followed by my own example implementation.
+Practice the comma-ok idiom for safe map lookups.
 
 ## What I Practiced
-- Video concept:
-- My own example:
+- Reading values from a map.
+- Checking whether a key exists with the `value, ok := map[key]` pattern.
+- Printing different output depending on whether the key was present.
 
 ## Run
 ```bash
@@ -13,6 +14,6 @@ go run .
 ```
 
 ## Notes
-- Practiced `range` over slices with index-value pairs.
-- Reinforced simultaneous access to position and element.
-- Writing my own example improved understanding of slice traversal options.
+- The program safely checks for keys in a map and reports whether each lookup succeeded.
+- This folder is about map access safety, not slice iteration.
+- The comma-ok pattern avoids confusing missing keys with zero values.

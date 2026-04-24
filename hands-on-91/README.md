@@ -1,11 +1,12 @@
 # hands-on-91
 
 ## Purpose
-Practice from Go video lessons, followed by my own example implementation.
+Practice short variable declarations inside conditionals.
 
 ## What I Practiced
-- Video concept:
-- My own example:
+- Generating random values inside a loop.
+- Declaring a value directly inside an `if` statement.
+- Using that locally scoped variable for conditional output.
 
 ## Run
 ```bash
@@ -13,6 +14,6 @@ go run .
 ```
 
 ## Notes
-- Practiced `range` over maps and the comma-ok idiom.
-- Reinforced safe key existence checks.
-- Writing my own example made map read patterns more reliable.
+- The program loops through many random values and prints a special message when the conditional matches.
+- This folder is about local scope inside conditionals, not map iteration.
+- It shows how temporary values can stay limited to the relevant block.

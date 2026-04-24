@@ -1,21 +1,21 @@
-# Understanding Functions (Parts 142-145)
+# Hands-on 146: Function Expressions
 
 ## Purpose
-Capture and review the function topics covered in lessons 142 through 145.
+Show how a function can be assigned to a variable and then called through that variable.
 
-## Topics Covered
-- Anonymous functions
-- Function expressions
-- Returning a function
-- Callbacks
-- Closures
-- Function fundamentals
-- Recursion
-- Wrapper functions
+## What This Program Shows
+- Calling the normal named function `foo()`.
+- Assigning an anonymous function to variable `x`.
+- Assigning an anonymous function with a string parameter to variable `y`.
+- Executing both stored functions later with `x()` and `y("Neerav")`.
 
-## Status
-This folder currently contains lesson notes in `main.go` rather than a runnable Go program.
+## Run
+```bash
+go run .
+```
 
-## Notes
-- The comment block in `main.go` is being used as a study outline for the function section.
-- When code examples are added later, this README should be updated with runnable usage details.
+## Expected Behavior
+The program prints output from `foo()`, then runs the two function expressions stored in `x` and `y`.
+
+## Key Takeaway
+In Go, functions are values, so they can be stored in variables and passed around like other values.

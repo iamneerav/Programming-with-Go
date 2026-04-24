@@ -1,21 +1,21 @@
-# Understanding Functions (Parts 142-145)
+# Hands-on 149: Closures
 
 ## Purpose
-Capture and review the function topics covered in lessons 142 through 145.
+Demonstrate how a returned function can keep access to variables from its surrounding scope.
 
-## Topics Covered
-- Anonymous functions
-- Function expressions
-- Returning a function
-- Callbacks
-- Closures
-- Function fundamentals
-- Recursion
-- Wrapper functions
+## What This Program Shows
+- `incrementor()` returns a function of type `func() int`.
+- The returned function updates and remembers the variable `x` across calls.
+- Closure `f` keeps its own state.
+- Closure `g` is created separately and starts with its own fresh state.
 
-## Status
-This folder currently contains lesson notes in `main.go` rather than a runnable Go program.
+## Run
+```bash
+go run .
+```
 
-## Notes
-- The comment block in `main.go` is being used as a study outline for the function section.
-- When code examples are added later, this README should be updated with runnable usage details.
+## Expected Behavior
+Repeated calls to `f()` keep increasing the same captured value, while `g()` starts over from a separate captured value.
+
+## Key Takeaway
+Closures let a function preserve state without using a global variable.

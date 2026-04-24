@@ -3,13 +3,6 @@ In this Functions exercise, we will learn about the following topics:
 
 1.Interfaces and Polymorphism
 
-2. Exploring the stringer interface
-
-3. Expanding on the stringer interface - wrapper func for logging
-
-.
-.
-....etc..
 */
 
 /*

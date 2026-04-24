@@ -1,21 +1,20 @@
-# Understanding Functions (Parts 142-145)
+# Hands-on 145: Anonymous Functions
 
 ## Purpose
-Capture and review the function topics covered in lessons 142 through 145.
+Demonstrate how anonymous functions work in Go, including immediate invocation and passing arguments directly to an unnamed function.
 
-## Topics Covered
-- Anonymous functions
-- Function expressions
-- Returning a function
-- Callbacks
-- Closures
-- Function fundamentals
-- Recursion
-- Wrapper functions
+## What This Program Shows
+- Calling a regular named function with `foo()`.
+- Defining and immediately executing an anonymous function with no parameters.
+- Defining and immediately executing an anonymous function that accepts a string argument.
 
-## Status
-This folder currently contains lesson notes in `main.go` rather than a runnable Go program.
+## Run
+```bash
+go run .
+```
 
-## Notes
-- The comment block in `main.go` is being used as a study outline for the function section.
-- When code examples are added later, this README should be updated with runnable usage details.
+## Expected Behavior
+The program prints output from the named `foo()` function, then prints messages from two anonymous functions.
+
+## Key Takeaway
+Anonymous functions are useful when you want small one-off behavior without creating a separately named function.

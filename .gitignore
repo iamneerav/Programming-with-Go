@@ -1,0 +1,12 @@
+# graphify - ignore ALL outputs + build scripts (local development only)
+graphify-out/              # entire graphify output folder
+graphify_*.py              # graphify build scripts
+build_graph.py             # graphify build script
+graphify-input-html/         # input HTML files for graphify
+
+# Standard ignores
+.DS_Store
+*.swp
+*.swo
+*~
+.vscode/settings.json

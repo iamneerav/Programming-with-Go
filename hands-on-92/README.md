@@ -1,11 +1,13 @@
 # hands-on-92
 
 ## Purpose
-Practice from Go video lessons, followed by my own example implementation.
+Practice boolean logic operators in Go.
 
 ## What I Practiced
-- Video concept:
-- My own example:
+- Logical AND with `&&`.
+- Logical OR with `||`.
+- Logical NOT with `!`.
+- Printing the results of boolean expressions.
 
 ## Run
 ```bash
@@ -13,6 +15,6 @@ go run .
 ```
 
 ## Notes
-- Practiced short variable declarations scoped inside `if`.
-- Reinforced local scope behavior and conditional branching.
-- Writing my own example clarified temporary variable lifetimes.
+- The program prints several boolean expressions and their evaluated results.
+- This folder is about boolean operators, not scoped `if` initializers.
+- It is useful for building confidence with combined condition logic.

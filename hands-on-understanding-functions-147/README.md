@@ -1,21 +1,21 @@
-# Understanding Functions (Parts 142-145)
+# Hands-on 147: Returning a Function
 
 ## Purpose
-Capture and review the function topics covered in lessons 142 through 145.
+Demonstrate that a Go function can return another function as a value.
 
-## Topics Covered
-- Anonymous functions
-- Function expressions
-- Returning a function
-- Callbacks
-- Closures
-- Function fundamentals
-- Recursion
-- Wrapper functions
+## What This Program Shows
+- `foo()` returns an `int`.
+- `bar()` returns a function of type `func() int`.
+- The returned function is stored in variable `y` and called later with `y()`.
+- The program also prints the types of `foo`, `bar`, and `y`.
 
-## Status
-This folder currently contains lesson notes in `main.go` rather than a runnable Go program.
+## Run
+```bash
+go run .
+```
 
-## Notes
-- The comment block in `main.go` is being used as a study outline for the function section.
-- When code examples are added later, this README should be updated with runnable usage details.
+## Expected Behavior
+The program prints the result from `foo()`, shows the returned function value from `bar()`, and then prints the result of calling that returned function.
+
+## Key Takeaway
+Returning functions is the basis for patterns such as callbacks, factories, and closures.

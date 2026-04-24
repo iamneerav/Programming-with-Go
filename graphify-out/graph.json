@@ -1,0 +1,4794 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {
+    "hyperedges": [
+      {
+        "id": "slice_operations_group",
+        "label": "Slice Operations Exercises",
+        "members": [
+          "hands_on_109",
+          "hands_on_110",
+          "hands_on_111",
+          "hands_on_112",
+          "hands_on_113",
+          "hands_on_114",
+          "hands_on_115"
+        ],
+        "relation": "teaches_concept",
+        "concept": "go_slice_type"
+      },
+      {
+        "id": "map_operations_group",
+        "label": "Map Operations Exercises",
+        "members": [
+          "hands_on_121",
+          "hands_on_122",
+          "hands_on_123",
+          "hands_on_124"
+        ],
+        "relation": "teaches_concept",
+        "concept": "go_map_type"
+      },
+      {
+        "id": "struct_operations_group",
+        "label": "Struct Operations Exercises",
+        "members": [
+          "hands_on_129",
+          "hands_on_130",
+          "hands_on_131",
+          "hands_on_132"
+        ],
+        "relation": "teaches_concept",
+        "concept": "go_struct_type"
+      },
+      {
+        "id": "control_flow_group",
+        "label": "Control Flow Exercises",
+        "members": [
+          "hands_on_55",
+          "hands_on_56",
+          "hands_on_77"
+        ],
+        "relation": "teaches_topic",
+        "topic": "conditional_execution"
+      },
+      {
+        "id": "graphify_pipeline",
+        "label": "Graphify Processing Pipeline",
+        "members": [
+          "detect_func",
+          "extract_func",
+          "build_from_json_func",
+          "cluster_func",
+          "god_nodes_func"
+        ],
+        "relation": "forms_workflow",
+        "workflow": "knowledge_graph_extraction"
+      },
+      {
+        "id": "control_flow_group",
+        "label": "Control Flow Structures",
+        "members": [
+          "switch_stmt",
+          "for_loop",
+          "if_else",
+          "range_loop"
+        ]
+      },
+      {
+        "id": "function_concepts_group",
+        "label": "Function Concepts",
+        "members": [
+          "anonymous_fn",
+          "func_expr",
+          "callback",
+          "closure",
+          "variadic_params"
+        ]
+      },
+      {
+        "id": "data_structures_group",
+        "label": "Data Structures",
+        "members": [
+          "arrays",
+          "slices",
+          "maps"
+        ]
+      },
+      {
+        "id": "output_functions_group",
+        "label": "Output Functions",
+        "members": [
+          "fmt_Println",
+          "fmt_Printf"
+        ]
+      },
+      {
+        "id": "function_group",
+        "members": [
+          "func_basics",
+          "func_parameters",
+          "func_returns",
+          "func_receiver",
+          "methods"
+        ],
+        "label": "Function Concepts",
+        "relation": "all_part_of_learning_unit"
+      },
+      {
+        "id": "interface_group",
+        "members": [
+          "interfaces",
+          "polymorphism",
+          "stringer_interface",
+          "writer_interface"
+        ],
+        "label": "Interface and Abstraction Patterns",
+        "relation": "all_part_of_learning_unit"
+      },
+      {
+        "id": "struct_group",
+        "members": [
+          "struct_types",
+          "embedded_struct",
+          "anonymous_struct",
+          "composition"
+        ],
+        "label": "Struct and Type Composition",
+        "relation": "all_part_of_learning_unit"
+      },
+      {
+        "id": "io_group",
+        "members": [
+          "file_operations",
+          "bytes_buffer",
+          "writer_interface",
+          "write_method"
+        ],
+        "label": "Input/Output Operations",
+        "relation": "all_part_of_learning_unit"
+      },
+      {
+        "id": "hands_on_150_152",
+        "members": [
+          "func_basics",
+          "recursion",
+          "wrapper_function"
+        ],
+        "label": "Hands-on 150-152 Learning Path",
+        "relation": "covered_in_exercises"
+      },
+      {
+        "id": "control_flow_group",
+        "label": "Control Flow Constructs",
+        "members": [
+          "if_else",
+          "switch",
+          "for_loops",
+          "break"
+        ],
+        "relation": "category"
+      },
+      {
+        "id": "data_structures_group",
+        "label": "Data Structures",
+        "members": [
+          "maps",
+          "structs",
+          "slices"
+        ],
+        "relation": "category"
+      },
+      {
+        "id": "scoping_group",
+        "label": "Scoping and Declaration",
+        "members": [
+          "variables",
+          "constants",
+          "package_scope",
+          "packages"
+        ],
+        "relation": "category"
+      },
+      {
+        "id": "function_fundamentals_group",
+        "label": "Function Fundamentals",
+        "nodes": [
+          "function_decl",
+          "function_params",
+          "return_values",
+          "variadic_params"
+        ],
+        "relation": "core concepts"
+      },
+      {
+        "id": "advanced_functions_group",
+        "label": "Advanced Function Concepts",
+        "nodes": [
+          "anonymous_functions",
+          "function_expressions",
+          "returning_functions",
+          "callbacks",
+          "closures",
+          "wrapper_functions",
+          "recursion"
+        ],
+        "relation": "related patterns"
+      },
+      {
+        "id": "collection_operations_group",
+        "label": "Collection Operations",
+        "nodes": [
+          "fixed_arrays",
+          "array_literals",
+          "slices",
+          "range_operator",
+          "array_iteration"
+        ],
+        "relation": "work with collections"
+      },
+      {
+        "id": "interface_implementations_group",
+        "label": "Interface Implementations",
+        "nodes": [
+          "interfaces",
+          "methods",
+          "polymorphism",
+          "stringer_interface",
+          "writer_interface"
+        ],
+        "relation": "interface-driven design"
+      },
+      {
+        "id": "io_writing_group",
+        "label": "IO Writing Pattern",
+        "nodes": [
+          "io_writer",
+          "os_file",
+          "bytes_buffer",
+          "person_type",
+          "writertest_method"
+        ],
+        "relation": "multiple targets through interface"
+      }
+    ]
+  },
+  "nodes": [
+    {
+      "label": "build_graph.py",
+      "file_type": "code",
+      "source_file": "build_graph.py",
+      "source_location": "L1",
+      "id": "build_graph_py"
+    },
+    {
+      "label": "main.go",
+      "file_type": "code",
+      "source_file": "hands-on-109\\main.go",
+      "source_location": "L1",
+      "id": "hands_on_109_main_go"
+    },
+    {
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "hands-on-understanding-writer-interfaces- Part 4\\main.go",
+      "source_location": "L42",
+      "id": "main_main"
+    },
+    {
+      "label": "main.go",
+      "file_type": "code",
+      "source_file": "hands-on-110\\main.go",
+      "source_location": "L1",
+      "id": "hands_on_110_main_go"
+    },
+    {
+      "label": "main.go",
+      "file_type": "code",
+      "source_file": "hands-on-111\\main.go",
+      "source_location": "L1",
+      "id": "hands_on_111_main_go"
+    },
+    {
+      "label": "main.go",
+      "file_type": "code",
+      "source_file": "hands-on-112\\main.go",
+      "source_location": "L1",
+      "id": "hands_on_112_main_go"
+    },
+    {
+      "label": "main.go",
+      "file_type": "code",
+      "source_file": "hands-on-113\\main.go",
+      "source_location": "L1",
+      "id": "hands_on_113_main_go"
+    },
+    {
+      "label": "main.go",
+      "file_type": "code",
+      "source_file": "hands-on-114\\main.go",
+      "source_location": "L1",
+      "id": "hands_on_114_main_go"
+    },
+    {
+      "label": "main.go",
+      "file_type": "code",
+      "source_file": "hands-on-115\\main.go",
+      "source_location": "L1",
+      "id": "hands_on_115_main_go"
+    },
+    {
+      "label": "main.go",
+      "file_type": "code",
+      "source_file": "hands-on-121(revision_and_practice)\\main.go",
+      "source_location": "L1",
+      "id": "hands_on_121_revision_and_practice_main_go"
+    },
+    {
+      "label": "main.go",
+      "file_type": "code",
+      "source_file": "hands-on-122\\main.go",
+      "source_location": "L1",
+      "id": "hands_on_122_main_go"
+    },
+    {
+      "label": "main.go",
+      "file_type": "code",
+      "source_file": "hands-on-123\\main.go",
+      "source_location": "L1",
+      "id": "hands_on_123_main_go"
+    },
+    {
+      "label": "main.go",
+      "file_type": "code",
+      "source_file": "hands-on-124\\main.go",
+      "source_location": "L1",
+      "id": "hands_on_124_main_go"
+    },
+    {
+      "label": "main.go",
+      "file_type": "code",
+      "source_file": "hands-on-129\\main.go",
+      "source_location": "L1",
+      "id": "hands_on_129_main_go"
+    },
+    {
+      "label": "person",
+      "file_type": "code",
+      "source_file": "hands-on-129\\main.go",
+      "source_location": "L5",
+      "id": "hands_on_129_person"
+    },
+    {
+      "label": "main.go",
+      "file_type": "code",
+      "source_file": "hands-on-130\\main.go",
+      "source_location": "L1",
+      "id": "hands_on_130_main_go"
+    },
+    {
+      "label": "person",
+      "file_type": "code",
+      "source_file": "hands-on-130\\main.go",
+      "source_location": "L5",
+      "id": "hands_on_130_person"
+    },
+    {
+      "label": "main.go",
+      "file_type": "code",
+      "source_file": "hands-on-131\\main.go",
+      "source_location": "L1",
+      "id": "hands_on_131_main_go"
+    },
+    {
+      "label": "engine",
+      "file_type": "code",
+      "source_file": "hands-on-131\\main.go",
+      "source_location": "L5",
+      "id": "hands_on_131_engine"
+    },
+    {
+      "label": "vehicle",
+      "file_type": "code",
+      "source_file": "hands-on-131\\main.go",
+      "source_location": "L9",
+      "id": "hands_on_131_vehicle"
+    },
+    {
+      "label": "main.go",
+      "file_type": "code",
+      "source_file": "hands-on-132\\main.go",
+      "source_location": "L1",
+      "id": "hands_on_132_main_go"
+    },
+    {
+      "label": "main.go",
+      "file_type": "code",
+      "source_file": "hands-on-55\\main.go",
+      "source_location": "L1",
+      "id": "hands_on_55_main_go"
+    },
+    {
+      "label": "main.go",
+      "file_type": "code",
+      "source_file": "hands-on-56\\main.go",
+      "source_location": "L1",
+      "id": "hands_on_56_main_go"
+    },
+    {
+      "label": "main.go",
+      "file_type": "code",
+      "source_file": "hands-on-77\\main.go",
+      "source_location": "L1",
+      "id": "hands_on_77_main_go"
+    },
+    {
+      "label": "main.go",
+      "file_type": "code",
+      "source_file": "hands-on-79\\main.go",
+      "source_location": "L1",
+      "id": "hands_on_79_main_go"
+    },
+    {
+      "label": "init()",
+      "file_type": "code",
+      "source_file": "hands-on-79\\main.go",
+      "source_location": "L8",
+      "id": "main_init"
+    },
+    {
+      "label": "main.go",
+      "file_type": "code",
+      "source_file": "hands-on-80\\main.go",
+      "source_location": "L1",
+      "id": "hands_on_80_main_go"
+    },
+    {
+      "label": "main.go",
+      "file_type": "code",
+      "source_file": "hands-on-81\\main.go",
+      "source_location": "L1",
+      "id": "hands_on_81_main_go"
+    },
+    {
+      "label": "main.go",
+      "file_type": "code",
+      "source_file": "hands-on-82\\main.go",
+      "source_location": "L1",
+      "id": "hands_on_82_main_go"
+    },
+    {
+      "label": "main.go",
+      "file_type": "code",
+      "source_file": "hands-on-83\\main.go",
+      "source_location": "L1",
+      "id": "hands_on_83_main_go"
+    },
+    {
+      "label": "main.go",
+      "file_type": "code",
+      "source_file": "hands-on-84\\main.go",
+      "source_location": "L1",
+      "id": "hands_on_84_main_go"
+    },
+    {
+      "label": "main.go",
+      "file_type": "code",
+      "source_file": "hands-on-85\\main.go",
+      "source_location": "L1",
+      "id": "hands_on_85_main_go"
+    },
+    {
+      "label": "main.go",
+      "file_type": "code",
+      "source_file": "hands-on-86\\main.go",
+      "source_location": "L1",
+      "id": "hands_on_86_main_go"
+    },
+    {
+      "label": "main.go",
+      "file_type": "code",
+      "source_file": "hands-on-87\\main.go",
+      "source_location": "L1",
+      "id": "hands_on_87_main_go"
+    },
+    {
+      "label": "main.go",
+      "file_type": "code",
+      "source_file": "hands-on-88\\main.go",
+      "source_location": "L1",
+      "id": "hands_on_88_main_go"
+    },
+    {
+      "label": "main.go",
+      "file_type": "code",
+      "source_file": "hands-on-89\\main.go",
+      "source_location": "L1",
+      "id": "hands_on_89_main_go"
+    },
+    {
+      "label": "main.go",
+      "file_type": "code",
+      "source_file": "hands-on-90\\main.go",
+      "source_location": "L1",
+      "id": "hands_on_90_main_go"
+    },
+    {
+      "label": "main.go",
+      "file_type": "code",
+      "source_file": "hands-on-91\\main.go",
+      "source_location": "L1",
+      "id": "hands_on_91_main_go"
+    },
+    {
+      "label": "main.go",
+      "file_type": "code",
+      "source_file": "hands-on-92\\main.go",
+      "source_location": "L1",
+      "id": "hands_on_92_main_go"
+    },
+    {
+      "label": "main.go",
+      "file_type": "code",
+      "source_file": "hands-on-97\\main.go",
+      "source_location": "L1",
+      "id": "hands_on_97_main_go"
+    },
+    {
+      "label": "main.go",
+      "file_type": "code",
+      "source_file": "hands-on-98\\main.go",
+      "source_location": "L1",
+      "id": "hands_on_98_main_go"
+    },
+    {
+      "label": "main.go",
+      "file_type": "code",
+      "source_file": "hands-on-99\\main.go",
+      "source_location": "L1",
+      "id": "hands_on_99_main_go"
+    },
+    {
+      "label": "main.go",
+      "file_type": "code",
+      "source_file": "hands-on-understanding-Functions- Part 1\\main.go",
+      "source_location": "L1",
+      "id": "hands_on_understanding_functions_part_1_main_go"
+    },
+    {
+      "label": "greet()",
+      "file_type": "code",
+      "source_file": "hands-on-understanding-Functions- Part 1\\main.go",
+      "source_location": "L41",
+      "id": "main_greet"
+    },
+    {
+      "label": "greetWithName()",
+      "file_type": "code",
+      "source_file": "hands-on-understanding-Functions- Part 1\\main.go",
+      "source_location": "L47",
+      "id": "main_greetwithname"
+    },
+    {
+      "label": "greetWithNameAndReturn()",
+      "file_type": "code",
+      "source_file": "hands-on-understanding-Functions- Part 1\\main.go",
+      "source_location": "L53",
+      "id": "main_greetwithnameandreturn"
+    },
+    {
+      "label": "dogdetails()",
+      "file_type": "code",
+      "source_file": "hands-on-understanding-Functions- Part 1\\main.go",
+      "source_location": "L59",
+      "id": "main_dogdetails"
+    },
+    {
+      "label": "sum()",
+      "file_type": "code",
+      "source_file": "hands-on-understanding-Functions- Part 1\\main.go",
+      "source_location": "L103",
+      "id": "main_sum"
+    },
+    {
+      "label": "sum2()",
+      "file_type": "code",
+      "source_file": "hands-on-understanding-Functions- Part 1\\main.go",
+      "source_location": "L112",
+      "id": "main_sum2"
+    },
+    {
+      "label": "Greeting()",
+      "file_type": "code",
+      "source_file": "hands-on-understanding-Functions- Part 1\\main.go",
+      "source_location": "L122",
+      "id": "main_greeting"
+    },
+    {
+      "label": "main.go",
+      "file_type": "code",
+      "source_file": "hands-on-understanding-functions-145\\main.go",
+      "source_location": "L1",
+      "id": "hands_on_understanding_functions_145_main_go"
+    },
+    {
+      "label": "foo()",
+      "file_type": "code",
+      "source_file": "hands-on-understanding-functions-150\\main.go",
+      "source_location": "L27",
+      "id": "main_foo"
+    },
+    {
+      "label": "main.go",
+      "file_type": "code",
+      "source_file": "hands-on-understanding-functions-146\\main.go",
+      "source_location": "L1",
+      "id": "hands_on_understanding_functions_146_main_go"
+    },
+    {
+      "label": "main.go",
+      "file_type": "code",
+      "source_file": "hands-on-understanding-functions-147\\main.go",
+      "source_location": "L1",
+      "id": "hands_on_understanding_functions_147_main_go"
+    },
+    {
+      "label": "bar()",
+      "file_type": "code",
+      "source_file": "hands-on-understanding-functions-147\\main.go",
+      "source_location": "L35",
+      "id": "main_bar"
+    },
+    {
+      "label": "main.go",
+      "file_type": "code",
+      "source_file": "hands-on-understanding-functions-148\\main.go",
+      "source_location": "L1",
+      "id": "hands_on_understanding_functions_148_main_go"
+    },
+    {
+      "label": "calculator()",
+      "file_type": "code",
+      "source_file": "hands-on-understanding-functions-148\\main.go",
+      "source_location": "L38",
+      "id": "main_calculator"
+    },
+    {
+      "label": "addnumber()",
+      "file_type": "code",
+      "source_file": "hands-on-understanding-functions-148\\main.go",
+      "source_location": "L42",
+      "id": "main_addnumber"
+    },
+    {
+      "label": "subnumber()",
+      "file_type": "code",
+      "source_file": "hands-on-understanding-functions-148\\main.go",
+      "source_location": "L46",
+      "id": "main_subnumber"
+    },
+    {
+      "label": "main.go",
+      "file_type": "code",
+      "source_file": "hands-on-understanding-functions-149\\main.go",
+      "source_location": "L1",
+      "id": "hands_on_understanding_functions_149_main_go"
+    },
+    {
+      "label": "incrementor()",
+      "file_type": "code",
+      "source_file": "hands-on-understanding-functions-149\\main.go",
+      "source_location": "L51",
+      "id": "main_incrementor"
+    },
+    {
+      "label": "main.go",
+      "file_type": "code",
+      "source_file": "hands-on-understanding-functions-150\\main.go",
+      "source_location": "L1",
+      "id": "hands_on_understanding_functions_150_main_go"
+    },
+    {
+      "label": "main.go",
+      "file_type": "code",
+      "source_file": "hands-on-understanding-functions-151\\main.go",
+      "source_location": "L1",
+      "id": "hands_on_understanding_functions_151_main_go"
+    },
+    {
+      "label": "factorial()",
+      "file_type": "code",
+      "source_file": "hands-on-understanding-functions-151\\main.go",
+      "source_location": "L48",
+      "id": "main_factorial"
+    },
+    {
+      "label": "main.go",
+      "file_type": "code",
+      "source_file": "hands-on-understanding-functions-152\\main.go",
+      "source_location": "L1",
+      "id": "hands_on_understanding_functions_152_main_go"
+    },
+    {
+      "label": "readFile()",
+      "file_type": "code",
+      "source_file": "hands-on-understanding-functions-152\\main.go",
+      "source_location": "L31",
+      "id": "main_readfile"
+    },
+    {
+      "label": "main.go",
+      "file_type": "code",
+      "source_file": "hands-on-understanding-Interfaces and Poly- Part 2\\main.go",
+      "source_location": "L1",
+      "id": "hands_on_understanding_interfaces_and_poly_part_2_main_go"
+    },
+    {
+      "label": "doggie()",
+      "file_type": "code",
+      "source_file": "hands-on-understanding-Interfaces and Poly- Part 2\\main.go",
+      "source_location": "L82",
+      "id": "main_doggie"
+    },
+    {
+      "label": "Dog",
+      "file_type": "code",
+      "source_file": "hands-on-understanding-Interfaces and Poly- Part 2\\main.go",
+      "source_location": "L92",
+      "id": "hands_on_understanding_interfaces_and_poly_part_2_dog"
+    },
+    {
+      "label": ".bark()",
+      "file_type": "code",
+      "source_file": "hands-on-understanding-Interfaces and Poly- Part 2\\main.go",
+      "source_location": "L100",
+      "id": "hands_on_understanding_interfaces_and_poly_part_2_dog_bark"
+    },
+    {
+      "label": ".details()",
+      "file_type": "code",
+      "source_file": "hands-on-understanding-Interfaces and Poly- Part 2\\main.go",
+      "source_location": "L104",
+      "id": "hands_on_understanding_interfaces_and_poly_part_2_dog_details"
+    },
+    {
+      "label": "Owner",
+      "file_type": "code",
+      "source_file": "hands-on-understanding-Interfaces and Poly- Part 2\\main.go",
+      "source_location": "L123",
+      "id": "hands_on_understanding_interfaces_and_poly_part_2_owner"
+    },
+    {
+      "label": ".details()",
+      "file_type": "code",
+      "source_file": "hands-on-understanding-Interfaces and Poly- Part 2\\main.go",
+      "source_location": "L128",
+      "id": "hands_on_understanding_interfaces_and_poly_part_2_owner_details"
+    },
+    {
+      "label": "Pet",
+      "file_type": "code",
+      "source_file": "hands-on-understanding-Interfaces and Poly- Part 2\\main.go",
+      "source_location": "L137",
+      "id": "hands_on_understanding_interfaces_and_poly_part_2_pet"
+    },
+    {
+      "label": "pethumaninformation()",
+      "file_type": "code",
+      "source_file": "hands-on-understanding-Interfaces and Poly- Part 2\\main.go",
+      "source_location": "L143",
+      "id": "main_pethumaninformation"
+    },
+    {
+      "label": "main.go",
+      "file_type": "code",
+      "source_file": "hands-on-understanding-stringer-interfaces- Part 3\\main.go",
+      "source_location": "L1",
+      "id": "hands_on_understanding_stringer_interfaces_part_3_main_go"
+    },
+    {
+      "label": "book",
+      "file_type": "code",
+      "source_file": "hands-on-understanding-stringer-interfaces- Part 3\\main.go",
+      "source_location": "L38",
+      "id": "hands_on_understanding_stringer_interfaces_part_3_book"
+    },
+    {
+      "label": ".String()",
+      "file_type": "code",
+      "source_file": "hands-on-understanding-stringer-interfaces- Part 3\\main.go",
+      "source_location": "L42",
+      "id": "hands_on_understanding_stringer_interfaces_part_3_book_string"
+    },
+    {
+      "label": "count",
+      "file_type": "code",
+      "source_file": "hands-on-understanding-stringer-interfaces- Part 3\\main.go",
+      "source_location": "L46",
+      "id": "hands_on_understanding_stringer_interfaces_part_3_count"
+    },
+    {
+      "label": ".String()",
+      "file_type": "code",
+      "source_file": "hands-on-understanding-stringer-interfaces- Part 3\\main.go",
+      "source_location": "L48",
+      "id": "hands_on_understanding_stringer_interfaces_part_3_count_string"
+    },
+    {
+      "label": "main.go",
+      "file_type": "code",
+      "source_file": "hands-on-understanding-struct-types\\main.go",
+      "source_location": "L1",
+      "id": "hands_on_understanding_struct_types_main_go"
+    },
+    {
+      "label": "person",
+      "file_type": "code",
+      "source_file": "hands-on-understanding-struct-types\\main.go",
+      "source_location": "L6",
+      "id": "hands_on_understanding_struct_types_person"
+    },
+    {
+      "label": "agentname",
+      "file_type": "code",
+      "source_file": "hands-on-understanding-struct-types\\main.go",
+      "source_location": "L12",
+      "id": "hands_on_understanding_struct_types_agentname"
+    },
+    {
+      "label": "main.go",
+      "file_type": "code",
+      "source_file": "hands-on-understanding-writer-interfaces- Part 4\\main.go",
+      "source_location": "L1",
+      "id": "hands_on_understanding_writer_interfaces_part_4_main_go"
+    },
+    {
+      "label": "Person",
+      "file_type": "code",
+      "source_file": "hands-on-understanding-writer-interfaces- Part 4\\main.go",
+      "source_location": "L32",
+      "id": "hands_on_understanding_writer_interfaces_part_4_person"
+    },
+    {
+      "label": ".Writertest()",
+      "file_type": "code",
+      "source_file": "hands-on-understanding-writer-interfaces- Part 4\\main.go",
+      "source_location": "L36",
+      "id": "hands_on_understanding_writer_interfaces_part_4_person_writertest"
+    },
+    {
+      "label": "graphify",
+      "file_type": "code",
+      "id": "graphify_lib"
+    },
+    {
+      "label": "detect",
+      "file_type": "code",
+      "id": "detect_func"
+    },
+    {
+      "label": "extract",
+      "file_type": "code",
+      "id": "extract_func"
+    },
+    {
+      "label": "collect_files",
+      "file_type": "code",
+      "id": "collect_files_func"
+    },
+    {
+      "label": "build_from_json",
+      "file_type": "code",
+      "id": "build_from_json_func"
+    },
+    {
+      "label": "cluster",
+      "file_type": "code",
+      "id": "cluster_func"
+    },
+    {
+      "label": "god_nodes",
+      "file_type": "code",
+      "id": "god_nodes_func"
+    },
+    {
+      "label": "surprising_connections",
+      "file_type": "code",
+      "id": "surprising_connections_func"
+    },
+    {
+      "label": "generate",
+      "file_type": "code",
+      "id": "generate_func"
+    },
+    {
+      "label": "to_html",
+      "file_type": "code",
+      "id": "to_html_func"
+    },
+    {
+      "label": "networkx",
+      "file_type": "code",
+      "id": "networkx_lib"
+    },
+    {
+      "label": "node_link_data",
+      "file_type": "code",
+      "id": "node_link_data"
+    },
+    {
+      "label": "Slice",
+      "file_type": "code",
+      "id": "go_slice_type"
+    },
+    {
+      "label": "Map",
+      "file_type": "code",
+      "id": "go_map_type"
+    },
+    {
+      "label": "Struct",
+      "file_type": "code",
+      "id": "go_struct_type"
+    },
+    {
+      "label": "range",
+      "file_type": "code",
+      "id": "go_range_kw"
+    },
+    {
+      "label": "append",
+      "file_type": "code",
+      "id": "go_append_func"
+    },
+    {
+      "label": "make",
+      "file_type": "code",
+      "id": "go_make_func"
+    },
+    {
+      "label": "delete",
+      "file_type": "code",
+      "id": "go_delete_func"
+    },
+    {
+      "label": "len",
+      "file_type": "code",
+      "id": "go_len_func"
+    },
+    {
+      "label": "cap",
+      "file_type": "code",
+      "id": "go_cap_func"
+    },
+    {
+      "label": "hands-on-109",
+      "file_type": "code",
+      "id": "hands_on_109"
+    },
+    {
+      "label": "hands-on-110",
+      "file_type": "code",
+      "id": "hands_on_110"
+    },
+    {
+      "label": "hands-on-111",
+      "file_type": "code",
+      "id": "hands_on_111"
+    },
+    {
+      "label": "hands-on-112",
+      "file_type": "code",
+      "id": "hands_on_112"
+    },
+    {
+      "label": "hands-on-113",
+      "file_type": "code",
+      "id": "hands_on_113"
+    },
+    {
+      "label": "hands-on-114",
+      "file_type": "code",
+      "id": "hands_on_114"
+    },
+    {
+      "label": "hands-on-115",
+      "file_type": "code",
+      "id": "hands_on_115"
+    },
+    {
+      "label": "hands-on-121",
+      "file_type": "code",
+      "id": "hands_on_121"
+    },
+    {
+      "label": "hands-on-122",
+      "file_type": "code",
+      "id": "hands_on_122"
+    },
+    {
+      "label": "hands-on-123",
+      "file_type": "code",
+      "id": "hands_on_123"
+    },
+    {
+      "label": "hands-on-124",
+      "file_type": "code",
+      "id": "hands_on_124"
+    },
+    {
+      "label": "hands-on-129",
+      "file_type": "code",
+      "id": "hands_on_129"
+    },
+    {
+      "label": "hands-on-130",
+      "file_type": "code",
+      "id": "hands_on_130"
+    },
+    {
+      "label": "hands-on-131",
+      "file_type": "code",
+      "id": "hands_on_131"
+    },
+    {
+      "label": "hands-on-132",
+      "file_type": "code",
+      "id": "hands_on_132"
+    },
+    {
+      "label": "hands-on-55",
+      "file_type": "code",
+      "id": "hands_on_55"
+    },
+    {
+      "label": "hands-on-56",
+      "file_type": "code",
+      "id": "hands_on_56"
+    },
+    {
+      "label": "hands-on-77",
+      "file_type": "code",
+      "id": "hands_on_77"
+    },
+    {
+      "label": "hands-on-79",
+      "file_type": "code",
+      "id": "hands_on_79"
+    },
+    {
+      "label": "hands-on-80",
+      "file_type": "code",
+      "id": "hands_on_80"
+    },
+    {
+      "label": "switch",
+      "file_type": "code",
+      "id": "go_switch_stmt"
+    },
+    {
+      "label": "if-else",
+      "file_type": "code",
+      "id": "go_if_stmt"
+    },
+    {
+      "label": "init",
+      "file_type": "code",
+      "id": "go_init_func"
+    },
+    {
+      "label": "for loop",
+      "file_type": "code",
+      "id": "go_for_loop"
+    },
+    {
+      "label": "slice slicing",
+      "file_type": "code",
+      "id": "go_slice_slicing"
+    },
+    {
+      "label": "word frequency",
+      "file_type": "code",
+      "id": "go_word_frequency"
+    },
+    {
+      "label": "person",
+      "file_type": "code",
+      "id": "person_struct"
+    },
+    {
+      "label": "engine",
+      "file_type": "code",
+      "id": "engine_struct"
+    },
+    {
+      "label": "vehicle",
+      "file_type": "code",
+      "id": "vehicle_struct"
+    },
+    {
+      "label": "puppy",
+      "file_type": "code",
+      "id": "puppy_pkg"
+    },
+    {
+      "label": "math/rand package",
+      "file_type": "code",
+      "id": "math_rand_pkg"
+    },
+    {
+      "label": "fmt package",
+      "file_type": "code",
+      "id": "fmt_pkg"
+    },
+    {
+      "label": "main package",
+      "file_type": "code",
+      "id": "pkg_main"
+    },
+    {
+      "label": "main function",
+      "file_type": "code",
+      "id": "main_fn"
+    },
+    {
+      "label": "greet function",
+      "file_type": "code",
+      "id": "greet"
+    },
+    {
+      "label": "greetWithName function",
+      "file_type": "code",
+      "id": "greetWithName"
+    },
+    {
+      "label": "greetWithNameAndReturn function",
+      "file_type": "code",
+      "id": "greetWithNameAndReturn"
+    },
+    {
+      "label": "dogdetails function",
+      "file_type": "code",
+      "id": "dogdetails"
+    },
+    {
+      "label": "Greeting variadic function",
+      "file_type": "code",
+      "id": "Greeting"
+    },
+    {
+      "label": "foo function",
+      "file_type": "code",
+      "id": "foo"
+    },
+    {
+      "label": "bar function",
+      "file_type": "code",
+      "id": "bar"
+    },
+    {
+      "label": "calculator function",
+      "file_type": "code",
+      "id": "calculator"
+    },
+    {
+      "label": "addnumber function",
+      "file_type": "code",
+      "id": "addnumber"
+    },
+    {
+      "label": "subnumber function",
+      "file_type": "code",
+      "id": "subnumber"
+    },
+    {
+      "label": "incrementor function",
+      "file_type": "code",
+      "id": "incrementor"
+    },
+    {
+      "label": "anonymous functions",
+      "file_type": "code",
+      "id": "anonymous_fn"
+    },
+    {
+      "label": "function expressions",
+      "file_type": "code",
+      "id": "func_expr"
+    },
+    {
+      "label": "switch statements",
+      "file_type": "code",
+      "id": "switch_stmt"
+    },
+    {
+      "label": "for loops",
+      "file_type": "code",
+      "id": "for_loop"
+    },
+    {
+      "label": "range loops",
+      "file_type": "code",
+      "id": "range_loop"
+    },
+    {
+      "label": "If-Else Branching",
+      "file_type": "code",
+      "id": "if_else"
+    },
+    {
+      "label": "array type",
+      "file_type": "code",
+      "id": "arrays"
+    },
+    {
+      "label": "Slices",
+      "file_type": "code",
+      "id": "slices"
+    },
+    {
+      "label": "Maps",
+      "file_type": "code",
+      "id": "maps"
+    },
+    {
+      "label": "rand.Intn function",
+      "file_type": "code",
+      "id": "rand_Intn"
+    },
+    {
+      "label": "fmt.Println function",
+      "file_type": "code",
+      "id": "fmt_Println"
+    },
+    {
+      "label": "fmt.Printf function",
+      "file_type": "code",
+      "id": "fmt_Printf"
+    },
+    {
+      "label": "closure concept",
+      "file_type": "code",
+      "id": "closure"
+    },
+    {
+      "label": "callback pattern",
+      "file_type": "code",
+      "id": "callback"
+    },
+    {
+      "label": "Variadic Parameters",
+      "file_type": "code",
+      "id": "variadic_params"
+    },
+    {
+      "label": "Function Fundamentals",
+      "file_type": "code",
+      "id": "func_basics"
+    },
+    {
+      "label": "Function Parameters",
+      "file_type": "code",
+      "id": "func_parameters"
+    },
+    {
+      "label": "Function Return Values",
+      "file_type": "code",
+      "id": "func_returns"
+    },
+    {
+      "label": "Function Receiver",
+      "file_type": "code",
+      "id": "func_receiver"
+    },
+    {
+      "label": "Recursion",
+      "file_type": "code",
+      "id": "recursion"
+    },
+    {
+      "label": "Base Case",
+      "file_type": "code",
+      "id": "base_case"
+    },
+    {
+      "label": "Factorial Calculation",
+      "file_type": "code",
+      "id": "factorial_problem"
+    },
+    {
+      "label": "Methods",
+      "file_type": "code",
+      "id": "methods"
+    },
+    {
+      "label": "Struct Types",
+      "file_type": "code",
+      "id": "struct_types"
+    },
+    {
+      "label": "Embedded Structs",
+      "file_type": "code",
+      "id": "embedded_struct"
+    },
+    {
+      "label": "Anonymous Structs",
+      "file_type": "code",
+      "id": "anonymous_struct"
+    },
+    {
+      "label": "Composition Patterns",
+      "file_type": "code",
+      "id": "composition"
+    },
+    {
+      "label": "Interfaces",
+      "file_type": "code",
+      "id": "interfaces"
+    },
+    {
+      "label": "Polymorphism",
+      "file_type": "code",
+      "id": "polymorphism"
+    },
+    {
+      "label": "Stringer Interface",
+      "file_type": "code",
+      "id": "stringer_interface"
+    },
+    {
+      "label": "String() Method",
+      "file_type": "code",
+      "id": "string_method"
+    },
+    {
+      "label": "Writer Interface",
+      "file_type": "code",
+      "id": "writer_interface"
+    },
+    {
+      "label": "Write() Method",
+      "file_type": "code",
+      "id": "write_method"
+    },
+    {
+      "label": "Wrapper Functions",
+      "file_type": "code",
+      "id": "wrapper_function"
+    },
+    {
+      "label": "File Operations",
+      "file_type": "code",
+      "id": "file_operations"
+    },
+    {
+      "label": "bytes.Buffer",
+      "file_type": "code",
+      "id": "bytes_buffer"
+    },
+    {
+      "label": "Logging",
+      "file_type": "code",
+      "id": "logging"
+    },
+    {
+      "label": "Error Handling",
+      "file_type": "code",
+      "id": "error_handling"
+    },
+    {
+      "label": "Dog Type",
+      "file_type": "code",
+      "id": "dog_struct"
+    },
+    {
+      "label": "Owner Type",
+      "file_type": "code",
+      "id": "owner_struct"
+    },
+    {
+      "label": "Book Type",
+      "file_type": "code",
+      "id": "book_struct"
+    },
+    {
+      "label": "Count Type",
+      "file_type": "code",
+      "id": "count_type"
+    },
+    {
+      "label": "Person Type",
+      "file_type": "code",
+      "id": "person_type"
+    },
+    {
+      "label": "Slice Operations",
+      "file_type": "code",
+      "id": "slice_operations"
+    },
+    {
+      "label": "Map Operations",
+      "file_type": "code",
+      "id": "map_operations"
+    },
+    {
+      "label": "Learn How To Code: Google's Go",
+      "file_type": "document",
+      "id": "go_course"
+    },
+    {
+      "label": "Todd McLeod",
+      "file_type": "document",
+      "id": "todd_mcleod"
+    },
+    {
+      "label": "Go Programming Language",
+      "file_type": "document",
+      "id": "go_language"
+    },
+    {
+      "label": "WSL Development Environment",
+      "file_type": "document",
+      "id": "wsl_setup"
+    },
+    {
+      "label": "Ansible Automation",
+      "file_type": "document",
+      "id": "ansible_automation"
+    },
+    {
+      "label": "io Package",
+      "file_type": "code",
+      "id": "io_package"
+    },
+    {
+      "label": "fmt Package",
+      "file_type": "code",
+      "id": "fmt_package"
+    },
+    {
+      "label": "bytes Package",
+      "file_type": "code",
+      "id": "bytes_package"
+    },
+    {
+      "label": "os Package",
+      "file_type": "code",
+      "id": "os_package"
+    },
+    {
+      "label": "log Package",
+      "file_type": "code",
+      "id": "log_package"
+    },
+    {
+      "label": "hands-on-123",
+      "file_type": "document",
+      "id": "ho123"
+    },
+    {
+      "label": "hands-on-124",
+      "file_type": "document",
+      "id": "ho124"
+    },
+    {
+      "label": "hands-on-129",
+      "file_type": "document",
+      "id": "ho129"
+    },
+    {
+      "label": "hands-on-130",
+      "file_type": "document",
+      "id": "ho130"
+    },
+    {
+      "label": "hands-on-131",
+      "file_type": "document",
+      "id": "ho131"
+    },
+    {
+      "label": "hands-on-132",
+      "file_type": "document",
+      "id": "ho132"
+    },
+    {
+      "label": "hands-on-55",
+      "file_type": "document",
+      "id": "ho55"
+    },
+    {
+      "label": "hands-on-56",
+      "file_type": "document",
+      "id": "ho56"
+    },
+    {
+      "label": "hands-on-77",
+      "file_type": "document",
+      "id": "ho77"
+    },
+    {
+      "label": "hands-on-79",
+      "file_type": "document",
+      "id": "ho79"
+    },
+    {
+      "label": "hands-on-80",
+      "file_type": "document",
+      "id": "ho80"
+    },
+    {
+      "label": "hands-on-81",
+      "file_type": "document",
+      "id": "ho81"
+    },
+    {
+      "label": "hands-on-82",
+      "file_type": "document",
+      "id": "ho82"
+    },
+    {
+      "label": "hands-on-83",
+      "file_type": "document",
+      "id": "ho83"
+    },
+    {
+      "label": "hands-on-84",
+      "file_type": "document",
+      "id": "ho84"
+    },
+    {
+      "label": "hands-on-85",
+      "file_type": "document",
+      "id": "ho85"
+    },
+    {
+      "label": "hands-on-86",
+      "file_type": "document",
+      "id": "ho86"
+    },
+    {
+      "label": "hands-on-87",
+      "file_type": "document",
+      "id": "ho87"
+    },
+    {
+      "label": "hands-on-88",
+      "file_type": "document",
+      "id": "ho88"
+    },
+    {
+      "label": "hands-on-89",
+      "file_type": "document",
+      "id": "ho89"
+    },
+    {
+      "label": "hands-on-90",
+      "file_type": "document",
+      "id": "ho90"
+    },
+    {
+      "label": "Map Iteration",
+      "file_type": "code",
+      "id": "map_iteration"
+    },
+    {
+      "label": "Delete Operation",
+      "file_type": "code",
+      "id": "delete_op"
+    },
+    {
+      "label": "Map-Based Counting",
+      "file_type": "code",
+      "id": "map_counting"
+    },
+    {
+      "label": "Word Frequency Logic",
+      "file_type": "code",
+      "id": "word_frequency"
+    },
+    {
+      "label": "Struct Types",
+      "file_type": "code",
+      "id": "structs"
+    },
+    {
+      "label": "Struct Fields",
+      "file_type": "code",
+      "id": "struct_fields"
+    },
+    {
+      "label": "Struct Embedding",
+      "file_type": "code",
+      "id": "struct_embedding"
+    },
+    {
+      "label": "Anonymous Structs",
+      "file_type": "code",
+      "id": "anonymous_structs"
+    },
+    {
+      "label": "Variables",
+      "file_type": "code",
+      "id": "variables"
+    },
+    {
+      "label": "Constants",
+      "file_type": "code",
+      "id": "constants"
+    },
+    {
+      "label": "Package-Level Scope",
+      "file_type": "code",
+      "id": "package_scope"
+    },
+    {
+      "label": "Go Packages",
+      "file_type": "code",
+      "id": "packages"
+    },
+    {
+      "label": "Package Imports",
+      "file_type": "code",
+      "id": "imports"
+    },
+    {
+      "label": "Switch Statements",
+      "file_type": "code",
+      "id": "switch"
+    },
+    {
+      "label": "Case Blocks",
+      "file_type": "code",
+      "id": "case_blocks"
+    },
+    {
+      "label": "Comparison Operators",
+      "file_type": "code",
+      "id": "comparison_ops"
+    },
+    {
+      "label": "For Loops",
+      "file_type": "code",
+      "id": "for_loops"
+    },
+    {
+      "label": "Infinite Loops",
+      "file_type": "code",
+      "id": "infinite_loops"
+    },
+    {
+      "label": "Break Statement",
+      "file_type": "code",
+      "id": "break"
+    },
+    {
+      "label": "Nested Loops",
+      "file_type": "code",
+      "id": "nested_loops"
+    },
+    {
+      "label": "Range Keyword",
+      "file_type": "code",
+      "id": "range"
+    },
+    {
+      "label": "Init Function",
+      "file_type": "code",
+      "id": "init_func"
+    },
+    {
+      "label": "Main Function",
+      "file_type": "code",
+      "id": "main_func"
+    },
+    {
+      "label": "Modulo Operator",
+      "file_type": "code",
+      "id": "modulo"
+    },
+    {
+      "label": "Random Number Generation",
+      "file_type": "code",
+      "id": "random"
+    },
+    {
+      "label": "Boolean Conditions",
+      "file_type": "code",
+      "id": "boolean_conditions"
+    },
+    {
+      "label": "Range Operator",
+      "file_type": "code",
+      "id": "range_operator"
+    },
+    {
+      "label": "Comma-OK Idiom",
+      "file_type": "code",
+      "id": "comma_ok_idiom"
+    },
+    {
+      "label": "Short Variable Declarations",
+      "file_type": "code",
+      "id": "short_var_decl"
+    },
+    {
+      "label": "If Statements",
+      "file_type": "code",
+      "id": "if_statements"
+    },
+    {
+      "label": "Boolean Logic",
+      "file_type": "code",
+      "id": "boolean_logic"
+    },
+    {
+      "label": "Fixed-Size Arrays",
+      "file_type": "code",
+      "id": "fixed_arrays"
+    },
+    {
+      "label": "Array Literals",
+      "file_type": "code",
+      "id": "array_literals"
+    },
+    {
+      "label": "Array Iteration",
+      "file_type": "code",
+      "id": "array_iteration"
+    },
+    {
+      "label": "Function Declarations",
+      "file_type": "code",
+      "id": "function_decl"
+    },
+    {
+      "label": "Function Parameters",
+      "file_type": "code",
+      "id": "function_params"
+    },
+    {
+      "label": "Return Values",
+      "file_type": "code",
+      "id": "return_values"
+    },
+    {
+      "label": "Anonymous Functions",
+      "file_type": "code",
+      "id": "anonymous_functions"
+    },
+    {
+      "label": "Function Expressions",
+      "file_type": "code",
+      "id": "function_expressions"
+    },
+    {
+      "label": "Returning a Function",
+      "file_type": "code",
+      "id": "returning_functions"
+    },
+    {
+      "label": "Callbacks",
+      "file_type": "code",
+      "id": "callbacks"
+    },
+    {
+      "label": "Closures",
+      "file_type": "code",
+      "id": "closures"
+    },
+    {
+      "label": "Wrapper Functions",
+      "file_type": "code",
+      "id": "wrapper_functions"
+    },
+    {
+      "label": "io.Writer",
+      "file_type": "code",
+      "id": "io_writer"
+    },
+    {
+      "label": "os.File",
+      "file_type": "code",
+      "id": "os_file"
+    },
+    {
+      "label": "Writertest Method",
+      "file_type": "code",
+      "id": "writertest_method"
+    },
+    {
+      "label": "new_file.txt",
+      "file_type": "document",
+      "id": "new_file_txt"
+    }
+  ],
+  "edges": [
+    {
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "_src": "build_graph_py",
+      "_tgt": "graphify_lib",
+      "source": "build_graph_py",
+      "target": "graphify_lib"
+    },
+    {
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "_src": "build_graph_py",
+      "_tgt": "networkx_lib",
+      "source": "build_graph_py",
+      "target": "networkx_lib"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "_src": "build_graph_py",
+      "_tgt": "detect_func",
+      "source": "build_graph_py",
+      "target": "detect_func"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "_src": "build_graph_py",
+      "_tgt": "extract_func",
+      "source": "build_graph_py",
+      "target": "extract_func"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "_src": "build_graph_py",
+      "_tgt": "build_from_json_func",
+      "source": "build_graph_py",
+      "target": "build_from_json_func"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "_src": "build_graph_py",
+      "_tgt": "cluster_func",
+      "source": "build_graph_py",
+      "target": "cluster_func"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "_src": "build_graph_py",
+      "_tgt": "god_nodes_func",
+      "source": "build_graph_py",
+      "target": "god_nodes_func"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-109\\main.go",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_src": "hands_on_109_main_go",
+      "_tgt": "main_main",
+      "source": "hands_on_109_main_go",
+      "target": "main_main"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-110\\main.go",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_src": "hands_on_110_main_go",
+      "_tgt": "main_main",
+      "source": "main_main",
+      "target": "hands_on_110_main_go"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-111\\main.go",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_src": "hands_on_111_main_go",
+      "_tgt": "main_main",
+      "source": "main_main",
+      "target": "hands_on_111_main_go"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-112\\main.go",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_src": "hands_on_112_main_go",
+      "_tgt": "main_main",
+      "source": "main_main",
+      "target": "hands_on_112_main_go"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-113\\main.go",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_src": "hands_on_113_main_go",
+      "_tgt": "main_main",
+      "source": "main_main",
+      "target": "hands_on_113_main_go"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-114\\main.go",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_src": "hands_on_114_main_go",
+      "_tgt": "main_main",
+      "source": "main_main",
+      "target": "hands_on_114_main_go"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-115\\main.go",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_src": "hands_on_115_main_go",
+      "_tgt": "main_main",
+      "source": "main_main",
+      "target": "hands_on_115_main_go"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-121(revision_and_practice)\\main.go",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_src": "hands_on_121_revision_and_practice_main_go",
+      "_tgt": "main_main",
+      "source": "main_main",
+      "target": "hands_on_121_revision_and_practice_main_go"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-122\\main.go",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_src": "hands_on_122_main_go",
+      "_tgt": "main_main",
+      "source": "main_main",
+      "target": "hands_on_122_main_go"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-123\\main.go",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_src": "hands_on_123_main_go",
+      "_tgt": "main_main",
+      "source": "main_main",
+      "target": "hands_on_123_main_go"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-124\\main.go",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_src": "hands_on_124_main_go",
+      "_tgt": "main_main",
+      "source": "main_main",
+      "target": "hands_on_124_main_go"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-129\\main.go",
+      "source_location": "L11",
+      "weight": 1.0,
+      "_src": "hands_on_129_main_go",
+      "_tgt": "main_main",
+      "source": "main_main",
+      "target": "hands_on_129_main_go"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-130\\main.go",
+      "source_location": "L11",
+      "weight": 1.0,
+      "_src": "hands_on_130_main_go",
+      "_tgt": "main_main",
+      "source": "main_main",
+      "target": "hands_on_130_main_go"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-131\\main.go",
+      "source_location": "L17",
+      "weight": 1.0,
+      "_src": "hands_on_131_main_go",
+      "_tgt": "main_main",
+      "source": "main_main",
+      "target": "hands_on_131_main_go"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-132\\main.go",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_src": "hands_on_132_main_go",
+      "_tgt": "main_main",
+      "source": "main_main",
+      "target": "hands_on_132_main_go"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-55\\main.go",
+      "source_location": "L9",
+      "weight": 1.0,
+      "_src": "hands_on_55_main_go",
+      "_tgt": "main_main",
+      "source": "main_main",
+      "target": "hands_on_55_main_go"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-56\\main.go",
+      "source_location": "L9",
+      "weight": 1.0,
+      "_src": "hands_on_56_main_go",
+      "_tgt": "main_main",
+      "source": "main_main",
+      "target": "hands_on_56_main_go"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-77\\main.go",
+      "source_location": "L8",
+      "weight": 1.0,
+      "_src": "hands_on_77_main_go",
+      "_tgt": "main_main",
+      "source": "main_main",
+      "target": "hands_on_77_main_go"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-79\\main.go",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_src": "hands_on_79_main_go",
+      "_tgt": "main_main",
+      "source": "main_main",
+      "target": "hands_on_79_main_go"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-80\\main.go",
+      "source_location": "L8",
+      "weight": 1.0,
+      "_src": "hands_on_80_main_go",
+      "_tgt": "main_main",
+      "source": "main_main",
+      "target": "hands_on_80_main_go"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-81\\main.go",
+      "source_location": "L8",
+      "weight": 1.0,
+      "_src": "hands_on_81_main_go",
+      "_tgt": "main_main",
+      "source": "main_main",
+      "target": "hands_on_81_main_go"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-82\\main.go",
+      "source_location": "L8",
+      "weight": 1.0,
+      "_src": "hands_on_82_main_go",
+      "_tgt": "main_main",
+      "source": "main_main",
+      "target": "hands_on_82_main_go"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-83\\main.go",
+      "source_location": "L8",
+      "weight": 1.0,
+      "_src": "hands_on_83_main_go",
+      "_tgt": "main_main",
+      "source": "main_main",
+      "target": "hands_on_83_main_go"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-84\\main.go",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_src": "hands_on_84_main_go",
+      "_tgt": "main_main",
+      "source": "main_main",
+      "target": "hands_on_84_main_go"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-85\\main.go",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_src": "hands_on_85_main_go",
+      "_tgt": "main_main",
+      "source": "main_main",
+      "target": "hands_on_85_main_go"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-86\\main.go",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_src": "hands_on_86_main_go",
+      "_tgt": "main_main",
+      "source": "main_main",
+      "target": "hands_on_86_main_go"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-87\\main.go",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_src": "hands_on_87_main_go",
+      "_tgt": "main_main",
+      "source": "main_main",
+      "target": "hands_on_87_main_go"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-88\\main.go",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_src": "hands_on_88_main_go",
+      "_tgt": "main_main",
+      "source": "main_main",
+      "target": "hands_on_88_main_go"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-89\\main.go",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_src": "hands_on_89_main_go",
+      "_tgt": "main_main",
+      "source": "main_main",
+      "target": "hands_on_89_main_go"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-90\\main.go",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_src": "hands_on_90_main_go",
+      "_tgt": "main_main",
+      "source": "main_main",
+      "target": "hands_on_90_main_go"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-91\\main.go",
+      "source_location": "L8",
+      "weight": 1.0,
+      "_src": "hands_on_91_main_go",
+      "_tgt": "main_main",
+      "source": "main_main",
+      "target": "hands_on_91_main_go"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-92\\main.go",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_src": "hands_on_92_main_go",
+      "_tgt": "main_main",
+      "source": "main_main",
+      "target": "hands_on_92_main_go"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-97\\main.go",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_src": "hands_on_97_main_go",
+      "_tgt": "main_main",
+      "source": "main_main",
+      "target": "hands_on_97_main_go"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-98\\main.go",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_src": "hands_on_98_main_go",
+      "_tgt": "main_main",
+      "source": "main_main",
+      "target": "hands_on_98_main_go"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-99\\main.go",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_src": "hands_on_99_main_go",
+      "_tgt": "main_main",
+      "source": "main_main",
+      "target": "hands_on_99_main_go"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-Functions- Part 1\\main.go",
+      "source_location": "L19",
+      "weight": 1.0,
+      "_src": "hands_on_understanding_functions_part_1_main_go",
+      "_tgt": "main_main",
+      "source": "main_main",
+      "target": "hands_on_understanding_functions_part_1_main_go"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-Functions- Part 1\\main.go",
+      "source_location": "L21",
+      "weight": 1.0,
+      "_src": "main_main",
+      "_tgt": "main_greet",
+      "source": "main_main",
+      "target": "main_greet"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-Functions- Part 1\\main.go",
+      "source_location": "L22",
+      "weight": 1.0,
+      "_src": "main_main",
+      "_tgt": "main_greetwithname",
+      "source": "main_main",
+      "target": "main_greetwithname"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-Functions- Part 1\\main.go",
+      "source_location": "L24",
+      "weight": 1.0,
+      "_src": "main_main",
+      "_tgt": "main_greetwithnameandreturn",
+      "source": "main_main",
+      "target": "main_greetwithnameandreturn"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-Functions- Part 1\\main.go",
+      "source_location": "L27",
+      "weight": 1.0,
+      "_src": "main_main",
+      "_tgt": "main_dogdetails",
+      "source": "main_main",
+      "target": "main_dogdetails"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-Functions- Part 1\\main.go",
+      "source_location": "L30",
+      "weight": 1.0,
+      "_src": "main_main",
+      "_tgt": "main_sum",
+      "source": "main_main",
+      "target": "main_sum"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-Functions- Part 1\\main.go",
+      "source_location": "L32",
+      "weight": 1.0,
+      "_src": "main_main",
+      "_tgt": "main_sum2",
+      "source": "main_main",
+      "target": "main_sum2"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-Functions- Part 1\\main.go",
+      "source_location": "L35",
+      "weight": 1.0,
+      "_src": "main_main",
+      "_tgt": "main_greeting",
+      "source": "main_main",
+      "target": "main_greeting"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-functions-145\\main.go",
+      "source_location": "L21",
+      "weight": 1.0,
+      "_src": "hands_on_understanding_functions_145_main_go",
+      "_tgt": "main_main",
+      "source": "main_main",
+      "target": "hands_on_understanding_functions_145_main_go"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-functions-150\\main.go",
+      "source_location": "L24",
+      "weight": 1.0,
+      "_src": "main_main",
+      "_tgt": "main_foo",
+      "source": "main_main",
+      "target": "main_foo"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-functions-146\\main.go",
+      "source_location": "L13",
+      "weight": 1.0,
+      "_src": "hands_on_understanding_functions_146_main_go",
+      "_tgt": "main_main",
+      "source": "main_main",
+      "target": "hands_on_understanding_functions_146_main_go"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-functions-147\\main.go",
+      "source_location": "L16",
+      "weight": 1.0,
+      "_src": "hands_on_understanding_functions_147_main_go",
+      "_tgt": "main_main",
+      "source": "main_main",
+      "target": "hands_on_understanding_functions_147_main_go"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-functions-147\\main.go",
+      "source_location": "L21",
+      "weight": 1.0,
+      "_src": "main_main",
+      "_tgt": "main_bar",
+      "source": "main_main",
+      "target": "main_bar"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-functions-148\\main.go",
+      "source_location": "L16",
+      "weight": 1.0,
+      "_src": "hands_on_understanding_functions_148_main_go",
+      "_tgt": "main_main",
+      "source": "main_main",
+      "target": "hands_on_understanding_functions_148_main_go"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-functions-148\\main.go",
+      "source_location": "L19",
+      "weight": 1.0,
+      "_src": "main_main",
+      "_tgt": "main_addnumber",
+      "source": "main_main",
+      "target": "main_addnumber"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-functions-148\\main.go",
+      "source_location": "L23",
+      "weight": 1.0,
+      "_src": "main_main",
+      "_tgt": "main_subnumber",
+      "source": "main_main",
+      "target": "main_subnumber"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-functions-148\\main.go",
+      "source_location": "L28",
+      "weight": 1.0,
+      "_src": "main_main",
+      "_tgt": "main_calculator",
+      "source": "main_main",
+      "target": "main_calculator"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-functions-149\\main.go",
+      "source_location": "L15",
+      "weight": 1.0,
+      "_src": "hands_on_understanding_functions_149_main_go",
+      "_tgt": "main_main",
+      "source": "main_main",
+      "target": "hands_on_understanding_functions_149_main_go"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-functions-149\\main.go",
+      "source_location": "L16",
+      "weight": 1.0,
+      "_src": "main_main",
+      "_tgt": "main_incrementor",
+      "source": "main_main",
+      "target": "main_incrementor"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-functions-150\\main.go",
+      "source_location": "L23",
+      "weight": 1.0,
+      "_src": "hands_on_understanding_functions_150_main_go",
+      "_tgt": "main_main",
+      "source": "main_main",
+      "target": "hands_on_understanding_functions_150_main_go"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-functions-151\\main.go",
+      "source_location": "L44",
+      "weight": 1.0,
+      "_src": "hands_on_understanding_functions_151_main_go",
+      "_tgt": "main_main",
+      "source": "main_main",
+      "target": "hands_on_understanding_functions_151_main_go"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-functions-151\\main.go",
+      "source_location": "L45",
+      "weight": 1.0,
+      "_src": "main_main",
+      "_tgt": "main_factorial",
+      "source": "main_main",
+      "target": "main_factorial"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-functions-152\\main.go",
+      "source_location": "L22",
+      "weight": 1.0,
+      "_src": "hands_on_understanding_functions_152_main_go",
+      "_tgt": "main_main",
+      "source": "main_main",
+      "target": "hands_on_understanding_functions_152_main_go"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-functions-152\\main.go",
+      "source_location": "L23",
+      "weight": 1.0,
+      "_src": "main_main",
+      "_tgt": "main_readfile",
+      "source": "main_main",
+      "target": "main_readfile"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-Interfaces and Poly- Part 2\\main.go",
+      "source_location": "L27",
+      "weight": 1.0,
+      "_src": "hands_on_understanding_interfaces_and_poly_part_2_main_go",
+      "_tgt": "main_main",
+      "source": "main_main",
+      "target": "hands_on_understanding_interfaces_and_poly_part_2_main_go"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-Interfaces and Poly- Part 2\\main.go",
+      "source_location": "L31",
+      "weight": 1.0,
+      "_src": "main_main",
+      "_tgt": "main_doggie",
+      "source": "main_main",
+      "target": "main_doggie"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-Interfaces and Poly- Part 2\\main.go",
+      "source_location": "L51",
+      "weight": 1.0,
+      "_src": "main_main",
+      "_tgt": "hands_on_understanding_interfaces_and_poly_part_2_owner_details",
+      "source": "main_main",
+      "target": "hands_on_understanding_interfaces_and_poly_part_2_owner_details"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-Interfaces and Poly- Part 2\\main.go",
+      "source_location": "L52",
+      "weight": 1.0,
+      "_src": "main_main",
+      "_tgt": "hands_on_understanding_interfaces_and_poly_part_2_dog_bark",
+      "source": "main_main",
+      "target": "hands_on_understanding_interfaces_and_poly_part_2_dog_bark"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-Interfaces and Poly- Part 2\\main.go",
+      "source_location": "L78",
+      "weight": 1.0,
+      "_src": "main_main",
+      "_tgt": "main_pethumaninformation",
+      "source": "main_main",
+      "target": "main_pethumaninformation"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-stringer-interfaces- Part 3\\main.go",
+      "source_location": "L52",
+      "weight": 1.0,
+      "_src": "hands_on_understanding_stringer_interfaces_part_3_main_go",
+      "_tgt": "main_main",
+      "source": "main_main",
+      "target": "hands_on_understanding_stringer_interfaces_part_3_main_go"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-stringer-interfaces- Part 3\\main.go",
+      "source_location": "L55",
+      "weight": 1.0,
+      "_src": "main_main",
+      "_tgt": "hands_on_understanding_stringer_interfaces_part_3_count",
+      "source": "main_main",
+      "target": "hands_on_understanding_stringer_interfaces_part_3_count"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-stringer-interfaces- Part 3\\main.go",
+      "source_location": "L57",
+      "weight": 1.0,
+      "_src": "main_main",
+      "_tgt": "hands_on_understanding_stringer_interfaces_part_3_count_string",
+      "source": "main_main",
+      "target": "hands_on_understanding_stringer_interfaces_part_3_count_string"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-struct-types\\main.go",
+      "source_location": "L19",
+      "weight": 1.0,
+      "_src": "hands_on_understanding_struct_types_main_go",
+      "_tgt": "main_main",
+      "source": "main_main",
+      "target": "hands_on_understanding_struct_types_main_go"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-writer-interfaces- Part 4\\main.go",
+      "source_location": "L42",
+      "weight": 1.0,
+      "_src": "hands_on_understanding_writer_interfaces_part_4_main_go",
+      "_tgt": "main_main",
+      "source": "main_main",
+      "target": "hands_on_understanding_writer_interfaces_part_4_main_go"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-writer-interfaces- Part 4\\main.go",
+      "source_location": "L50",
+      "weight": 1.0,
+      "_src": "main_main",
+      "_tgt": "hands_on_understanding_writer_interfaces_part_4_person_writertest",
+      "source": "main_main",
+      "target": "hands_on_understanding_writer_interfaces_part_4_person_writertest"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-129\\main.go",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_src": "hands_on_129_main_go",
+      "_tgt": "hands_on_129_person",
+      "source": "hands_on_129_main_go",
+      "target": "hands_on_129_person"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-130\\main.go",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_src": "hands_on_130_main_go",
+      "_tgt": "hands_on_130_person",
+      "source": "hands_on_130_main_go",
+      "target": "hands_on_130_person"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-131\\main.go",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_src": "hands_on_131_main_go",
+      "_tgt": "hands_on_131_engine",
+      "source": "hands_on_131_main_go",
+      "target": "hands_on_131_engine"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-131\\main.go",
+      "source_location": "L9",
+      "weight": 1.0,
+      "_src": "hands_on_131_main_go",
+      "_tgt": "hands_on_131_vehicle",
+      "source": "hands_on_131_main_go",
+      "target": "hands_on_131_vehicle"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-79\\main.go",
+      "source_location": "L8",
+      "weight": 1.0,
+      "_src": "hands_on_79_main_go",
+      "_tgt": "main_init",
+      "source": "hands_on_79_main_go",
+      "target": "main_init"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-Functions- Part 1\\main.go",
+      "source_location": "L41",
+      "weight": 1.0,
+      "_src": "hands_on_understanding_functions_part_1_main_go",
+      "_tgt": "main_greet",
+      "source": "hands_on_understanding_functions_part_1_main_go",
+      "target": "main_greet"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-Functions- Part 1\\main.go",
+      "source_location": "L47",
+      "weight": 1.0,
+      "_src": "hands_on_understanding_functions_part_1_main_go",
+      "_tgt": "main_greetwithname",
+      "source": "hands_on_understanding_functions_part_1_main_go",
+      "target": "main_greetwithname"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-Functions- Part 1\\main.go",
+      "source_location": "L53",
+      "weight": 1.0,
+      "_src": "hands_on_understanding_functions_part_1_main_go",
+      "_tgt": "main_greetwithnameandreturn",
+      "source": "hands_on_understanding_functions_part_1_main_go",
+      "target": "main_greetwithnameandreturn"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-Functions- Part 1\\main.go",
+      "source_location": "L59",
+      "weight": 1.0,
+      "_src": "hands_on_understanding_functions_part_1_main_go",
+      "_tgt": "main_dogdetails",
+      "source": "hands_on_understanding_functions_part_1_main_go",
+      "target": "main_dogdetails"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-Functions- Part 1\\main.go",
+      "source_location": "L103",
+      "weight": 1.0,
+      "_src": "hands_on_understanding_functions_part_1_main_go",
+      "_tgt": "main_sum",
+      "source": "hands_on_understanding_functions_part_1_main_go",
+      "target": "main_sum"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-Functions- Part 1\\main.go",
+      "source_location": "L112",
+      "weight": 1.0,
+      "_src": "hands_on_understanding_functions_part_1_main_go",
+      "_tgt": "main_sum2",
+      "source": "hands_on_understanding_functions_part_1_main_go",
+      "target": "main_sum2"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-Functions- Part 1\\main.go",
+      "source_location": "L122",
+      "weight": 1.0,
+      "_src": "hands_on_understanding_functions_part_1_main_go",
+      "_tgt": "main_greeting",
+      "source": "hands_on_understanding_functions_part_1_main_go",
+      "target": "main_greeting"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-functions-145\\main.go",
+      "source_location": "L43",
+      "weight": 1.0,
+      "_src": "hands_on_understanding_functions_145_main_go",
+      "_tgt": "main_foo",
+      "source": "hands_on_understanding_functions_145_main_go",
+      "target": "main_foo"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-functions-146\\main.go",
+      "source_location": "L29",
+      "weight": 1.0,
+      "_src": "hands_on_understanding_functions_146_main_go",
+      "_tgt": "main_foo",
+      "source": "main_foo",
+      "target": "hands_on_understanding_functions_146_main_go"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-functions-147\\main.go",
+      "source_location": "L31",
+      "weight": 1.0,
+      "_src": "hands_on_understanding_functions_147_main_go",
+      "_tgt": "main_foo",
+      "source": "main_foo",
+      "target": "hands_on_understanding_functions_147_main_go"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-functions-150\\main.go",
+      "source_location": "L27",
+      "weight": 1.0,
+      "_src": "hands_on_understanding_functions_150_main_go",
+      "_tgt": "main_foo",
+      "source": "main_foo",
+      "target": "hands_on_understanding_functions_150_main_go"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-functions-147\\main.go",
+      "source_location": "L35",
+      "weight": 1.0,
+      "_src": "hands_on_understanding_functions_147_main_go",
+      "_tgt": "main_bar",
+      "source": "hands_on_understanding_functions_147_main_go",
+      "target": "main_bar"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-functions-148\\main.go",
+      "source_location": "L38",
+      "weight": 1.0,
+      "_src": "hands_on_understanding_functions_148_main_go",
+      "_tgt": "main_calculator",
+      "source": "hands_on_understanding_functions_148_main_go",
+      "target": "main_calculator"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-functions-148\\main.go",
+      "source_location": "L42",
+      "weight": 1.0,
+      "_src": "hands_on_understanding_functions_148_main_go",
+      "_tgt": "main_addnumber",
+      "source": "hands_on_understanding_functions_148_main_go",
+      "target": "main_addnumber"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-functions-148\\main.go",
+      "source_location": "L46",
+      "weight": 1.0,
+      "_src": "hands_on_understanding_functions_148_main_go",
+      "_tgt": "main_subnumber",
+      "source": "hands_on_understanding_functions_148_main_go",
+      "target": "main_subnumber"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-functions-149\\main.go",
+      "source_location": "L51",
+      "weight": 1.0,
+      "_src": "hands_on_understanding_functions_149_main_go",
+      "_tgt": "main_incrementor",
+      "source": "hands_on_understanding_functions_149_main_go",
+      "target": "main_incrementor"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-functions-151\\main.go",
+      "source_location": "L48",
+      "weight": 1.0,
+      "_src": "hands_on_understanding_functions_151_main_go",
+      "_tgt": "main_factorial",
+      "source": "hands_on_understanding_functions_151_main_go",
+      "target": "main_factorial"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-functions-152\\main.go",
+      "source_location": "L31",
+      "weight": 1.0,
+      "_src": "hands_on_understanding_functions_152_main_go",
+      "_tgt": "main_readfile",
+      "source": "hands_on_understanding_functions_152_main_go",
+      "target": "main_readfile"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-Interfaces and Poly- Part 2\\main.go",
+      "source_location": "L82",
+      "weight": 1.0,
+      "_src": "hands_on_understanding_interfaces_and_poly_part_2_main_go",
+      "_tgt": "main_doggie",
+      "source": "hands_on_understanding_interfaces_and_poly_part_2_main_go",
+      "target": "main_doggie"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-Interfaces and Poly- Part 2\\main.go",
+      "source_location": "L92",
+      "weight": 1.0,
+      "_src": "hands_on_understanding_interfaces_and_poly_part_2_main_go",
+      "_tgt": "hands_on_understanding_interfaces_and_poly_part_2_dog",
+      "source": "hands_on_understanding_interfaces_and_poly_part_2_main_go",
+      "target": "hands_on_understanding_interfaces_and_poly_part_2_dog"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-Interfaces and Poly- Part 2\\main.go",
+      "source_location": "L123",
+      "weight": 1.0,
+      "_src": "hands_on_understanding_interfaces_and_poly_part_2_main_go",
+      "_tgt": "hands_on_understanding_interfaces_and_poly_part_2_owner",
+      "source": "hands_on_understanding_interfaces_and_poly_part_2_main_go",
+      "target": "hands_on_understanding_interfaces_and_poly_part_2_owner"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-Interfaces and Poly- Part 2\\main.go",
+      "source_location": "L137",
+      "weight": 1.0,
+      "_src": "hands_on_understanding_interfaces_and_poly_part_2_main_go",
+      "_tgt": "hands_on_understanding_interfaces_and_poly_part_2_pet",
+      "source": "hands_on_understanding_interfaces_and_poly_part_2_main_go",
+      "target": "hands_on_understanding_interfaces_and_poly_part_2_pet"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-Interfaces and Poly- Part 2\\main.go",
+      "source_location": "L143",
+      "weight": 1.0,
+      "_src": "hands_on_understanding_interfaces_and_poly_part_2_main_go",
+      "_tgt": "main_pethumaninformation",
+      "source": "hands_on_understanding_interfaces_and_poly_part_2_main_go",
+      "target": "main_pethumaninformation"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-Interfaces and Poly- Part 2\\main.go",
+      "source_location": "L100",
+      "weight": 1.0,
+      "_src": "hands_on_understanding_interfaces_and_poly_part_2_dog",
+      "_tgt": "hands_on_understanding_interfaces_and_poly_part_2_dog_bark",
+      "source": "hands_on_understanding_interfaces_and_poly_part_2_dog",
+      "target": "hands_on_understanding_interfaces_and_poly_part_2_dog_bark"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-Interfaces and Poly- Part 2\\main.go",
+      "source_location": "L104",
+      "weight": 1.0,
+      "_src": "hands_on_understanding_interfaces_and_poly_part_2_dog",
+      "_tgt": "hands_on_understanding_interfaces_and_poly_part_2_dog_details",
+      "source": "hands_on_understanding_interfaces_and_poly_part_2_dog",
+      "target": "hands_on_understanding_interfaces_and_poly_part_2_dog_details"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-Interfaces and Poly- Part 2\\main.go",
+      "source_location": "L128",
+      "weight": 1.0,
+      "_src": "hands_on_understanding_interfaces_and_poly_part_2_owner",
+      "_tgt": "hands_on_understanding_interfaces_and_poly_part_2_owner_details",
+      "source": "hands_on_understanding_interfaces_and_poly_part_2_owner",
+      "target": "hands_on_understanding_interfaces_and_poly_part_2_owner_details"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-Interfaces and Poly- Part 2\\main.go",
+      "source_location": "L144",
+      "weight": 1.0,
+      "_src": "main_pethumaninformation",
+      "_tgt": "hands_on_understanding_interfaces_and_poly_part_2_owner_details",
+      "source": "hands_on_understanding_interfaces_and_poly_part_2_owner_details",
+      "target": "main_pethumaninformation"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-stringer-interfaces- Part 3\\main.go",
+      "source_location": "L38",
+      "weight": 1.0,
+      "_src": "hands_on_understanding_stringer_interfaces_part_3_main_go",
+      "_tgt": "hands_on_understanding_stringer_interfaces_part_3_book",
+      "source": "hands_on_understanding_stringer_interfaces_part_3_main_go",
+      "target": "hands_on_understanding_stringer_interfaces_part_3_book"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-stringer-interfaces- Part 3\\main.go",
+      "source_location": "L46",
+      "weight": 1.0,
+      "_src": "hands_on_understanding_stringer_interfaces_part_3_main_go",
+      "_tgt": "hands_on_understanding_stringer_interfaces_part_3_count",
+      "source": "hands_on_understanding_stringer_interfaces_part_3_main_go",
+      "target": "hands_on_understanding_stringer_interfaces_part_3_count"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-stringer-interfaces- Part 3\\main.go",
+      "source_location": "L42",
+      "weight": 1.0,
+      "_src": "hands_on_understanding_stringer_interfaces_part_3_book",
+      "_tgt": "hands_on_understanding_stringer_interfaces_part_3_book_string",
+      "source": "hands_on_understanding_stringer_interfaces_part_3_book",
+      "target": "hands_on_understanding_stringer_interfaces_part_3_book_string"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-stringer-interfaces- Part 3\\main.go",
+      "source_location": "L48",
+      "weight": 1.0,
+      "_src": "hands_on_understanding_stringer_interfaces_part_3_count",
+      "_tgt": "hands_on_understanding_stringer_interfaces_part_3_count_string",
+      "source": "hands_on_understanding_stringer_interfaces_part_3_count",
+      "target": "hands_on_understanding_stringer_interfaces_part_3_count_string"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-struct-types\\main.go",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_src": "hands_on_understanding_struct_types_main_go",
+      "_tgt": "hands_on_understanding_struct_types_person",
+      "source": "hands_on_understanding_struct_types_main_go",
+      "target": "hands_on_understanding_struct_types_person"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-struct-types\\main.go",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_src": "hands_on_understanding_struct_types_main_go",
+      "_tgt": "hands_on_understanding_struct_types_agentname",
+      "source": "hands_on_understanding_struct_types_main_go",
+      "target": "hands_on_understanding_struct_types_agentname"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-writer-interfaces- Part 4\\main.go",
+      "source_location": "L32",
+      "weight": 1.0,
+      "_src": "hands_on_understanding_writer_interfaces_part_4_main_go",
+      "_tgt": "hands_on_understanding_writer_interfaces_part_4_person",
+      "source": "hands_on_understanding_writer_interfaces_part_4_main_go",
+      "target": "hands_on_understanding_writer_interfaces_part_4_person"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "hands-on-understanding-writer-interfaces- Part 4\\main.go",
+      "source_location": "L36",
+      "weight": 1.0,
+      "_src": "hands_on_understanding_writer_interfaces_part_4_person",
+      "_tgt": "hands_on_understanding_writer_interfaces_part_4_person_writertest",
+      "source": "hands_on_understanding_writer_interfaces_part_4_person",
+      "target": "hands_on_understanding_writer_interfaces_part_4_person_writertest"
+    },
+    {
+      "relation": "provides",
+      "confidence": "EXTRACTED",
+      "_src": "graphify_lib",
+      "_tgt": "detect_func",
+      "source": "graphify_lib",
+      "target": "detect_func"
+    },
+    {
+      "relation": "provides",
+      "confidence": "EXTRACTED",
+      "_src": "graphify_lib",
+      "_tgt": "extract_func",
+      "source": "graphify_lib",
+      "target": "extract_func"
+    },
+    {
+      "relation": "provides",
+      "confidence": "EXTRACTED",
+      "_src": "graphify_lib",
+      "_tgt": "build_from_json_func",
+      "source": "graphify_lib",
+      "target": "build_from_json_func"
+    },
+    {
+      "relation": "provides",
+      "confidence": "EXTRACTED",
+      "_src": "graphify_lib",
+      "_tgt": "cluster_func",
+      "source": "graphify_lib",
+      "target": "cluster_func"
+    },
+    {
+      "relation": "provides",
+      "confidence": "EXTRACTED",
+      "_src": "graphify_lib",
+      "_tgt": "god_nodes_func",
+      "source": "graphify_lib",
+      "target": "god_nodes_func"
+    },
+    {
+      "relation": "provides",
+      "confidence": "EXTRACTED",
+      "_src": "graphify_lib",
+      "_tgt": "surprising_connections_func",
+      "source": "graphify_lib",
+      "target": "surprising_connections_func"
+    },
+    {
+      "relation": "demonstrates",
+      "confidence": "EXTRACTED",
+      "_src": "hands_on_109",
+      "_tgt": "go_slice_type",
+      "source": "go_slice_type",
+      "target": "hands_on_109"
+    },
+    {
+      "relation": "demonstrates",
+      "confidence": "EXTRACTED",
+      "_src": "hands_on_110",
+      "_tgt": "go_slice_type",
+      "source": "go_slice_type",
+      "target": "hands_on_110"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "_src": "hands_on_111",
+      "_tgt": "go_slice_type",
+      "source": "go_slice_type",
+      "target": "hands_on_111"
+    },
+    {
+      "relation": "operates_on",
+      "confidence": "EXTRACTED",
+      "_src": "hands_on_112",
+      "_tgt": "go_slice_type",
+      "source": "go_slice_type",
+      "target": "hands_on_112"
+    },
+    {
+      "relation": "demonstrates_nested",
+      "confidence": "EXTRACTED",
+      "_src": "hands_on_115",
+      "_tgt": "go_slice_type",
+      "source": "go_slice_type",
+      "target": "hands_on_115"
+    },
+    {
+      "relation": "operates_on",
+      "confidence": "INFERRED",
+      "_src": "go_slice_slicing",
+      "_tgt": "go_slice_type",
+      "source": "go_slice_type",
+      "target": "go_slice_slicing"
+    },
+    {
+      "relation": "demonstrates",
+      "confidence": "EXTRACTED",
+      "_src": "hands_on_121",
+      "_tgt": "go_map_type",
+      "source": "go_map_type",
+      "target": "hands_on_121"
+    },
+    {
+      "relation": "demonstrates",
+      "confidence": "EXTRACTED",
+      "_src": "hands_on_122",
+      "_tgt": "go_map_type",
+      "source": "go_map_type",
+      "target": "hands_on_122"
+    },
+    {
+      "relation": "operates_on",
+      "confidence": "EXTRACTED",
+      "_src": "hands_on_123",
+      "_tgt": "go_map_type",
+      "source": "go_map_type",
+      "target": "hands_on_123"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "_src": "hands_on_124",
+      "_tgt": "go_map_type",
+      "source": "go_map_type",
+      "target": "hands_on_124"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "_src": "hands_on_130",
+      "_tgt": "go_map_type",
+      "source": "go_map_type",
+      "target": "hands_on_130"
+    },
+    {
+      "relation": "demonstrates",
+      "confidence": "EXTRACTED",
+      "_src": "hands_on_129",
+      "_tgt": "go_struct_type",
+      "source": "go_struct_type",
+      "target": "hands_on_129"
+    },
+    {
+      "relation": "demonstrates_anonymous",
+      "confidence": "EXTRACTED",
+      "_src": "hands_on_132",
+      "_tgt": "go_struct_type",
+      "source": "go_struct_type",
+      "target": "hands_on_132"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "_src": "hands_on_109",
+      "_tgt": "go_range_kw",
+      "source": "go_range_kw",
+      "target": "hands_on_109"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "_src": "hands_on_121",
+      "_tgt": "go_range_kw",
+      "source": "go_range_kw",
+      "target": "hands_on_121"
+    },
+    {
+      "relation": "demonstrates",
+      "confidence": "EXTRACTED",
+      "_src": "hands_on_112",
+      "_tgt": "go_append_func",
+      "source": "go_append_func",
+      "target": "hands_on_112"
+    },
+    {
+      "relation": "demonstrates",
+      "confidence": "EXTRACTED",
+      "_src": "hands_on_113",
+      "_tgt": "go_append_func",
+      "source": "go_append_func",
+      "target": "hands_on_113"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "_src": "hands_on_114",
+      "_tgt": "go_append_func",
+      "source": "go_append_func",
+      "target": "hands_on_114"
+    },
+    {
+      "relation": "demonstrates",
+      "confidence": "EXTRACTED",
+      "_src": "hands_on_114",
+      "_tgt": "go_make_func",
+      "source": "go_make_func",
+      "target": "hands_on_114"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "_src": "hands_on_122",
+      "_tgt": "go_make_func",
+      "source": "go_make_func",
+      "target": "hands_on_122"
+    },
+    {
+      "relation": "demonstrates",
+      "confidence": "EXTRACTED",
+      "_src": "hands_on_123",
+      "_tgt": "go_delete_func",
+      "source": "go_delete_func",
+      "target": "hands_on_123"
+    },
+    {
+      "relation": "demonstrates",
+      "confidence": "EXTRACTED",
+      "_src": "hands_on_114",
+      "_tgt": "go_len_func",
+      "source": "go_len_func",
+      "target": "hands_on_114"
+    },
+    {
+      "relation": "demonstrates",
+      "confidence": "EXTRACTED",
+      "_src": "hands_on_114",
+      "_tgt": "go_cap_func",
+      "source": "go_cap_func",
+      "target": "hands_on_114"
+    },
+    {
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "_src": "hands_on_109",
+      "_tgt": "fmt_pkg",
+      "source": "hands_on_109",
+      "target": "fmt_pkg"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "_src": "hands_on_110",
+      "_tgt": "go_for_loop",
+      "source": "hands_on_110",
+      "target": "go_for_loop"
+    },
+    {
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "_src": "hands_on_110",
+      "_tgt": "fmt_pkg",
+      "source": "hands_on_110",
+      "target": "fmt_pkg"
+    },
+    {
+      "relation": "demonstrates",
+      "confidence": "EXTRACTED",
+      "_src": "hands_on_111",
+      "_tgt": "go_slice_slicing",
+      "source": "hands_on_111",
+      "target": "go_slice_slicing"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "_src": "hands_on_113",
+      "_tgt": "go_slice_slicing",
+      "source": "hands_on_113",
+      "target": "go_slice_slicing"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "_src": "hands_on_121",
+      "_tgt": "go_for_loop",
+      "source": "hands_on_121",
+      "target": "go_for_loop"
+    },
+    {
+      "relation": "demonstrates",
+      "confidence": "EXTRACTED",
+      "_src": "hands_on_124",
+      "_tgt": "go_word_frequency",
+      "source": "hands_on_124",
+      "target": "go_word_frequency"
+    },
+    {
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "_src": "hands_on_129",
+      "_tgt": "person_struct",
+      "source": "hands_on_129",
+      "target": "person_struct"
+    },
+    {
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "_src": "hands_on_130",
+      "_tgt": "person_struct",
+      "source": "hands_on_130",
+      "target": "person_struct"
+    },
+    {
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "_src": "hands_on_131",
+      "_tgt": "engine_struct",
+      "source": "hands_on_131",
+      "target": "engine_struct"
+    },
+    {
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "_src": "hands_on_131",
+      "_tgt": "vehicle_struct",
+      "source": "hands_on_131",
+      "target": "vehicle_struct"
+    },
+    {
+      "relation": "demonstrates",
+      "confidence": "EXTRACTED",
+      "_src": "hands_on_55",
+      "_tgt": "go_switch_stmt",
+      "source": "hands_on_55",
+      "target": "go_switch_stmt"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "_src": "hands_on_55",
+      "_tgt": "math_rand_pkg",
+      "source": "hands_on_55",
+      "target": "math_rand_pkg"
+    },
+    {
+      "relation": "demonstrates",
+      "confidence": "EXTRACTED",
+      "_src": "hands_on_56",
+      "_tgt": "go_init_func",
+      "source": "hands_on_56",
+      "target": "go_init_func"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "_src": "hands_on_56",
+      "_tgt": "go_switch_stmt",
+      "source": "hands_on_56",
+      "target": "go_switch_stmt"
+    },
+    {
+      "relation": "demonstrates",
+      "confidence": "EXTRACTED",
+      "_src": "hands_on_77",
+      "_tgt": "go_if_stmt",
+      "source": "hands_on_77",
+      "target": "go_if_stmt"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "_src": "hands_on_77",
+      "_tgt": "math_rand_pkg",
+      "source": "hands_on_77",
+      "target": "math_rand_pkg"
+    },
+    {
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "_src": "hands_on_79",
+      "_tgt": "puppy_pkg",
+      "source": "hands_on_79",
+      "target": "puppy_pkg"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "_src": "hands_on_80",
+      "_tgt": "math_rand_pkg",
+      "source": "hands_on_80",
+      "target": "math_rand_pkg"
+    },
+    {
+      "relation": "uses",
+      "confidence": "INFERRED",
+      "_src": "go_word_frequency",
+      "_tgt": "go_for_loop",
+      "source": "go_for_loop",
+      "target": "go_word_frequency"
+    },
+    {
+      "relation": "embeds",
+      "confidence": "EXTRACTED",
+      "_src": "vehicle_struct",
+      "_tgt": "engine_struct",
+      "source": "engine_struct",
+      "target": "vehicle_struct"
+    },
+    {
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "_src": "pkg_main",
+      "_tgt": "math_rand_pkg",
+      "source": "math_rand_pkg",
+      "target": "pkg_main"
+    },
+    {
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "_src": "pkg_main",
+      "_tgt": "fmt_pkg",
+      "source": "fmt_pkg",
+      "target": "pkg_main"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "_src": "pkg_main",
+      "_tgt": "main_fn",
+      "source": "pkg_main",
+      "target": "main_fn"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "_src": "main_fn",
+      "_tgt": "greet",
+      "source": "main_fn",
+      "target": "greet"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "_src": "main_fn",
+      "_tgt": "greetWithName",
+      "source": "main_fn",
+      "target": "greetWithName"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "_src": "main_fn",
+      "_tgt": "greetWithNameAndReturn",
+      "source": "main_fn",
+      "target": "greetWithNameAndReturn"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "_src": "main_fn",
+      "_tgt": "dogdetails",
+      "source": "main_fn",
+      "target": "dogdetails"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "_src": "main_fn",
+      "_tgt": "Greeting",
+      "source": "main_fn",
+      "target": "Greeting"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "_src": "main_fn",
+      "_tgt": "foo",
+      "source": "main_fn",
+      "target": "foo"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "_src": "main_fn",
+      "_tgt": "calculator",
+      "source": "main_fn",
+      "target": "calculator"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "_src": "main_fn",
+      "_tgt": "incrementor",
+      "source": "main_fn",
+      "target": "incrementor"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "_src": "main_fn",
+      "_tgt": "anonymous_fn",
+      "source": "main_fn",
+      "target": "anonymous_fn"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "_src": "main_fn",
+      "_tgt": "func_expr",
+      "source": "main_fn",
+      "target": "func_expr"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "_src": "main_fn",
+      "_tgt": "switch_stmt",
+      "source": "main_fn",
+      "target": "switch_stmt"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "_src": "main_fn",
+      "_tgt": "for_loop",
+      "source": "main_fn",
+      "target": "for_loop"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "_src": "main_fn",
+      "_tgt": "range_loop",
+      "source": "main_fn",
+      "target": "range_loop"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "_src": "main_fn",
+      "_tgt": "if_else",
+      "source": "main_fn",
+      "target": "if_else"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "_src": "main_fn",
+      "_tgt": "arrays",
+      "source": "main_fn",
+      "target": "arrays"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "_src": "main_fn",
+      "_tgt": "maps",
+      "source": "main_fn",
+      "target": "maps"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "_src": "greet",
+      "_tgt": "fmt_Println",
+      "source": "greet",
+      "target": "fmt_Println"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "_src": "greetWithName",
+      "_tgt": "fmt_Printf",
+      "source": "greetWithName",
+      "target": "fmt_Printf"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "_src": "greetWithNameAndReturn",
+      "_tgt": "fmt_Println",
+      "source": "greetWithNameAndReturn",
+      "target": "fmt_Println"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "_src": "dogdetails",
+      "_tgt": "fmt_Println",
+      "source": "dogdetails",
+      "target": "fmt_Println"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "_src": "Greeting",
+      "_tgt": "fmt_Println",
+      "source": "Greeting",
+      "target": "fmt_Println"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "_src": "Greeting",
+      "_tgt": "variadic_params",
+      "source": "Greeting",
+      "target": "variadic_params"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "_src": "foo",
+      "_tgt": "fmt_Println",
+      "source": "foo",
+      "target": "fmt_Println"
+    },
+    {
+      "relation": "returns",
+      "confidence": "EXTRACTED",
+      "_src": "bar",
+      "_tgt": "anonymous_fn",
+      "source": "bar",
+      "target": "anonymous_fn"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "_src": "calculator",
+      "_tgt": "callback",
+      "source": "calculator",
+      "target": "callback"
+    },
+    {
+      "relation": "accepts_as_parameter",
+      "confidence": "EXTRACTED",
+      "_src": "calculator",
+      "_tgt": "addnumber",
+      "source": "calculator",
+      "target": "addnumber"
+    },
+    {
+      "relation": "accepts_as_parameter",
+      "confidence": "EXTRACTED",
+      "_src": "calculator",
+      "_tgt": "subnumber",
+      "source": "calculator",
+      "target": "subnumber"
+    },
+    {
+      "relation": "is_callback_for",
+      "confidence": "INFERRED",
+      "_src": "addnumber",
+      "_tgt": "callback",
+      "source": "addnumber",
+      "target": "callback"
+    },
+    {
+      "relation": "is_callback_for",
+      "confidence": "INFERRED",
+      "_src": "subnumber",
+      "_tgt": "callback",
+      "source": "subnumber",
+      "target": "callback"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "_src": "incrementor",
+      "_tgt": "closure",
+      "source": "incrementor",
+      "target": "closure"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "_src": "closure",
+      "_tgt": "anonymous_fn",
+      "source": "anonymous_fn",
+      "target": "closure"
+    },
+    {
+      "relation": "assigns",
+      "confidence": "EXTRACTED",
+      "_src": "func_expr",
+      "_tgt": "anonymous_fn",
+      "source": "anonymous_fn",
+      "target": "func_expr"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "_src": "for_loop",
+      "_tgt": "switch_stmt",
+      "source": "switch_stmt",
+      "target": "for_loop"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "_src": "for_loop",
+      "_tgt": "rand_Intn",
+      "source": "for_loop",
+      "target": "rand_Intn"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "_src": "for_loop",
+      "_tgt": "fmt_Printf",
+      "source": "for_loop",
+      "target": "fmt_Printf"
+    },
+    {
+      "relation": "iterates",
+      "confidence": "EXTRACTED",
+      "_src": "range_loop",
+      "_tgt": "arrays",
+      "source": "range_loop",
+      "target": "arrays"
+    },
+    {
+      "relation": "iterates",
+      "confidence": "EXTRACTED",
+      "_src": "range_loop",
+      "_tgt": "maps",
+      "source": "range_loop",
+      "target": "maps"
+    },
+    {
+      "relation": "iterates",
+      "confidence": "EXTRACTED",
+      "_src": "range_loop",
+      "_tgt": "slices",
+      "source": "range_loop",
+      "target": "slices"
+    },
+    {
+      "relation": "practices",
+      "confidence": "EXTRACTED",
+      "_src": "ho81",
+      "_tgt": "if_else",
+      "source": "if_else",
+      "target": "ho81"
+    },
+    {
+      "relation": "practices",
+      "confidence": "EXTRACTED",
+      "_src": "ho83",
+      "_tgt": "if_else",
+      "source": "if_else",
+      "target": "ho83"
+    },
+    {
+      "relation": "practices",
+      "confidence": "EXTRACTED",
+      "_src": "ho84",
+      "_tgt": "if_else",
+      "source": "if_else",
+      "target": "ho84"
+    },
+    {
+      "relation": "practices",
+      "confidence": "EXTRACTED",
+      "_src": "ho90",
+      "_tgt": "slices",
+      "source": "slices",
+      "target": "ho90"
+    },
+    {
+      "relation": "iterates_over",
+      "confidence": "EXTRACTED",
+      "_src": "range",
+      "_tgt": "slices",
+      "source": "slices",
+      "target": "range"
+    },
+    {
+      "relation": "contrasted with",
+      "confidence": "EXTRACTED",
+      "_src": "fixed_arrays",
+      "_tgt": "slices",
+      "source": "slices",
+      "target": "fixed_arrays"
+    },
+    {
+      "relation": "practices",
+      "confidence": "EXTRACTED",
+      "_src": "ho123",
+      "_tgt": "maps",
+      "source": "maps",
+      "target": "ho123"
+    },
+    {
+      "relation": "practices",
+      "confidence": "EXTRACTED",
+      "_src": "ho124",
+      "_tgt": "maps",
+      "source": "maps",
+      "target": "ho124"
+    },
+    {
+      "relation": "practices",
+      "confidence": "EXTRACTED",
+      "_src": "ho130",
+      "_tgt": "maps",
+      "source": "maps",
+      "target": "ho130"
+    },
+    {
+      "relation": "operates_on",
+      "confidence": "EXTRACTED",
+      "_src": "map_iteration",
+      "_tgt": "maps",
+      "source": "maps",
+      "target": "map_iteration"
+    },
+    {
+      "relation": "operates_on",
+      "confidence": "EXTRACTED",
+      "_src": "delete_op",
+      "_tgt": "maps",
+      "source": "maps",
+      "target": "delete_op"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "_src": "map_counting",
+      "_tgt": "maps",
+      "source": "maps",
+      "target": "map_counting"
+    },
+    {
+      "relation": "iterates over",
+      "confidence": "EXTRACTED",
+      "_src": "range_operator",
+      "_tgt": "maps",
+      "source": "maps",
+      "target": "range_operator"
+    },
+    {
+      "relation": "checks key existence in",
+      "confidence": "EXTRACTED",
+      "_src": "comma_ok_idiom",
+      "_tgt": "maps",
+      "source": "maps",
+      "target": "comma_ok_idiom"
+    },
+    {
+      "relation": "includes",
+      "confidence": "EXTRACTED",
+      "_src": "function_params",
+      "_tgt": "variadic_params",
+      "source": "variadic_params",
+      "target": "function_params"
+    },
+    {
+      "relation": "has",
+      "confidence": "EXTRACTED",
+      "_src": "func_basics",
+      "_tgt": "func_parameters",
+      "source": "func_basics",
+      "target": "func_parameters"
+    },
+    {
+      "relation": "has",
+      "confidence": "EXTRACTED",
+      "_src": "func_basics",
+      "_tgt": "func_returns",
+      "source": "func_basics",
+      "target": "func_returns"
+    },
+    {
+      "relation": "has",
+      "confidence": "EXTRACTED",
+      "_src": "func_basics",
+      "_tgt": "func_receiver",
+      "source": "func_basics",
+      "target": "func_receiver"
+    },
+    {
+      "relation": "practiced_in",
+      "confidence": "INFERRED",
+      "_src": "slice_operations",
+      "_tgt": "func_basics",
+      "source": "func_basics",
+      "target": "slice_operations"
+    },
+    {
+      "relation": "practiced_in",
+      "confidence": "INFERRED",
+      "_src": "map_operations",
+      "_tgt": "func_basics",
+      "source": "func_basics",
+      "target": "map_operations"
+    },
+    {
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "_src": "methods",
+      "_tgt": "func_receiver",
+      "source": "func_receiver",
+      "target": "methods"
+    },
+    {
+      "relation": "requires",
+      "confidence": "EXTRACTED",
+      "_src": "recursion",
+      "_tgt": "base_case",
+      "source": "recursion",
+      "target": "base_case"
+    },
+    {
+      "relation": "exemplified_by",
+      "confidence": "EXTRACTED",
+      "_src": "recursion",
+      "_tgt": "factorial_problem",
+      "source": "recursion",
+      "target": "factorial_problem"
+    },
+    {
+      "relation": "technique within",
+      "confidence": "INFERRED",
+      "_src": "recursion",
+      "_tgt": "function_decl",
+      "source": "recursion",
+      "target": "function_decl"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "_src": "factorial_problem",
+      "_tgt": "base_case",
+      "source": "base_case",
+      "target": "factorial_problem"
+    },
+    {
+      "relation": "operates_on",
+      "confidence": "EXTRACTED",
+      "_src": "methods",
+      "_tgt": "struct_types",
+      "source": "methods",
+      "target": "struct_types"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "_src": "dog_struct",
+      "_tgt": "methods",
+      "source": "methods",
+      "target": "dog_struct"
+    },
+    {
+      "relation": "define contract for",
+      "confidence": "EXTRACTED",
+      "_src": "interfaces",
+      "_tgt": "methods",
+      "source": "methods",
+      "target": "interfaces"
+    },
+    {
+      "relation": "enable",
+      "confidence": "EXTRACTED",
+      "_src": "methods",
+      "_tgt": "polymorphism",
+      "source": "methods",
+      "target": "polymorphism"
+    },
+    {
+      "relation": "specializes",
+      "confidence": "EXTRACTED",
+      "_src": "embedded_struct",
+      "_tgt": "struct_types",
+      "source": "struct_types",
+      "target": "embedded_struct"
+    },
+    {
+      "relation": "combines",
+      "confidence": "EXTRACTED",
+      "_src": "composition",
+      "_tgt": "struct_types",
+      "source": "struct_types",
+      "target": "composition"
+    },
+    {
+      "relation": "specializes",
+      "confidence": "EXTRACTED",
+      "_src": "anonymous_struct",
+      "_tgt": "struct_types",
+      "source": "struct_types",
+      "target": "anonymous_struct"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "_src": "struct_types",
+      "_tgt": "struct_embedding",
+      "source": "struct_types",
+      "target": "struct_embedding"
+    },
+    {
+      "relation": "includes",
+      "confidence": "EXTRACTED",
+      "_src": "struct_types",
+      "_tgt": "anonymous_structs",
+      "source": "struct_types",
+      "target": "anonymous_structs"
+    },
+    {
+      "relation": "supertype of",
+      "confidence": "INFERRED",
+      "_src": "struct_types",
+      "_tgt": "person_type",
+      "source": "struct_types",
+      "target": "person_type"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "_src": "owner_struct",
+      "_tgt": "embedded_struct",
+      "source": "embedded_struct",
+      "target": "owner_struct"
+    },
+    {
+      "relation": "practices",
+      "confidence": "EXTRACTED",
+      "_src": "ho131",
+      "_tgt": "composition",
+      "source": "composition",
+      "target": "ho131"
+    },
+    {
+      "relation": "pattern_of",
+      "confidence": "EXTRACTED",
+      "_src": "composition",
+      "_tgt": "structs",
+      "source": "composition",
+      "target": "structs"
+    },
+    {
+      "relation": "enabled_by",
+      "confidence": "EXTRACTED",
+      "_src": "polymorphism",
+      "_tgt": "interfaces",
+      "source": "interfaces",
+      "target": "polymorphism"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "_src": "stringer_interface",
+      "_tgt": "interfaces",
+      "source": "interfaces",
+      "target": "stringer_interface"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "_src": "writer_interface",
+      "_tgt": "interfaces",
+      "source": "interfaces",
+      "target": "writer_interface"
+    },
+    {
+      "relation": "accepts_as_argument",
+      "confidence": "EXTRACTED",
+      "_src": "wrapper_function",
+      "_tgt": "interfaces",
+      "source": "interfaces",
+      "target": "wrapper_function"
+    },
+    {
+      "relation": "requires implementation of",
+      "confidence": "EXTRACTED",
+      "_src": "stringer_interface",
+      "_tgt": "string_method",
+      "source": "stringer_interface",
+      "target": "string_method"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "_src": "book_struct",
+      "_tgt": "stringer_interface",
+      "source": "stringer_interface",
+      "target": "book_struct"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "_src": "count_type",
+      "_tgt": "stringer_interface",
+      "source": "stringer_interface",
+      "target": "count_type"
+    },
+    {
+      "relation": "provides_utilities_for",
+      "confidence": "INFERRED",
+      "_src": "fmt_package",
+      "_tgt": "string_method",
+      "source": "string_method",
+      "target": "fmt_package"
+    },
+    {
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "_src": "writer_interface",
+      "_tgt": "write_method",
+      "source": "writer_interface",
+      "target": "write_method"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "_src": "person_type",
+      "_tgt": "writer_interface",
+      "source": "writer_interface",
+      "target": "person_type"
+    },
+    {
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "_src": "io_package",
+      "_tgt": "writer_interface",
+      "source": "writer_interface",
+      "target": "io_package"
+    },
+    {
+      "relation": "abstracts",
+      "confidence": "EXTRACTED",
+      "_src": "writer_interface",
+      "_tgt": "file_operations",
+      "source": "writer_interface",
+      "target": "file_operations"
+    },
+    {
+      "relation": "abstracts",
+      "confidence": "EXTRACTED",
+      "_src": "writer_interface",
+      "_tgt": "bytes_buffer",
+      "source": "writer_interface",
+      "target": "bytes_buffer"
+    },
+    {
+      "relation": "is",
+      "confidence": "EXTRACTED",
+      "_src": "writer_interface",
+      "_tgt": "io_writer",
+      "source": "writer_interface",
+      "target": "io_writer"
+    },
+    {
+      "relation": "accepts",
+      "confidence": "EXTRACTED",
+      "_src": "writertest_method",
+      "_tgt": "writer_interface",
+      "source": "writer_interface",
+      "target": "writertest_method"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "_src": "bytes_buffer",
+      "_tgt": "write_method",
+      "source": "write_method",
+      "target": "bytes_buffer"
+    },
+    {
+      "relation": "enables",
+      "confidence": "EXTRACTED",
+      "_src": "write_method",
+      "_tgt": "file_operations",
+      "source": "write_method",
+      "target": "file_operations"
+    },
+    {
+      "relation": "uses_for",
+      "confidence": "EXTRACTED",
+      "_src": "wrapper_function",
+      "_tgt": "logging",
+      "source": "wrapper_function",
+      "target": "logging"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "_src": "file_operations",
+      "_tgt": "os_package",
+      "source": "file_operations",
+      "target": "os_package"
+    },
+    {
+      "relation": "requires",
+      "confidence": "EXTRACTED",
+      "_src": "file_operations",
+      "_tgt": "error_handling",
+      "source": "file_operations",
+      "target": "error_handling"
+    },
+    {
+      "relation": "from",
+      "confidence": "EXTRACTED",
+      "_src": "bytes_buffer",
+      "_tgt": "bytes_package",
+      "source": "bytes_buffer",
+      "target": "bytes_package"
+    },
+    {
+      "relation": "satisfied by",
+      "confidence": "EXTRACTED",
+      "_src": "io_writer",
+      "_tgt": "bytes_buffer",
+      "source": "bytes_buffer",
+      "target": "io_writer"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "_src": "logging",
+      "_tgt": "log_package",
+      "source": "logging",
+      "target": "log_package"
+    },
+    {
+      "relation": "embeds",
+      "confidence": "EXTRACTED",
+      "_src": "owner_struct",
+      "_tgt": "dog_struct",
+      "source": "dog_struct",
+      "target": "owner_struct"
+    },
+    {
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "_src": "person_type",
+      "_tgt": "writertest_method",
+      "source": "person_type",
+      "target": "writertest_method"
+    },
+    {
+      "relation": "teaches",
+      "confidence": "EXTRACTED",
+      "_src": "go_course",
+      "_tgt": "go_language",
+      "source": "go_course",
+      "target": "go_language"
+    },
+    {
+      "relation": "instructs",
+      "confidence": "EXTRACTED",
+      "_src": "todd_mcleod",
+      "_tgt": "go_course",
+      "source": "go_course",
+      "target": "todd_mcleod"
+    },
+    {
+      "relation": "development_environment_for",
+      "confidence": "EXTRACTED",
+      "_src": "wsl_setup",
+      "_tgt": "go_language",
+      "source": "go_language",
+      "target": "wsl_setup"
+    },
+    {
+      "relation": "configures",
+      "confidence": "EXTRACTED",
+      "_src": "ansible_automation",
+      "_tgt": "wsl_setup",
+      "source": "wsl_setup",
+      "target": "ansible_automation"
+    },
+    {
+      "relation": "practices",
+      "confidence": "EXTRACTED",
+      "_src": "ho123",
+      "_tgt": "map_iteration",
+      "source": "ho123",
+      "target": "map_iteration"
+    },
+    {
+      "relation": "practices",
+      "confidence": "EXTRACTED",
+      "_src": "ho123",
+      "_tgt": "delete_op",
+      "source": "ho123",
+      "target": "delete_op"
+    },
+    {
+      "relation": "practices",
+      "confidence": "EXTRACTED",
+      "_src": "ho124",
+      "_tgt": "map_counting",
+      "source": "ho124",
+      "target": "map_counting"
+    },
+    {
+      "relation": "practices",
+      "confidence": "EXTRACTED",
+      "_src": "ho124",
+      "_tgt": "word_frequency",
+      "source": "ho124",
+      "target": "word_frequency"
+    },
+    {
+      "relation": "practices",
+      "confidence": "EXTRACTED",
+      "_src": "ho129",
+      "_tgt": "structs",
+      "source": "ho129",
+      "target": "structs"
+    },
+    {
+      "relation": "practices",
+      "confidence": "EXTRACTED",
+      "_src": "ho129",
+      "_tgt": "struct_fields",
+      "source": "ho129",
+      "target": "struct_fields"
+    },
+    {
+      "relation": "practices",
+      "confidence": "EXTRACTED",
+      "_src": "ho130",
+      "_tgt": "structs",
+      "source": "ho130",
+      "target": "structs"
+    },
+    {
+      "relation": "practices",
+      "confidence": "EXTRACTED",
+      "_src": "ho131",
+      "_tgt": "struct_embedding",
+      "source": "ho131",
+      "target": "struct_embedding"
+    },
+    {
+      "relation": "practices",
+      "confidence": "EXTRACTED",
+      "_src": "ho132",
+      "_tgt": "anonymous_structs",
+      "source": "ho132",
+      "target": "anonymous_structs"
+    },
+    {
+      "relation": "practices",
+      "confidence": "EXTRACTED",
+      "_src": "ho55",
+      "_tgt": "variables",
+      "source": "ho55",
+      "target": "variables"
+    },
+    {
+      "relation": "practices",
+      "confidence": "EXTRACTED",
+      "_src": "ho55",
+      "_tgt": "constants",
+      "source": "ho55",
+      "target": "constants"
+    },
+    {
+      "relation": "practices",
+      "confidence": "EXTRACTED",
+      "_src": "ho55",
+      "_tgt": "package_scope",
+      "source": "ho55",
+      "target": "package_scope"
+    },
+    {
+      "relation": "practices",
+      "confidence": "EXTRACTED",
+      "_src": "ho56",
+      "_tgt": "packages",
+      "source": "ho56",
+      "target": "packages"
+    },
+    {
+      "relation": "practices",
+      "confidence": "EXTRACTED",
+      "_src": "ho56",
+      "_tgt": "imports",
+      "source": "ho56",
+      "target": "imports"
+    },
+    {
+      "relation": "practices",
+      "confidence": "EXTRACTED",
+      "_src": "ho77",
+      "_tgt": "switch",
+      "source": "ho77",
+      "target": "switch"
+    },
+    {
+      "relation": "practices",
+      "confidence": "EXTRACTED",
+      "_src": "ho77",
+      "_tgt": "case_blocks",
+      "source": "ho77",
+      "target": "case_blocks"
+    },
+    {
+      "relation": "practices",
+      "confidence": "EXTRACTED",
+      "_src": "ho79",
+      "_tgt": "switch",
+      "source": "ho79",
+      "target": "switch"
+    },
+    {
+      "relation": "practices",
+      "confidence": "EXTRACTED",
+      "_src": "ho79",
+      "_tgt": "random",
+      "source": "ho79",
+      "target": "random"
+    },
+    {
+      "relation": "practices",
+      "confidence": "EXTRACTED",
+      "_src": "ho80",
+      "_tgt": "init_func",
+      "source": "ho80",
+      "target": "init_func"
+    },
+    {
+      "relation": "practices",
+      "confidence": "EXTRACTED",
+      "_src": "ho80",
+      "_tgt": "main_func",
+      "source": "ho80",
+      "target": "main_func"
+    },
+    {
+      "relation": "practices",
+      "confidence": "EXTRACTED",
+      "_src": "ho80",
+      "_tgt": "switch",
+      "source": "ho80",
+      "target": "switch"
+    },
+    {
+      "relation": "practices",
+      "confidence": "EXTRACTED",
+      "_src": "ho81",
+      "_tgt": "comparison_ops",
+      "source": "ho81",
+      "target": "comparison_ops"
+    },
+    {
+      "relation": "practices",
+      "confidence": "EXTRACTED",
+      "_src": "ho82",
+      "_tgt": "switch",
+      "source": "ho82",
+      "target": "switch"
+    },
+    {
+      "relation": "practices",
+      "confidence": "EXTRACTED",
+      "_src": "ho82",
+      "_tgt": "for_loops",
+      "source": "ho82",
+      "target": "for_loops"
+    },
+    {
+      "relation": "practices",
+      "confidence": "EXTRACTED",
+      "_src": "ho82",
+      "_tgt": "random",
+      "source": "ho82",
+      "target": "random"
+    },
+    {
+      "relation": "practices",
+      "confidence": "EXTRACTED",
+      "_src": "ho83",
+      "_tgt": "boolean_conditions",
+      "source": "ho83",
+      "target": "boolean_conditions"
+    },
+    {
+      "relation": "practices",
+      "confidence": "EXTRACTED",
+      "_src": "ho84",
+      "_tgt": "switch",
+      "source": "ho84",
+      "target": "switch"
+    },
+    {
+      "relation": "practices",
+      "confidence": "EXTRACTED",
+      "_src": "ho85",
+      "_tgt": "for_loops",
+      "source": "ho85",
+      "target": "for_loops"
+    },
+    {
+      "relation": "practices",
+      "confidence": "EXTRACTED",
+      "_src": "ho86",
+      "_tgt": "infinite_loops",
+      "source": "ho86",
+      "target": "infinite_loops"
+    },
+    {
+      "relation": "practices",
+      "confidence": "EXTRACTED",
+      "_src": "ho87",
+      "_tgt": "for_loops",
+      "source": "ho87",
+      "target": "for_loops"
+    },
+    {
+      "relation": "practices",
+      "confidence": "EXTRACTED",
+      "_src": "ho87",
+      "_tgt": "break",
+      "source": "ho87",
+      "target": "break"
+    },
+    {
+      "relation": "practices",
+      "confidence": "EXTRACTED",
+      "_src": "ho88",
+      "_tgt": "for_loops",
+      "source": "ho88",
+      "target": "for_loops"
+    },
+    {
+      "relation": "practices",
+      "confidence": "EXTRACTED",
+      "_src": "ho88",
+      "_tgt": "modulo",
+      "source": "ho88",
+      "target": "modulo"
+    },
+    {
+      "relation": "practices",
+      "confidence": "EXTRACTED",
+      "_src": "ho89",
+      "_tgt": "nested_loops",
+      "source": "ho89",
+      "target": "nested_loops"
+    },
+    {
+      "relation": "practices",
+      "confidence": "EXTRACTED",
+      "_src": "ho90",
+      "_tgt": "range",
+      "source": "ho90",
+      "target": "range"
+    },
+    {
+      "relation": "extends",
+      "confidence": "INFERRED",
+      "_src": "word_frequency",
+      "_tgt": "map_counting",
+      "source": "map_counting",
+      "target": "word_frequency"
+    },
+    {
+      "relation": "applies_to",
+      "confidence": "EXTRACTED",
+      "_src": "struct_embedding",
+      "_tgt": "structs",
+      "source": "structs",
+      "target": "struct_embedding"
+    },
+    {
+      "relation": "variant_of",
+      "confidence": "EXTRACTED",
+      "_src": "anonymous_structs",
+      "_tgt": "structs",
+      "source": "structs",
+      "target": "anonymous_structs"
+    },
+    {
+      "relation": "affects",
+      "confidence": "INFERRED",
+      "_src": "package_scope",
+      "_tgt": "packages",
+      "source": "package_scope",
+      "target": "packages"
+    },
+    {
+      "relation": "mechanism_for_using",
+      "confidence": "INFERRED",
+      "_src": "imports",
+      "_tgt": "packages",
+      "source": "packages",
+      "target": "imports"
+    },
+    {
+      "relation": "component_of",
+      "confidence": "EXTRACTED",
+      "_src": "case_blocks",
+      "_tgt": "switch",
+      "source": "switch",
+      "target": "case_blocks"
+    },
+    {
+      "relation": "controlled_by",
+      "confidence": "INFERRED",
+      "_src": "for_loops",
+      "_tgt": "break",
+      "source": "for_loops",
+      "target": "break"
+    },
+    {
+      "relation": "composed_of",
+      "confidence": "EXTRACTED",
+      "_src": "nested_loops",
+      "_tgt": "for_loops",
+      "source": "for_loops",
+      "target": "nested_loops"
+    },
+    {
+      "relation": "runs_before",
+      "confidence": "EXTRACTED",
+      "_src": "init_func",
+      "_tgt": "main_func",
+      "source": "init_func",
+      "target": "main_func"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "_src": "array_iteration",
+      "_tgt": "range_operator",
+      "source": "range_operator",
+      "target": "array_iteration"
+    },
+    {
+      "relation": "scoped inside",
+      "confidence": "EXTRACTED",
+      "_src": "short_var_decl",
+      "_tgt": "if_statements",
+      "source": "short_var_decl",
+      "target": "if_statements"
+    },
+    {
+      "relation": "combines conditions in",
+      "confidence": "EXTRACTED",
+      "_src": "boolean_logic",
+      "_tgt": "if_statements",
+      "source": "if_statements",
+      "target": "boolean_logic"
+    },
+    {
+      "relation": "defined using",
+      "confidence": "EXTRACTED",
+      "_src": "fixed_arrays",
+      "_tgt": "array_literals",
+      "source": "fixed_arrays",
+      "target": "array_literals"
+    },
+    {
+      "relation": "has",
+      "confidence": "EXTRACTED",
+      "_src": "function_decl",
+      "_tgt": "function_params",
+      "source": "function_decl",
+      "target": "function_params"
+    },
+    {
+      "relation": "has",
+      "confidence": "EXTRACTED",
+      "_src": "function_decl",
+      "_tgt": "return_values",
+      "source": "function_decl",
+      "target": "return_values"
+    },
+    {
+      "relation": "passed as",
+      "confidence": "INFERRED",
+      "_src": "callbacks",
+      "_tgt": "function_params",
+      "source": "function_params",
+      "target": "callbacks"
+    },
+    {
+      "relation": "related to",
+      "confidence": "INFERRED",
+      "_src": "anonymous_functions",
+      "_tgt": "function_expressions",
+      "source": "anonymous_functions",
+      "target": "function_expressions"
+    },
+    {
+      "relation": "often used with",
+      "confidence": "INFERRED",
+      "_src": "closures",
+      "_tgt": "anonymous_functions",
+      "source": "anonymous_functions",
+      "target": "closures"
+    },
+    {
+      "relation": "form of",
+      "confidence": "INFERRED",
+      "_src": "returning_functions",
+      "_tgt": "function_expressions",
+      "source": "function_expressions",
+      "target": "returning_functions"
+    },
+    {
+      "relation": "type of",
+      "confidence": "INFERRED",
+      "_src": "wrapper_functions",
+      "_tgt": "function_expressions",
+      "source": "function_expressions",
+      "target": "wrapper_functions"
+    },
+    {
+      "relation": "satisfied by",
+      "confidence": "EXTRACTED",
+      "_src": "io_writer",
+      "_tgt": "os_file",
+      "source": "io_writer",
+      "target": "os_file"
+    },
+    {
+      "relation": "writes to",
+      "confidence": "EXTRACTED",
+      "_src": "writertest_method",
+      "_tgt": "new_file_txt",
+      "source": "writertest_method",
+      "target": "new_file_txt"
+    }
+  ]
+}

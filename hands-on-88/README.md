@@ -1,11 +1,12 @@
 # hands-on-88
 
 ## Purpose
-Practice from Go video lessons, followed by my own example implementation.
+Practice iterating over slices with `range`.
 
 ## What I Practiced
-- Video concept:
-- My own example:
+- Declaring a slice of integers.
+- Using `range` to get both index and value.
+- Printing each element in order.
 
 ## Run
 ```bash
@@ -13,6 +14,6 @@ go run .
 ```
 
 ## Notes
-- Practiced using modulo (`%`) checks inside loops.
-- Reinforced condition-based filtering during iteration.
-- Writing my own example improved number-pattern reasoning.
+- The program prints each slice index alongside its value.
+- This example is about `range`, not modulo-based loop filtering.
+- It shows the idiomatic pattern for reading slice content.
