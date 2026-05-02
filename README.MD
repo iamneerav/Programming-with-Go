@@ -75,7 +75,7 @@ The script checks each `hands-on-*` (and `hands-on-understanding-*`) folder and 
 - Setup guide: [docs/dev-environment-windows-wsl.md](docs/dev-environment-windows-wsl.md)
 - Ansible bootstrap playbook: [ansible/dev-tools.yml](ansible/dev-tools.yml)
 - `direnv` template: [.envrc.example](.envrc.example)
-
+  
 ## Roadmap
 
 - [x] Add a short description to each `hands-on-*` folder
